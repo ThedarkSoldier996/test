@@ -34,49 +34,6 @@
   },
   {
     "type": "category",
-    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "COPA DEL REY - EVENTOS",
-    "items": [
-      {
-        "name": "EVENTOS FLOW 1 COPA DEL REY",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
-        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "EVENTOS FLOW 2",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
-        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    ]
-  },
-  {
-    "type": "category",
     "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
     "title": "PARAGUAY",
     "items": [
@@ -710,82 +667,21 @@
     "items": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "http://tv.m3uts.xyz/stream/secure/ZGLjKmZkZy8kZmthAGxhZwV2YwtmKmR3AmH2BQHlAQusLJV2ZmAzAGp1MTEzMwqvLy8j/312.m3u8",
+        "url": "https://ym9yzq.fubohd.com/dsports/mono.m3u8?token=cdac645beddcc6f57f9d33524d8c611a67566b2a-5f-1777251664-1777233664",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
-        "headers": [
-          {
-            "name": "X-App",
-            "value": "di"
-          },
-          {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
-          }
-        ]
       },
       {
         "name": "DIRECTV SPORTS 2",
-        "url": "http://tv.m3uts.xyz/stream/secure/AmHjKmZkA18kZmthAGxhZwV2YwtmKmR3AmH2BQH0AmIsLJV2ZmAzAGp1MTEzMwqvLy8j/317.m3u8",
+        "url": "https://wp9xqedt.fubohd.com/dsports2/mono.m3u8?token=e54e4e9c2c743dbf483397a27ed9a35b11b06a03-19-1777251719-1777233719",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
-        "headers": [
-          {
-            "name": "X-App",
-            "value": "di"
-          },
-          {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
-          }
-        ]
       },
       {
         "name": "DIRECTV SPORTS PLUS",
-        "url": "http://tv.m3uts.xyz/stream/secure/ZGN3KmZkAS8kZmthAGxhZwV2YwtmKmR3AmH2BQH0ZGSsLJV2ZmAzAGp1MTEzMwqvLy8j/314.m3u8",
+        "url": "https://cgxheq.fubohd.com/dsportsplus/mono.m3u8?token=b0797094999a54647211b088880a921b7f25e120-61-1777251372-1777233372",
         "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
-        "headers": [
-          {
-            "name": "X-App",
-            "value": "di"
-          },
-          {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
-          }
-        ]
-      }
-    ]
   },
-  {
+
+      {
     "type": "category",
     "image": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
     "title": "COMBAT UFC WWE",
