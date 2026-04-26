@@ -5,30 +5,30 @@
     "title": "Actualice Su App",
     "items": [
       {
-        "name": "esta version",
+        "name": "T¡GO $PORT$ - LANC 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "sera dado",
+        "name": "T¡GO $PORT$ - LANC 2",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "de baja",
+        "name": "T¡GO $PORT$ - LANC 3",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "24hs",
+        "name": "T¡GO $PORT$ - LANC 4",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       }
     ]
   },
