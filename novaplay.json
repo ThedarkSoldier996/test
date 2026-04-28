@@ -133,9 +133,9 @@
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
       },
       {
-        "name": "HEI",
-        "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-        "icono": "https://i.ibb.co/1fL1SsSm/image.png"
+        "name": "RCC",
+        "url": "https://zn1radios.desdeparaguay.net/rcctv/rcctv/chunklist_w1861373147.m3u8?k=b384c9b3546db887639927ce4fc2268bc5136ba91d3df11ba8d14c49940a2bbb&exp=1777370953",
+        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/rcctv.png"
       },
       {
         "name": "ASPEN FM - TV ",
@@ -148,7 +148,7 @@
         "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
         {
-        "name": "FARRA PLAY ",
+        "name": "FARRA PLAY (NO ES 24/7) ",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
         "icono": "https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png"
       },
