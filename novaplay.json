@@ -34,7 +34,7 @@
       {
         "name": "NOVAPLAY EVENTOS",        
         "url": "https://afy4c.envivoslatam.org/disney3/tracks-v1a1/mono.m3u8?token=ff87d80fad14f7f1b0ba72aeab5518c0a239311e-cb-1777628509-1777574509",
-        "icono": "https://i.ibb.co/gFgtBNQr/file-00000000176471fb9548814e8be559be.png"
+        "icono": "https://i.ibb.co/TD2tZc5z/image-1156.jpg"
       },
       {
         "name": "ESPN EVENTOS",
@@ -212,7 +212,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "Canal 9 Resistencia",
+        "name": "CANAL 9 RESISTENCIA",
         "icono": "https://i.ibb.co/k6PjPWfN/Canal-Nueve-Resistencia-29.png",
         "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
         "type": "CLEARKEY",
@@ -248,7 +248,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "El Trece",
+        "name": "EL TRECE",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",
         "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
         "type": "CLEARKEY",
@@ -378,7 +378,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
-    "title": "⚽ ESPN ⚽ - EN CONSTRUCCIÓN",
+    "title": "⚽ ESPN ⚽",
     "items": [
       {
         "name": "ESPN1 - NO FUNCIONA",
@@ -540,7 +540,7 @@
         "name": "FOX DEPORTES USA",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/120px-FOX_Deportes_logo.svg.png",
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-        "texto": "Español"
+        "texto": "IDIOMA: ESPAÑOL"
       }
     ]
       },
@@ -560,21 +560,21 @@
       },
       {
         "visible": "true",
-        "name": "Series Criminales",
+        "name": "SERIES CRIMINALES",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "icono": "https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "PlutoTV K-Drama",
+        "name": "PLUTOTV K-DRAMA",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "icono": "https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "Coreano by CJ ENM",
+        "name": "COREANO BY CJ ENM",
         "url": "https://jmp2.uk/stvp-ES1700003C6",
         "icono": "https://i.ibb.co/0pgV1VvB/ES1700003-C6-20250826-T004843-SQUARE.png",
         "type": "hls"
@@ -622,7 +622,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "beIN Sports Ñ",
+        "name": "BEIN SPORTPS Ñ",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
         "type": "CLEARKEY",
         "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
@@ -645,7 +645,7 @@
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
-        "name": "beIN Sports USA",
+        "name": "BEIN SPORTS USA",
         "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/250px-2016_beIN_Sports_logo.svg.png"
       },
@@ -756,7 +756,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
-    "title": "Noticias Internacionales",
+    "title": "NOTICIA INTERNACIONALES",
     "items": [
       {
         "name": "RT - RUSSIA TODAY - ESPAÑOL",
@@ -770,29 +770,29 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/500px-24h_2026.svg.png"
       },
       {
-        "name": "DW Español",
+        "name": "DW EN ESPAÑOL",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png"
       },
       {
-        "name": "FRANCE24 Español",
+        "name": "FRANCE24 EN ESPAÑOL",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
         "type": "hls",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png"
       },
       {
-        "name": "TeleSur",
+        "name": "TELESUR",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
         "type": "hls",
         "icono": "https://i.ibb.co/QvFQpyGR/Tele-SUR-logo-textless-svg.png"
       },
       {
-        "name": "CNN Headlines International",
+        "name": "CNN HEADLINES INTERNATIONAL",
         "url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD190000137",
         "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png"
       },
        {
-        "name": "Rally TV Fast+",
+        "name": "RALLY TV FAST+",
         "url": "https://dupr7fgg2kr7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z9crmizz78jta/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES51000017V",
         "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
          "texto":"English"
@@ -808,7 +808,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "En Prueba",
+    "title": "SEÑALES EN PRUEBA",
     "items": [
       {
         "name": "Señal no Asignada",
@@ -885,7 +885,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "Religioso",
+    "title": "RELIGIOSO",
     "items": [
       {
         "name": "EWTN TV",
@@ -954,7 +954,7 @@
         ]
       },
       {
-        "name": "Nickelodeon Toons",
+        "name": "NICKELODEON TOONS",
         "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/my1x36oauej11j18bm6zd/clearkey_nikjr.json?rlkey=yoq9nmavdckcuj1tk0tu6ed1d&st=cnglrnfy&dl=0",
@@ -972,7 +972,7 @@
         ]
       },
       {
-        "name": "NICK JR Club",
+        "name": "NICK JR CLUB",
         "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/0xc5qcf2i323w4bk7tid4/clearkey_tooncast.json?rlkey=2kbkdopm4yc14j9p2ltj7hn3w&st=0csvdeig&dl=0",
@@ -990,7 +990,7 @@
         ]
       },
       {
-        "name": "Disney Channel",
+        "name": "DISNEY CHANNEL",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/29jxjbh4i8hty39ndi5fr/clearkey_disneyhd.json?rlkey=jnllgciun10tmhdxkv1i2glfi&st=kw1j2cwe&dl=0",
@@ -1008,7 +1008,7 @@
         ]
       },
       {
-        "name": "Popeye",
+        "name": "POPEYE",
         "url": "https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/5oa9lnisiok9m04m03t7a/clearkey_kids.json?rlkey=tqis3cv4so98indhpc7eb8dvf&st=emvcbm0t&dl=0",
@@ -1026,7 +1026,7 @@
         ]
       },
       {
-        "name": "Pokemon",
+        "name": "POKEMON",
         "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/hca3hwm6zg6bxfsup4q4l/clearkey_nicklodeon.json?rlkey=8tknn2ho8tcqlm27xncrozgbq&st=xzikfv5k&dl=0",
@@ -1044,7 +1044,7 @@
         ]
       },
       {
-        "name": "Nickelodeon Clásicos",
+        "name": "NICKELODEON CLASICOS",
         "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0",
@@ -1076,10 +1076,10 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "🎬 Cultura y Cocina - En Construcción",
+    "title": "🎬 CULTURA Y COCINA",
     "items": [
       {
-        "name": "PlutoTV Historia",
+        "name": "PLUTOTV HISTORIA",
         "icono": "https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "type": "CLEARKEY",
@@ -1097,7 +1097,7 @@
         ]
       },
       {
-        "name": "PlutoTV Cocina",
+        "name": "PLUTOTV COCINA",
         "icono": "https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "type": "CLEARKEY",
@@ -1115,7 +1115,7 @@
         ]
       },
       {
-        "name": "PlutoTV Animales",
+        "name": "PLUTOTV ANIMALES",
         "icono": "https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "type": "CLEARKEY",
@@ -1139,7 +1139,7 @@
         "texto": "ITALIANO"
       },
       {
-        "name": "TodoNovelas",
+        "name": "TODONOVELAS",
         "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
         "type": "CLEARKEY",
@@ -1387,61 +1387,61 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "Pack RakutenTV",
+    "title": "RAKUTENTV",
     "items": [
       {
-        "name": "Pelis Top",
+        "name": "PELIS TOP",
         "url": "https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=6acf0411-5466-4508-9679-cf0842ade1ff&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg"
       },
       {
-        "name": "Accion",
+        "name": "ACCIÓN",
         "url": "https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6069&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=22ffa70f-ed60-4e7d-9409-7850d5b64917&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg"
       },
       {
-        "name": "Comedio",
+        "name": "COMEDIA",
         "url": "https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6180&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=6316b942-a72b-4ee1-9b4f-12fce008e965&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg"
       },
       {
-        "name": "Drama",
+        "name": "DRAMA",
         "url": "https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6092&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=db71c1e2-3618-4f16-915b-4bf9a1e710f0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg"
       },
       {
-        "name": "Peliculas Romanticas",
+        "name": "PELICULAS ROMANTICAS",
         "url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6105&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=255a1094-f082-480c-a6d1-da3b7acf018d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg"
       },
       {
-        "name": "Cine Español",
+        "name": "CINR ESPAÑOL",
         "url": "https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6196&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ee4e7276-211c-487f-84e3-da9da74c6c70&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg"
       },
       {
-        "name": "Sci-Fi",
+        "name": "SCI-FI",
         "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6740&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=69917a4e-25ed-4b33-80a7-4afe77842e80&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg"
       },
       {
-        "name": "Thrillers",
+        "name": "THRILLERS",
         "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6480&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ee180ced-2677-4b03-b0b7-71b15fbb47e2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg"
       },
       {
-        "name": "100% Navidad",
+        "name": "100% X-MAS",
         "url": "https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6205&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ff2d4752-d22d-4ac2-bd84-4e604ac782a1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png"
       },
       {
-        "name": "Cine Friki",
+        "name": "CINE FRIKI",
         "url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=56537eae-a400-4133-a775-4ecbee36b88a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor\n\n",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg"
       },
 
       {
-        "name": "Crimen",
+        "name": "CRIMEN",
         "url": "https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6220&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=55da5dc8-3ac6-4d85-96cc-9633fcab1a6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6220&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg"
       }
