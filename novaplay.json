@@ -813,7 +813,7 @@
       {
         "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
+        "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8"
       },
       {
         "name": "Señal no Asignada",
@@ -1060,6 +1060,11 @@
             "value": "https://portal.app.flow.com.py/"
           }
         ]
+      },
+      {
+        "name": "NICK JR",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nickjr-logo.png/960px-Nickjr-logo.png",
+        "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
       }
     ]
   },
@@ -1123,9 +1128,10 @@
         ]
       },
       {
-        "name": "DISCOVERY CHANNEL - (En Italiano)",
+        "name": "DISCOVERY CHANNEL",
         "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
-        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png"
+        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
+        "texto": "ITALIANO"
       },
       {
         "name": "TodoNovelas",
