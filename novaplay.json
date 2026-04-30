@@ -538,6 +538,7 @@
       },
         {
         "name": "FOX DEPORTES US",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/120px-FOX_Deportes_logo.svg.png",
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
         "texto": "Español"
       }
@@ -600,7 +601,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/60QvHcnr/R-2.png",
-    "title": "⚽DEPORTES⚽ - PARCIALMENTE",
+    "title": "⚽DEPORTES⚽",
     "items": [
       {
         "name": "TYC SPORTS",
@@ -644,14 +645,14 @@
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "http://104.238.205.28:8989/278758_.m3u8",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "name": "beIN Sports USA",
+        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/250px-2016_beIN_Sports_logo.svg.png"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "name": "FOX SPORTS 1 US",
+        "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png"
       },
       {
         "name": "Señal no Asignada",
@@ -791,15 +792,16 @@
         "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png"
       },
        {
-        "name": "Rally TV Fast+ - English",
+        "name": "Rally TV Fast+",
         "url": "https://dupr7fgg2kr7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z9crmizz78jta/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES51000017V",
-        "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png"
+        "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
+         "texto":"English"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8",
+        "name": "FOX NEWS US",
+        "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
         "type": "hls",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
       }
     ]
   },
