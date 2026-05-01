@@ -821,20 +821,6 @@
     "items": [
       {
         "name": "Señal no Asignada",
-        "url": "http://magmaplayer.com/stream/m3u8/AQZ5KmRjZmysZGH0YwLkYwR3Zv4kZwysZGp3AmL3AGRmA19xBQD1BGRlZmMuLJRjAQt1KmN/hls/1039.m3u8",
-                "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
-                "headers": {
-                    "X-App": "ps",
-                    "X-Version": "10/1.0.9",
-                    "X-Hash": "6BhQ3mQ_8822P65Ey9QOBWI9JTQnseCcNRQYStnM4UxuJT3Kbvt8821XRD2-C9D3YLQnTlc1_HmEFx7_s7roHED9Y3vTDOLsyYInVA63MVSBtvMo5n3gPpcaWCjXKRfRaPRrtpFKSMU8k1jiRfplICVK69ZMQQIOe2sMyfdCFHpbTcJv1Rj7kGmSeEcVE8x7mpyccGmWDC17n0P5X64r-jPq8smWSuMpRsDlgO7mmRB8XVMjD5f5DNmx1MjYwa7MqfDWCHR62AjUK3MpvR1YhBKGIilKQqmDIs9CNAosaYpAVO7qoMWvwLJxK8PKbX55lkiSjZ_0Qqv3AkhLvIQ5pPsDTGxKF9qttBTg_LYylf5kF8K3u4Q6F5XFujUac_2STPobA9tRZxFB4nVMkpVuhByZw0dfMM-1-b_4lV_AUVRIlVcJmh69fUuX_A7bAh9BFnuG7BodSz4QwCr7UbZbWfBz3n_plt7UCaj8lAjAuqmyU4NzeZPVTcKiin9lm84DVuzyncpnbbhZNzq_GJWWxFit2-IIxnbM4gQPPgX9MJQNhb9YhmIUrj3LgNugpmmxS_2EGipMfkuE4_Hdq6qaGw",
-                    "X-Did": "d84591236aaa0485",
-                    "User-Agent": "Magma Player/10",
-                    "Accept-Encoding": "gzip",
-                    "Host": "tv.m3uts.xyz",
-                    "Connection": "Keep-Alive"
-      },
-      {
-        "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NzI3NzcyIiwic2lwIjoiMTg2LjE2LjU2LjEwOCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiNDAxMjc4ZDg4NTQ5YzBiMCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.OV2Fz0WMhVXCDs6JGbCjaiCBtKq6uV-xiqtCoXpmohtdKzvK84kE994IIcZKfaXAmvI9HSePdR3VGVeRHsaZLA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd"
       },
