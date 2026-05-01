@@ -51,6 +51,11 @@
     "title": "PARAGUAY",
     "items": [
       {
+        "name": "DELREY TV",
+        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "icono": "https://i.ibb.co/W7bV4hm/image.png"
+      },
+      {
         "name": "VISIÓN TV VILLARRICA",
         "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
