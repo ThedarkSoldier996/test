@@ -33,10 +33,10 @@
 
       {
         "name": "NOVASPORTS",
-        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",                
-        "icono": "https://i.ibb.co/TD2tZc5z/image-1156.jpg"
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
         "name": "ESPN EVENTOS",
@@ -776,12 +776,12 @@
       {
         "name": "RTVE 24H",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/500px-24h_2026.svg.png"
+        "icono": "https://i.ibb.co/mFV5k2mk/24h-2026-svg.png"
       },
       {
         "name": "DW EN ESPAÑOL",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png"
+        "icono": "https://i.ibb.co/Lzz8MCDR/image.png"
       },
       {
         "name": "FRANCE24 EN ESPAÑOL",
@@ -798,13 +798,14 @@
       {
         "name": "CNN HEADLINES INTERNATIONAL",
         "url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD190000137",
-        "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png"
+        "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png",
+        "texto":"Idioma: English"
       },
        {
         "name": "RALLY TV FAST+",
         "url": "https://dupr7fgg2kr7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z9crmizz78jta/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES51000017V",
         "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
-         "texto":"English"
+         "texto":"Idioma: English"
       },
       {
         "name": "FOX NEWS USA",
