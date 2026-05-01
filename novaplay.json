@@ -551,7 +551,7 @@
     "visible": "true",
     "type": "category",
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
-    "title": "SERIES",
+    "title": "SERIES Y NOVELAS",
     "items": [
       {
         "visible": "true",
@@ -576,22 +576,23 @@
       },
       {
         "visible": "true",
-        "name": "COREANO BY CJ ENM",
-        "url": "https://jmp2.uk/stvp-ES1700003C6",
-        "icono": "https://i.ibb.co/0pgV1VvB/ES1700003-C6-20250826-T004843-SQUARE.png",
+        "name": "RCN NOVELAS",
+        "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
+        "icono": "https://i.ibb.co/N2TZV3Sv/image.png",
+        "type": "CLEARKEY",
         "type": "hls"
       },
       {
-        "visible": "true",
-        "name": "COPS",
-        "url": "https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6554bd45aa9ffb00088e5589/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc1M2FiNGVlLTc4NjktNDE2Yy05ZjI2LWIxYWYxNjU4YjAyNiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc3NTkxNjQ4LCJpYXQiOjE3Nzc1MDUyNDgsImp0aSI6IjZjNDQ4NzUxLTg1MTQtNDI1Yy1hMzMzLTkzZjEwOGZjZGYwYiJ9.GDR_eVrdkzgnsP0pyXd8G_uk6oGbBuZARPulDviRUAM",
-        "icono": "https://i.ibb.co/s90qZcBT/series-List-Cops21.jpg",
-        "type": "hls"
+                "name": "TLN",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
       {
         "name": "RETRO X TV",
         "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8",
-        "icono": "https://i.ibb.co/fVtgnvPn/FB-IMG-1777654654095.jpg"
+        "icono": "https://i.ibb.co/MkX4XXrZ/image.png"
       },
       {
         "name": "Señal no Asignada",
