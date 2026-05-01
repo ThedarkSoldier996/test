@@ -56,7 +56,7 @@
       {
         "name": "GEN TV",
         "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
-        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
+        "icono": "https://i.ibb.co/ksKty7W0/Logo-GENtvpy.png"
       },
       {
         "name": "TELEFUTURO",
@@ -65,7 +65,7 @@
       },
       {
         "name": "C9N",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8",
+        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png"
       },
       {
