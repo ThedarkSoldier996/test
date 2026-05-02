@@ -92,12 +92,6 @@
         
       },
       {
-        "name": "ABC TV - NO FUNCIONA",
-        "url": "https://www.abc.com.py/tv/",
-        "icono": "https://i.ibb.co/JjJSgbyx/image.png",
-        "texto": "SE ESTA INTENTANDO SOLUCIONAR LA LOGICA PARA SU FUNCIONAMIENTO"
-      },
-      {
         "name": "A24 PARAGUAY",
         "url": "https://geo.dailymotion.com/player/x1b5gc.html?video=k26DgbMBBfp3nOE2FS4",
         "icono": "https://i.ibb.co/HTqC4MRy/503146204-18280444087266497-2245206115792477187-n.jpg"
@@ -214,7 +208,7 @@
       {
         "name": "AMERICA TV INTERNACIONAL",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
-        "url": "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
+        "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
         "headers": [
           {
             "name": "Origin",
