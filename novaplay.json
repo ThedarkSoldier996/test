@@ -845,6 +845,12 @@
          "texto":"Idioma: English"
       },
       {
+        "name": "Bloomberg US",
+        "url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
+         "texto":"Idioma: English"
+      },
+      {
         "name": "FOX NEWS USA",
         "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
         "type": "hls",
@@ -861,7 +867,8 @@
       {
         "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NzI3NzcyIiwic2lwIjoiMTg2LjE2LjU2LjEwOCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiNDAxMjc4ZDg4NTQ5YzBiMCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.OV2Fz0WMhVXCDs6JGbCjaiCBtKq6uV-xiqtCoXpmohtdKzvK84kE994IIcZKfaXAmvI9HSePdR3VGVeRHsaZLA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd"
+        "url": "",
+        "yt_id": "SbzbnJbB9RE"     
       },
       {
         "name": "Señal no Asignada",
