@@ -37,20 +37,23 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
-        "texto": "Serie A: Udinese vs Torino"
+        "activo": true,
+        "texto": "Serie A: Udinese vs Torino - HORARIO: 10:00"
       },
 
       {
         "name": "NOVASPORTS 2",
         "url": "https://chrz.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?token=68f4fee94b5106a5cbc496884f03245a1dc5b653-fb-1777771128-1777717128",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
-        "texto": "Bundesliga: Bayern München vs Heidenheim"
+        "activo": true,
+        "texto": "Bundesliga: Bayern München vs Heidenheim - HORARIO: 10:30"
       },
       {
         "name": "NOVASPORTS 3",
         "url": "https://mze7u.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?token=a6abe023b96e0518434c239b5dfaee685694b5d8-9e-1777769095-1777715095",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
-        "texto": "LaLiga: Villarreal vs Levante"
+        "activo": true,
+        "texto": "LaLiga: Villarreal vs Levante - HORARIO: 09:00"
       }
     ]
   },
@@ -1198,6 +1201,11 @@
         "name": "MTV",
         "icono": "https://i.ibb.co/yFyT373t/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8"
+      },
+       {
+        "name": "HISTORY",
+        "icono": "https://i.ibb.co/fVDKcp3S/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40.playlist.m3u8"
       },
       {
         "name": "GARAGE TV",
