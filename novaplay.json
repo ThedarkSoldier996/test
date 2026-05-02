@@ -73,12 +73,12 @@
       {
         "name": "C9N",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
-        "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png"
+        "icono": "https://i.ibb.co/Q74wSJNp/image.png"
       },
       {
         "name": "SNT",
         "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
-        "icono": "https://i.ibb.co/bjfm9sfR/image.png"
+        "icono": "https://i.ibb.co/SCdymVh/image.png"
       },
       {
         "name": "XPRESSTV",
@@ -86,19 +86,19 @@
         "icono": "https://i.ibb.co/KcTmC5By/image.png"
       },
       {
-        "name": "LA TELE HD",
+        "name": "LA TELE",
         "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/k2PHQH9k/La-Tele-Canal-11-en-vivo-Online.png"
+        "icono": "https://i.ibb.co/SDwTc6gL/image.png"
       },
       {
         "name": "TRECE",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(bmPMNhSzciiRgbdxZUBho_CINZeAWWWPmSXZud-Q4ts3JqI_pu6_VF1thVGKr0GEG78Ey1bsUxFggMaTEXAXmw61RMlbMnzvIk3-O_GzBWVBd-TM3ve2JLBOwgznQgzm)/cloud/3/x9ksaba/s/live-720.m3u8",
-        "icono": "https://i.ibb.co/BKFTqfpx/image.png"
+        "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
-        "name": "ABC",
+        "name": "ABC TV",
         "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(Y8nHKhiK6diOsSv71EZSGcRKLtdFRXt_YyawqXix_aV9S4B8nuKVwR8iYBYpAD8lRdZOPFphOpIewToyj1kfcyHsimdJ7awx9p6lEDqlkbHxwU5ci1zLrFCGnXPBlV7j)/cloud/3/x9skr3m/d/live-720.m3u8",
-        "icono": "https://i.ibb.co/d4s6q5mD/image.png"
+        "icono": "https://i.ibb.co/JjJSgbyx/image.png"
       },
       {
         "name": "PARAGUAY TV",
@@ -188,6 +188,18 @@
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "icono": "https://i.ibb.co/NgFyMzd1/image.png",
         "texto": "Conectados con la Realidad"
+      },
+      {
+        "name": "RED DIGITAL",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "icono": "https://i.ibb.co/Qvv0kBHz/image.png",
+        "texto": "RADIO ONE - SAN PEDRO"
+      },
+      {
+        "name": "TV AIRE",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "icono": "https://i.ibb.co/b5gf65cW/image.png",
+        "texto": "RADIO 104.3"
       },
       {
         "name": "MI TV",
