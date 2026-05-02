@@ -615,27 +615,27 @@
     "visible": "true",
     "type": "category",
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
-    "title": "SERIES Y NOVELAS",
+    "title": "ENTRETENIMIENTO",
     "items": [
       {
         "visible": "true",
-        "name": "NCIS",
+        "name": "NCIS Criminologia Naval",
         "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NCIS_logo.svg/960px-NCIS_logo.svg.png",
+        "icono": "https://i.ibb.co/BH295xff/image.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "SERIES CRIMINALES",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
-        "icono": "https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png",
+        "name": "COMEDY CENTRAL",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-60.playlist.m3u8",
+        "icono": "https://i.ibb.co/b5q03N6D/image.pngg",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "PLUTOTV K-DRAMA",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
-        "icono": "https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png",
+        "name": "CINEMAX",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-61.playlist.m3u8",
+        "icono": "https://i.ibb.co/Wvk5XLJC/image.png",
         "type": "hls"
       },
       {
@@ -659,10 +659,39 @@
         "icono": "https://i.ibb.co/MkX4XXrZ/image.png"
       },
       {
-        "name": "DISCOVERY CHANNEL",
-        "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
-        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
-        "texto": "ITALIANO"
+        "name": "TNT NOVELAS",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-65.playlist.m3u8",
+        "icono": "https://i.ibb.co/nMskkQC6/image.png"
+      },
+      {
+        "name": "STUDIO UNIVERSAL",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-67.playlist.m3u8",
+        "icono": "https://i.ibb.co/cc0T79bF/image.png"
+      },
+      {
+        "name": "STAR CHANNEL",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-68.playlist.m3u8",
+        "icono": "https://i.ibb.co/MkxJnp7W/image.png"
+      },
+      {
+        "name": "SPACE",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69.playlist.m3u8",
+        "icono": "https://i.ibb.co/KxjhK824/image.png"
+      },
+      {
+        "name": "A&E",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-71.playlist.m3u8",
+        "icono": "https://i.ibb.co/vvDdW11M/image.png"
+      },
+      {
+        "name": "AXN",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-77.playlist.m3u8",
+        "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
+      },
+      {
+        "name": "FX",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-77.playlist.m3u8",
+        "icono": "https://i.ibb.co/dsp1RDmw/image.png"
       },
       {
         "name": "TODONOVELAS",
@@ -683,9 +712,9 @@
         ]
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "name": "SONY CHANNEL",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70.playlist.m3u8",
+        "icono": "https://i.ibb.co/YFC4QqcB/image.png"
       }
     ]
   },
@@ -751,16 +780,6 @@
         "name": "FOX SPORTS 1 USA",
         "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png"
-      },
-      {
-        "name": "Señal no Asignada",
-        "url": "https://bolaloca.my/player/3/60",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
-      },
-      {
-        "name": "Señal no Asignada",
-        "url": "https://iptvglobal.site/live/DTdw3ePPu6/hDq6z3Vd2E/782403.m3u8",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
         "name": "Señal no Asignada",
@@ -1108,6 +1127,11 @@
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-33.playlist.m3u8"
       },
       {
+        "name": "DISCOVERY KIDS",
+        "icono": "https://i.ibb.co/nqqVw9dY/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-34.playlist.m3u8"
+      },
+      {
         "name": "NICK JR",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nickjr-logo.png/960px-Nickjr-logo.png",
         "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
@@ -1143,6 +1167,28 @@
         "name": "TELEMUNDO INTERNACIONAL",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-26.playlist.m3u8",
         "icono": "https://i.ibb.co/hJMHmsy9/image.png"
+      },
+      {
+        "name": "DISCOVERY CHANNEL",
+        "icono": "https://i.ibb.co/KzK3qZMG/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8"
+      },
+       {
+        "name": "DISCOVERY ITALY",
+        "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
+        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
+        "texto": "Idioma: Italiano"
+      },
+      
+       {
+        "name": "DISCOVERY H&H",
+        "icono": "https://i.ibb.co/PvsDWh2Q/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-43.playlist.m3u8"
+      },
+      {
+        "name": "MTV",
+        "icono": "https://i.ibb.co/yFyT373t/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8"
       },
       {
         "name": "GARAGE TV",
