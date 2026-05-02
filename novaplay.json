@@ -32,10 +32,10 @@
       },
       {
         "name": "NOVASPORTS",
-        "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xMjk=/3_.m3u8?token=c8XG6_mAG838mVemA72_iw&expires=1777768210",
+        "url": "https://streamtpnew.com/premier.php?stream=espn",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
         "activo": true,
-        "texto": "EVENTO NO DISPONIBLE"
+        "texto": "ESPN 1 EVENTOS"
       }
     ]
   },
@@ -85,14 +85,17 @@
         "icono": "https://i.ibb.co/SDwTc6gL/image.png"
       },
       {
-        "name": "TRECE - NO FUNCIONA en versiones anteriores a 1.5.2",
+        "name": "TRECE",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-        "icono": "https://i.ibb.co/TsxdFGk/image.png"
+        "icono": "https://i.ibb.co/TsxdFGk/image.png",
+        "texto": "SOLO FUNCIONA CON NOVAPLAY 1.5.2 o Superior"
+        
       },
       {
-        "name": "ABC TV - NO FUNCIONA - INTENTANDO REPARAR",
+        "name": "ABC TV - NO FUNCIONA",
         "url": "https://geo.dailymotion.com/player.html?video=xa7v8xc",
-        "icono": "https://i.ibb.co/JjJSgbyx/image.png"
+        "icono": "https://i.ibb.co/JjJSgbyx/image.png",
+        "texto": "SE ESTA INTENTANDO SOLUCIONAR LA LOGICA PARA SU FUNCIONAMIENTO"
       },
       {
         "name": "PARAGUAY TV",
@@ -136,9 +139,10 @@
         "icono": "https://i.ibb.co/s9Qr9gmw/image.png"
       },
       {
-        "name": "UNICANAL - NO FUNCIONA En versiones anteriores a 1.5.2",
+        "name": "UNICANAL",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-        "icono": "https://i.ibb.co/0NwTTY1/image.png"
+        "icono": "https://i.ibb.co/0NwTTY1/image.png",
+        "texto": "SOLO FUNCIONA CON NOVAPLAY 1.5.2 o Superior"
       },
       {
         "name": "UNION TV",
