@@ -432,8 +432,8 @@
     "title": "⚽ ESPN ⚽",
     "items": [
       {
-        "name": "ESPN1 - NO FUNCIONA",
-        "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTY=/13_.m3u8?token=bgdMZM2-3dY4O5XvtSL68g&expires=1777284985",
+        "name": "ESPN1 AR ",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8",
         "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
       },
       {
@@ -473,9 +473,9 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "ESPN 4 - NO FUNCIONA",
+        "name": "ESPN 4",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
         "type": "CLEARKEY",
         "headers": [
@@ -570,7 +570,7 @@
     "title": "⚽ FOX SPORTS ⚽ ",
     "items": [
       {
-        "name": "FOX SPORTS AR",
+        "name": "FOX SPORTS 1 AR",
         "icono": "https://i.ibb.co/zbWxZ95/fs1.png",
         "type": "CLEARKEY",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8",
@@ -586,6 +586,16 @@
           }
         ],
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "FOX SPORTS 2 AR",
+        "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8"
+      },
+      {
+        "name": "FOX SPORTS 3 AR",
+        "icono": "https://i.ibb.co/vxcj4GS9/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8"        
       },
         {
         "name": "FOX DEPORTES USA",
