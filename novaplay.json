@@ -631,6 +631,30 @@
         "icono": "https://i.ibb.co/MkX4XXrZ/image.png"
       },
       {
+        "name": "DISCOVERY CHANNEL",
+        "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
+        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
+        "texto": "ITALIANO"
+      },
+      {
+        "name": "TODONOVELAS",
+        "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
+        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ]
+      },
+      {
         "name": "Señal no Asignada",
         "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
@@ -1171,30 +1195,7 @@
           }
         ]
       },
-      {
-        "name": "DISCOVERY CHANNEL",
-        "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
-        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
-        "texto": "ITALIANO"
-      },
-      {
-        "name": "TODONOVELAS",
-        "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
-        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
+      
       {
         "name": "DISCOVERY ID - - NO FUNCIONA",
         "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
