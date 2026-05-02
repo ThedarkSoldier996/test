@@ -33,15 +33,17 @@
 
       {
         "name": "NOVASPORTS",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "url": "https://iaw5b.envivoslatam.org/espnmx/tracks-v1a1/mono.m3u8?token=e7065b3a9ad5b4ecafece82bc85236ef90553bc0-be-1777770865-1777716865",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png",
+        "texto": "Serie A: Udinese vs Torino"
       },
       {
         "name": "ESPN EVENTOS",
         "url": "https://mze7u.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?token=a6abe023b96e0518434c239b5dfaee685694b5d8-9e-1777769095-1777715095",
-        "icono": "https://i.ibb.co/B2kWQvSP/0552e734-d572-4ae3-9240-06c0c6a89f80.png"
+        "icono": "https://i.ibb.co/B2kWQvSP/0552e734-d572-4ae3-9240-06c0c6a89f80.png",
+        "texto": "LaLiga: Villarreal vs Levante"
       }
     ]
   },
