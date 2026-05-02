@@ -39,6 +39,13 @@
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
         "texto": "Serie A: Udinese vs Torino"
       },
+
+      {
+        "name": "NOVASPORTS 2",
+        "url": "https://chrz.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?token=68f4fee94b5106a5cbc496884f03245a1dc5b653-fb-1777771128-1777717128",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png",
+        "texto": "Bundesliga: Bayern München vs Heidenheim"
+      },
       {
         "name": "ESPN EVENTOS",
         "url": "https://mze7u.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?token=a6abe023b96e0518434c239b5dfaee685694b5d8-9e-1777769095-1777715095",
