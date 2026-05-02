@@ -93,9 +93,14 @@
       },
       {
         "name": "ABC TV - NO FUNCIONA",
-        "url": "https://geo.dailymotion.com/player.html?video=xa7v8xc",
+        "url": "https://www.abc.com.py/tv/",
         "icono": "https://i.ibb.co/JjJSgbyx/image.png",
         "texto": "SE ESTA INTENTANDO SOLUCIONAR LA LOGICA PARA SU FUNCIONAMIENTO"
+      },
+      {
+        "name": "A24 PARAGUAY",
+        "url": "https://geo.dailymotion.com/player/x1b5gc.html?video=k26DgbMBBfp3nOE2FS4",
+        "icono": "https://i.ibb.co/HTqC4MRy/503146204-18280444087266497-2245206115792477187-n.jpg"
       },
       {
         "name": "PARAGUAY TV",
