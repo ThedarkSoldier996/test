@@ -1103,6 +1103,11 @@
         ]
       },
       {
+        "name": "NICKELODEON ",
+        "icono": "https://i.ibb.co/7xtxbrPm/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-33.playlist.m3u8"
+      },
+      {
         "name": "NICK JR",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nickjr-logo.png/960px-Nickjr-logo.png",
         "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
