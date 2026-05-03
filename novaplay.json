@@ -440,7 +440,13 @@
       },
       {
         "name": "SEÑAL NO ASIGNADA",
-        "url": "38.224.175.2:800/play/a02d/index.m3u8",
+        "url": "38.224.175.2:8000/play/a02d/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "texto": "SEÑAL NO ASIGNADA"
+      },
+      {
+        "name": "SEÑAL NO ASIGNADA",
+        "url": "38.224.175.2:8000/play/a02a/59275597.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
         "texto": "SEÑAL NO ASIGNADA"
       },
