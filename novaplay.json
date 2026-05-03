@@ -1287,8 +1287,25 @@
     "title": "PLUTO TV - PELICULAS ",
     "items": [
       {
+        "name": "PLUTO.TV CINE ESTELAR",
+        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+        "icono": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png""
+      },
+      {
         "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "PLUTO TV - SERIES ",
+    "items": [
+      {
+        "name": "Señal No Asignada",
+        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
