@@ -481,23 +481,30 @@
         "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
       },
       {
-        "name": "ESPN 4",
-        "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn4",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "type": "CLEARKEY",
+        "name": "ESPN 4 - COLOMBIA ",
+        "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+      },
+       {
+        "name": "ESPN 4 ARGENTINA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+      },
+      {
+        "name": "ESPN 4 SUR ",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8",
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+      },
+       {
+        "name": "SEÑAL DE PRUEBA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN5_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+      },
+             {
+        "name": "SEÑAL DE PRUEBA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_CO_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
       {
         "name": "ESPN 5",
