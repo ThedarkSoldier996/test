@@ -497,33 +497,15 @@
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
        {
-        "name": "SEÑAL DE PRUEBA ",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN5_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+        "name": "ESPN 5 COLOMBIA",
+        "url": "https://streamtpnew.com/global1.php?stream=espn5",
+         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "icono": "https://i.ibb.co/nqcYm9rV/image.png"
       },
              {
-        "name": "SEÑAL DE PRUEBA ",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_CO_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
-      },
-      {
-        "name": "ESPN 5",
-        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn5",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
-        "type": "CLEARKEY",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "name": "ESPN 5 SUR",
+        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8",
+        "icono": "https://i.ibb.co/nqcYm9rV/image.png"
       },
       {
         "name": "ESPN 6",
