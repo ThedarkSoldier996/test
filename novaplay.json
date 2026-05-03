@@ -436,13 +436,12 @@
         "name": "ESPN 1 - COLOMBIA ",
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
+        "icono": "https://i.ibb.co/4wz3Yjy1/image.png"
       },
       {
-        "name": "ESPN 1 ",
-        "url": "https://streamtpnew.com/premier.php?stream=espn",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
+        "name": "ESPN 1 ARGENTINA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/zhCGkWr8/image.png"
       },
       {
         "name": "ESPN 2",
