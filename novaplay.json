@@ -240,24 +240,6 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TN - TODO NOTICIAS",
-        "icono": "https://i.ibb.co/GvLXFrdb/image.png",
-        "url": "https://nameless-resonance-f644.javimarki.workers.dev/8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
         "name": "TELEFE",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8",
