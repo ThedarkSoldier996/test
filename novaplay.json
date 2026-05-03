@@ -240,9 +240,9 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "CANAL 9 RESISTENCIA",
-        "icono": "https://i.ibb.co/k6PjPWfN/Canal-Nueve-Resistencia-29.png",
-        "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "name": "TN - TODO NOTICIAS",
+        "icono": "https://i.ibb.co/GvLXFrdb/image.png",
+        "url": "https://nameless-resonance-f644.javimarki.workers.dev/8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "headers": [
@@ -350,7 +350,7 @@
       {
         "name": "CRONICA TV ",
         "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8",
+        "url": "https://nameless-resonance-f644.javimarki.workers.dev/6",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
         "headers": [
