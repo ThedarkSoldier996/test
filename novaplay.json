@@ -33,7 +33,7 @@
       },
       {
         "name": "NOVASPORTS 2",
-       "url": "https://streamtpnew.com/global2.php?stream=dsports",
+       "url": "https://streamtpnew.com/global1.php?stream=espnplus3",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
@@ -232,8 +232,7 @@
       {
         "name": "RURAL",
         "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/rural.playlist.m3u8",
-        "icono": "https://i.ibb.co/8LCyhBDK/Ng-IBb-PX.png",
-        "texto": "SEÑAL NO ASIGNADA"
+        "icono": "https://i.ibb.co/8LCyhBDK/Ng-IBb-PX.png"
       },
        {
         "name": "SEÑAL NO ASIGNADA",
@@ -438,6 +437,12 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
+      },
+      {
+        "name": "SEÑAL NO ASIGNADA",
+        "url": "38.224.175.2:800/play/a02d/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "texto": "SEÑAL NO ASIGNADA"
       },
       {
         "name": "ESPN 2",
