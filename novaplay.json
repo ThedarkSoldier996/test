@@ -784,6 +784,11 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png"
       },
       {
+        "name": "TUDN,
+        "url": "https://streaming.alwaysdata.net/tudn.php",
+        "icono": "https://i.ibb.co/KjLYT6pN/image.png"
+      },
+      {
         "name": "TNT SPORTS",
         "url": "https://streamtpnew.com/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
