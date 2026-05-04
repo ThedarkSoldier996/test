@@ -1639,6 +1639,84 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "PLUTO TV - COMPETENCIAS",
+    "items": [
+  {
+    "name": "PLUTO.TV COMPETENCIAS",
+    "url": "https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png"
+  },
+  {
+    "name": "ESCAPE PERFECTO POR SONY ONE CANAL",
+    "url": "https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8",
+    "icono": "https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png"
+  },
+  {
+    "name": "MASTERCHEF",
+    "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8",
+    "icono": "https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png"
+  },
+  {
+    "name": "HELL´S KITCHEN",
+    "url": "https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8",
+    "icono": "https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png"
+  },
+  {
+    "name": "MINUTO PARA GANAR",
+    "url": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8",
+    "icono": "https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png"
+  },
+  {
+    "name": "WIPE OUT (HOMBRE AL AGUA)",
+    "url": "https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png"
+  },
+  {
+    "name": "DESAFIO SUPER-HUMANOS",
+    "url": "https://jmp2.uk/plu-6495af324c014a000842e923.m3u8",
+    "icono": "https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png"
+  }
+]
+  },
+  {
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "CANALES NO ASIGNADOS ",
+    "items": [
+     
+      {
+        "name": "Señal No Asignada",
+        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
+        "name": "Señal No Asignada",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "CANALES NO ASIGNADOS ",
+    "items": [
+     
+      {
+        "name": "Señal No Asignada",
+        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
+        "name": "Señal No Asignada",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      }
+    ]
+  },
+{
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "CANALES NO ASIGNADOS ",
     "items": [
      
