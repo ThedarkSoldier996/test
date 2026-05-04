@@ -1681,20 +1681,134 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "PLUTO TV - CURIOSIDAD ",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+  {
+    "name": "PLUTO.TV DOCUMENTALES",
+    "url": "https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG.png"
+  },
+  {
+    "name": "SHOCKWAVE",
+    "url": "https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8",
+    "icono": "https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV NATURALEZA",
+    "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png"
+  },
+  {
+    "name": "MOUSTROS DEL RIO",
+    "url": "https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8",
+    "icono": "https://images.pluto.tv/channels/66a92375cd0d31000847b219/colorLogoPNG.png"
+  },
+  {
+    "name": "CONSTRUCCIONES ASOMBROSAS",
+    "url": "https://jmp2.uk/plu-673249433a61d400087a51ed.m3u8",
+    "icono": "https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG.png"
+  },
+  {
+    "name": "VIDAS EXTREMAS",
+    "url": "https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8",
+    "icono": "https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png"
+  },
+  {
+    "name": "NATURETIME",
+    "url": "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8",
+    "icono": "https://images.pluto.tv/channels/681ba2729624e6275efe0044/colorLogoPNG.png"
+  },
+  {
+    "name": "STINGRAY PAISAJES",
+    "url": "https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png"
+  },
+  {
+    "name": "EL ENCANTADOR DE PERROS",
+    "url": "https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8",
+    "icono": "https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV AVENTURA",
+    "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png"
+  },
+  {
+    "name": "ICE PILOTS (PILOTOS DEL ARTICO)",
+    "url": "https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8",
+    "icono": "https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV VELOCIDAD",
+    "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png"
+  },
+  {
+    "name": "LOCOS Y OBSESIÓNADOS POR LOS AUTOS",
+    "url": "https://jmp2.uk/plu-64025592953da40008bf9238.m3u8",
+    "icono": "https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png"
+  },
+  {
+    "name": "MI COCHE CLÁSICO",
+    "url": "https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8",
+    "icono": "https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png"
+  },
+  {
+    "name": "MOTORVISION.TV",
+    "url": "https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8",
+    "icono": "https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV VIDA REAL",
+    "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
+    "icono": "https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png"
+  },
+  {
+    "name": "C.O.P.S.",
+    "url": "https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8",
+    "icono": "https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png"
+  },
+  {
+    "name": "DOG EL CAZARRECOMPENSAS",
+    "url": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png"
+  },
+  {
+    "name": "EMPEÑOS A LO BESTIA",
+    "url": "https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png"
+  },
+  {
+    "name": "MI OBSESIÓN FAVORITA",
+    "url": "https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8",
+    "icono": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png"
+  },
+  {
+    "name": "UNTOLD STORIES OF THE ER",
+    "url": "https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8",
+    "icono": "https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png"
+  },
+  {
+    "name": "SALA DE EMERGENCIAS:HISTORIAS INEDITAS",
+    "url": "https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8",
+    "icono": "https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png"
+  },
+  {
+    "name": "MISTERIOS MEDICOS",
+    "url": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png"
+  },
+  {
+    "name": "SMITHSINIAN CHANNEL",
+    "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+    "icono": "https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV HISTORIA",
+    "url": "https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8",
+    "icono": "https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
