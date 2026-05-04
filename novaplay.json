@@ -88,10 +88,14 @@
       },
       {
         "name": "TRECE",
+        "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
+        "icono": "https://i.ibb.co/TsxdFGk/image.png"
+      },
+            {
+        "name": "TRECE - SEÑAL EXTRA",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-        "icono": "https://i.ibb.co/TsxdFGk/image.png",
+        "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "SOLO FUNCIONA CON NOVAPLAY 1.5.2 o Superior"
-        
       },
       {
         "name": "PARAGUAY TV",
@@ -100,13 +104,13 @@
       },
       {
         "name": "ÑANDUTI TV",
-        "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
+        "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
        {
         "name": "ÑANDUTI TV (SEÑAL EXTRA)",
         "url": "https://nanduti.b-cdn.net/480p.m3u8",
-        "icono": "https://i.ibb.co/qMTf7sNt/image.png"
+        "icono": "https://i.ibb.co/nMbd6MtP/image.png"
       },
       {
         "name": "RB TV-RADIO",
@@ -134,10 +138,15 @@
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/s9Qr9gmw/image.png"
       },
-      {
+            {
         "name": "UNICANAL",
+        "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8",
+        "icono": "https://i.ibb.co/0NwTTY1/image.png"
+      },
+      {
+        "name": "UNICANAL - SEÑAL EXTRA",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-        "icono": "https://i.ibb.co/0NwTTY1/image.png",
+        "icono": "https://i.ibb.co/67YxKBFV/image.png",
         "texto": "SOLO FUNCIONA CON NOVAPLAY 1.5.2 o Superior"
       },
       {
