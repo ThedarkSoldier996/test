@@ -2443,11 +2443,12 @@
       {
         "name": "Señal No Asignada",
         "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+        "user": "Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
         "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
+        "url": "http://190.7.19.197:232/play/a038/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       }
     ]
