@@ -2454,8 +2454,8 @@
       },
       {
         "name": "MEGATV",
-        "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
-        "user": "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us",
+        "url": "",
+        "texto": "Prueba123",
         "icono": "https://i.ibb.co/k2v9h20H/image.png"
       },
       {
