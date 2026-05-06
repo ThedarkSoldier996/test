@@ -5,21 +5,24 @@
     "title": "EVENTOS",
     "items": [
       {
-        "name": "TIGO $PORT$ - EVENTOS1",
+        "name": "𝑇𝐼𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 1",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "TIGO $PORT$ - EVENTOS2",
+        "name": "𝑇𝐼𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 2",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "TIGO $PORT$ - EVENTOS3",
+        "name": "𝑇𝐼𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 3",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
@@ -27,12 +30,14 @@
       },
       {
         "name": "NOVASPORTS",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
         "texto": "SOLO EVENTOS"
       },
       {
         "name": "NOVASPORTS 2",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
        "url": "https://streamtpnew.com/global1.php?stream=dsports",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
