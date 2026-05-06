@@ -2448,8 +2448,7 @@
      
       {
         "name": "Señal No Asignada",
-        "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.ts",
-        "user": "Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
