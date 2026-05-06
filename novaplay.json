@@ -2478,6 +2478,12 @@
         "texto": "Prueba123",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
+         {
+        "name": "Señal No Asignada",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/460.m3u8",
+        "texto": "Prueba123",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
       {
         "name": "Señal No Asignada",
         "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
