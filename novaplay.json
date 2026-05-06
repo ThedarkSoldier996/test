@@ -32,8 +32,15 @@
         "name": "NOVASPORTS",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png",
-        "texto": "SOLO EVENTOS"
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      }
+       {
+        "name": "NOVASPORTS 2",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       }
     ]
   },
