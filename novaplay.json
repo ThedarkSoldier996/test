@@ -2452,10 +2452,16 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-        "name": "MEGATV",
+        "name": "Señal No Asignada",
         "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
         "texto": "Prueba123",
-        "icono": "https://i.ibb.co/k2v9h20H/image.png"
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
+        "name": "Señal No Asignada",
+        "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+        "texto": "Prueba123",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
         "name": "Señal No Asignada",
