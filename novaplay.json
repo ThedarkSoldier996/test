@@ -953,15 +953,30 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "VARIADOS",
+    "title": "VARIADOS - INTERNACIONALES",
     "items": [
       {
-        "name": "Meganoticias",
+        "name": "Meganoticias - CHILE",
         "icono": "https://i.ibb.co/rJDsB0r/image.png",
         "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
       },
+       {
+        "name": "UCL -  URUGUAY",
+        "icono": "https://i.ibb.co/ZzpYCgPD/image.png",
+        "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+      },
+             {
+        "name": "VTV CANAL 23 -  REP. DOMINICANA",
+        "icono": "https://i.ibb.co/9k2C9zWw/image.png",
+        "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
+      },
+           {
+        "name": "SEÑAL NO ASIGNADA - ANTENA3",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
+      },
       {
-        "name": "T13 - Teletrece",
+        "name": "T13 - CHILE",
         "icono": "https://i.ibb.co/1GnVTDfS/image.png",
         "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_900.m3u8"
       }
