@@ -113,6 +113,12 @@
         "icono": "https://i.ibb.co/nMbd6MtP/image.png"
       },
       {
+        "name": "MEGATV",
+        "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+        "texto": "MEGACADENA"
+        "icono": "https://i.ibb.co/k2v9h20H/image.png"
+      },
+      {
         "name": "RB TV-RADIO",
         "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "icono": "https://i.ibb.co/pmnkppb/image.png"
@@ -121,7 +127,7 @@
         "name": "REGIONAL TV YAGUARON",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "icono": "https://i.ibb.co/gZgY8gY7/image.png",
-        "texto": "INTERCABLE - INTERFLASH -  SEÑAL EN PRUEBA"
+        "texto": "INTERCABLE - INTERFLASH"
       },
       {
         "name": "E40",
@@ -171,9 +177,9 @@
         "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
         {
-        "name": "FARRA PLAY (NOT 24/7) ",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "icono": "https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png"
+        "name": "HEI ",
+        "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "https://i.ibb.co/XkLZ49BM/image.png"
       },
        {
         "name": "REPUBLICA FM TV",
