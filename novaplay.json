@@ -895,6 +895,12 @@
         "icono": "https://i.ibb.co/mFV5k2mk/24h-2026-svg.png"
       },
       {
+        "name": "CNN",
+        "texto": "EN ESPAÑOL",
+        "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/4gDZSNZC/image.png"
+      },
+      {
         "name": "DW EN ESPAÑOL",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
         "icono": "https://i.ibb.co/Lzz8MCDR/image.png"
