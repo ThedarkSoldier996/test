@@ -359,32 +359,7 @@
           {
             "name": "Origin",
             "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "AR12",
-        "icono": "https://i.ibb.co/tdz3c0k/images.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
+          },    
       {
         "name": "TV PUBLICA",
         "icono": "https://i.ibb.co/BxvKD3z/image.png",
@@ -2504,7 +2479,7 @@
       },
       {
         "name": "Señal No Asignada",
-        "url": "http://177.10.184.193:8000/play/a0a7/index.m3u8",
+        "url": "http://177.10.184.193:8000/play/a053/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       }
     ]
