@@ -1181,7 +1181,7 @@
   "icono": "https://i.ibb.co/VWDzXmT3/image.png",
   "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
   "type": "CLEARKEY",
-   "drm_license_uri":"eyJkcm1fa2V5cyI6eyIzZmMzNzBhYjA4MjE4ZGE1ZGFkOWI5NjQ0ZjFkZjU3YiI6IjFkZGM2MDkxNmMwZWZkMjk5OTBjYjFkMzE5ZTc3MTBhIn19",       
+   "drm_license_uri":"https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/dato1.json",       
   "headers": [
     {
       "name": "Origin",
