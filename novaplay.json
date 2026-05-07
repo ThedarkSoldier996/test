@@ -115,11 +115,6 @@
         "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
-       {
-        "name": "ÑANDUTI TV - SEÑAL EXTRA",
-        "url": "https://nanduti.b-cdn.net/480p.m3u8",
-        "icono": "https://i.ibb.co/nMbd6MtP/image.png"
-      },
       {
         "name": "RB TV-RADIO",
         "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
@@ -2488,26 +2483,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "CANALES NO ASIGNADOS ",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "http://177.10.184.193:8000/play/a061/index.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "http://177.10.184.193:8000/play/a09k/index.m3u8",
-        "texto": "Prueba123",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-{
-        "name": "Señal No Asignada",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "https://is.gd/Nr43MA",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
-      },
       {
         "name": "Señal No Asignada",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
