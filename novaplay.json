@@ -2488,20 +2488,6 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-        "name": "DSPORTS+",
-        "uri": "https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1",
-        "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
-      },
-{
-        "name": "FOX Sports",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd",
-        "icono": "https://i.postimg.cc/FH1FPMTD/fox-sports-en-espanol.png"
-      },
-      {
         "name": "Señal No Asignada",
         "url": "http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
