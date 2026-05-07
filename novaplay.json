@@ -51,8 +51,13 @@
     "items": [
       {
         "name": "Pilar Streaming",
-        "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/chunklist_w398096458.m3u8",
-        "icono": "https://i.ibb.co/5zqBSfK/image.png"
+        "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/playlist.m3u8",
+        "icono": "https://i.ibb.co/PyS6QSz/image.png"
+      },
+      {
+        "name": "Cambyreta TV",
+        "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8",
+        "icono": "https://i.ibb.co/PzQ8mhDF/image.png"
       },
       {
         "name": "DELREY TV",
