@@ -910,6 +910,12 @@
         "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/4gDZSNZC/image.png"
       },
+            {
+        "name": "CNN INTERNACIONAL",
+        "texto": "SEÑAL INTERNACIONAL",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
+        "icono": "https://i.ibb.co/3mN9Wb0K/image.png"
+      },
       {
         "name": "DW EN ESPAÑOL",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
