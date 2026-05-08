@@ -572,7 +572,7 @@
         "name": "FOX SPORTS 1 AR",
         "icono": "https://i.ibb.co/zbWxZ95/fs1.png",
         "type": "CLEARKEY",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/457.m3u8",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "headers": [
           {
@@ -587,14 +587,14 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "FOX SPORTS 2 AR",
+        "name": "FOX SPORTS 2 MX",
         "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8"
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/529.m3u8"
       },
       {
         "name": "FOX SPORTS 3 AR",
         "icono": "https://i.ibb.co/vxcj4GS9/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8"        
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/455.m3u8"        
       },
         {
         "name": "FOX DEPORTES USA",
