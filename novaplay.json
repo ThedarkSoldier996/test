@@ -69,6 +69,11 @@
         "icono": "https://i.ibb.co/PzQ8mhDF/image.png"
       },
       {
+        "name": "FarraTV",
+        "icono": "https://i.ibb.co/tM77ZJ71/image.png",
+        "url": "http://159.203.148.226/live/farra_src.m3u8"
+    },
+      {
         "name": "DELREY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/W7bV4hm/image.png"
@@ -2483,7 +2488,7 @@
    {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
       {
         "name": "Señal No Asignada",
@@ -2491,7 +2496,7 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
      {
-    "name": "Señal No Asignada - FarraTV",
+    "name": "Señal No Asignada",
     "icono": "https://i.ibb.co/ymrjyWMP/image.png",
     "url": "http://159.203.148.226/live/farra_src.m3u8"
     },
