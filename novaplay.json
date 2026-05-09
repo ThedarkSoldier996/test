@@ -36,10 +36,14 @@
       },
        {
         "name": "NOVASPORTS2",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "texto": " Premier League: Manchester City vs Brentford - Señal Disponbile generalmente minutos antes del evento",
+         "url": "https://streamtpnew.com/global1.php?stream=disney12",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      }
+             {
+        "name": "NOVASPORTS3",
+        "texto": " Premier League: Manchester City vs Brentford - Señal Disponbile generalmente minutos antes del evento",
+         "url": "https://streamtpnew.com/global1.php?stream=max3",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       }
     ]
