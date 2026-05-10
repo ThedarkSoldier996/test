@@ -798,14 +798,24 @@
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
-      {
+            {
         "name": "TNT SPORTS",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/460.m3u8",
+        "icono": "https://i.ibb.co/FkKkR38v/image.png"
+      },
+      {
+        "name": "TNT SPORTS - SEÑAL EXTRA",
         "url": "https://streamtpnew.com/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/bRLKjSqh/image.png"
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
       },
       {
         "name": "TYC SPORTS",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/462.m3u8",
+        "icono": "https://i.ibb.co/5WKwQfYb/image.png"
+      },
+      {
+        "name": "TYC SPORTS - SEÑAL EXTRA",
         "url": "https://streamtpnew.com/global1.php?stream=tycsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/5WKwQfYb/image.png"
