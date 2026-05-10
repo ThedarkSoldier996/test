@@ -502,8 +502,8 @@
         "icono": "https://i.ibb.co/nqcYm9rV/image.png"
       },
              {
-        "name": "ESPN 5 SUR",
-        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8",
+        "name": "ESPN 5",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/526.m3u8",
         "icono": "https://i.ibb.co/nqcYm9rV/image.png"
       },
       {
@@ -527,6 +527,11 @@
       },
       {
         "name": "ESPN 7",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/453.m3u8",
+        "icono": "https://i.ibb.co/C58TyQ02/image.pngg"
+      },
+      {
+        "name": "ESPN 7 - SEÑAL EXTRA",
         "icono": "https://i.ibb.co/C58TyQ02/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn7",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
