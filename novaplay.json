@@ -2495,25 +2495,10 @@
     "url": "http://159.203.148.226/live/farra_src.m3u8"
     },
       {
-  "name": "Señal no Asignada",
-  "icono": "https://i.ibb.co/VWDzXmT3/image.png",
-  "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
-  "type": "CLEARKEY",
-  "drm_license_uri": "{\"3fc370ab08218da5dad9b9644f1df57b\":\"1ddc60916c0efd29990cb1d319e7710a\"}",
-  "headers": [
-    {
-      "name": "Origin",
-      "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
-    },
-    {
-      "name": "Referer",
-      "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
-    },
-    {
-      "name": "User-Agent",
-      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
-  ]
+  "name": "A24",
+  "logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true",
+  "user": "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)",
+  "url": "https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8"
 }
     ]
   }
