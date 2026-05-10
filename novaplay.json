@@ -844,6 +844,11 @@
     "items": [
       {
         "name": "DIRECTV SPORTS",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/480.m3u8",
+        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
+      },
+      {
+        "name": "DIRECTV SPORTS - SEÑAL EXTRA",
         "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
         "type": "hls",
@@ -869,6 +874,11 @@
       },
       {
         "name": "DIRECTV SPORTS 2",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/473.m3u8",
+        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
+      },
+      {
+        "name": "DIRECTV SPORTS 2 - SEÑAL EXTRA",
         "url": "https://streamtpnew.com/global1.php?stream=dsports2",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
         "type": "hls",
