@@ -37,7 +37,7 @@
        {
         "name": "NOVASPORTS2",
         "texto": " Barcelona vs Real Madrid",
-         "url": "190.108.83.69:8000/play/a05w/92739280.m3u8",
+         "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       }
     ]
