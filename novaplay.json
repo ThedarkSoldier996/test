@@ -2543,28 +2543,27 @@
     "icono": "https://i.ibb.co/ymrjyWMP/image.png",
     "url": "200.112.174.230/mtcast_tntsportshd/mpegts"
     },
-     {
-  "name": "Señal No Asignada",
-  "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-  "license_type": "clearkey",
-
-  "license_key": "53435b9cdf6e477186b81aa09007cb0b:e800e0d6eb497c84f0b0c2191df10632",
-
-  "clearkey_json": {
-    "keys": [
-      {
-        "kty": "oct",
-        "kid": "U0NbnN9uR3GGuBqgkAfLCw",
-        "k": "6ADg1utJfITwsMIZHfEGMg"
-      }
-    ],
-    "type": "temporary"
-  },
-
-  "clearkey_base64": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJVME5ibk45dVIzR0d1QnFna0FmTEN3IiwiayI6IjZBRGcxdXRKZklUd3NNSVpIZkVHTWcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ",
-
-  "url": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CANAL_CLARO_HD)/manifest.mpd"
-}
+   {
+        "name": "Señal no Asignada 2",
+        "logo": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": [
+            "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY0OTkzNDMwIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiNjk0MjgzM2ExYTE0OTUzNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.CCBHjAFmjvrPOH1HJ0ROsUsT38uHXRS2Nnc_h1RchuRucwiEvxLopLr5d95qUeiCpafjiJZ-4CyoVicFq2nSww==/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd",
+            "http://186.194.160.110:9002/play/a0h9/index.m3u8"
+        ],
+        "headers": {
+            "origin": "https://portal.app.flow.com.ar"
+        },
+        "drm": {
+            "scheme": "clearkey",
+            "license_url": "",
+            "keys": [
+                {
+                    "kid": "95bd64227acf458daf7886f803d0298e",
+                    "key": "79e28ee0ec58958bb666f9e53a0cd434"
+                }
+            ]
+        }
+    }
     ]
   }
   
