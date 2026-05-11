@@ -444,7 +444,7 @@
       {
         "name": "ESPN 1 ARGENTINA ",
         "texto": "Se Recomienda ingresar 1 hora o 30 min antes de cada partido",
-        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/518.m3u8",
+        "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
         "icono": "https://i.ibb.co/20cw7BQs/image.png"
       },
             {
@@ -2531,7 +2531,7 @@
            {
     "name": "Señal No Asignada 2",
     "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-    "url": "http://138.59.227.20:8000/play/a099/index.m3u8"      
+    "url": "http://138.59.227.20:8000/play/a098/index.m3u8"      
     },
      
       {
