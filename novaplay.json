@@ -2409,9 +2409,7 @@
  {
   "name": "TEST ",
   "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-  "url": "https://chromecast.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd?Referer=https://portal.app.flow.com.py/&Origin=https://portal.app.flow.com.py&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36",
-  "type": "CLEARKEY",
-  "drm_license_uri": "c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff"
+  "url": "http://38.199.4.105:9999/play/a0gr/index.m3u8"
 }
     ]
   }
