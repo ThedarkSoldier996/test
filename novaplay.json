@@ -453,11 +453,6 @@
         "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
         "icono": "https://i.ibb.co/20cw7BQs/image.png"
       },
-            {
-        "name": "ESPN 1 SUR ",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8",
-        "icono": "https://i.ibb.co/20cw7BQs/image.png"
-      },
       {
         "name": "ESPN 2 COLOMBIA ",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
@@ -467,11 +462,6 @@
             {
         "name": "ESPN 2 ARGENTINA ",
         "url": "http://138.59.227.20:8000/play/a098/index.m3u8",
-        "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
-      },
-        {
-        "name": "ESPN 2 SUR ",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8",
         "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
             {
