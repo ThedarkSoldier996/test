@@ -244,9 +244,10 @@
         "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
       },
        {
-        "name": "CRONICA TV",
+        "name": "TEST",
         "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8"
+         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",
+        "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
       },
             {
         "name": "AMERICA TV",
