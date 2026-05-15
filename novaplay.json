@@ -869,11 +869,6 @@
         "name": "VTV CANAL 23 -  REP. DOMINICANA",
         "icono": "https://i.ibb.co/9k2C9zWw/image.png",
         "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
-      },
-      {
-        "name": "T13 - CHILE",
-        "icono": "https://i.ibb.co/1GnVTDfS/image.png",
-        "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_900.m3u8"
       }
     ]
   },
