@@ -119,7 +119,8 @@
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
             {
-        "name": "TRECE - SEÑAL EXTRA",
+        "name": "TRECE",
+        "info": "Señal Extra",      
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "Conexión via Dailymotion"
@@ -135,7 +136,8 @@
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
       {
-        "name": "ÑANDUTI TV - SEÑAL EXTRA",
+        "name": "ÑANDUTI TV",
+        "info": "Señal Extra",
         "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
@@ -145,7 +147,7 @@
         "icono": "https://i.ibb.co/pmnkppb/image.png"
       },
       {
-        "name": "REGIONAL TV YAGUARON",
+        "name": "REGIONAL TV",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "icono": "https://i.ibb.co/gZgY8gY7/image.png",
         "texto": "INTERCABLE - INTERFLASH"
@@ -171,7 +173,8 @@
         "icono": "https://i.ibb.co/nNBj6fnk/image.png"
       },
       {
-        "name": "UNICANAL - SEÑAL EXTRA",
+        "name": "UNICANAL",
+        "info": "Señal Extra",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
         "icono": "https://i.ibb.co/G4KnJjPY/image.png",
         "texto": "Conexión via Dailymotion"
@@ -342,42 +345,14 @@
       {
         "name": "EL TRECE",
         "icono": "https://i.ibb.co/vxYT2dp9/image.png",
-        "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "http://45.5.151.147:8000/play/a00f/index.m3u8"
       },
       {
         "name": "CANAL 26",
         "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png",
-        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      }
-    ]
-  },
-  {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+      },
+     {
     "type": "category",
     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
     "title": "⚽ ESPN ⚽",
