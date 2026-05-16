@@ -595,6 +595,7 @@
       {
         "name": "STAR CHANNEL HD",
         "info":"Señal Extra",
+        "VLC": "true",
         "url": "http://209.45.101.155:8000/play/a01h",
         "icono": "https://i.ibb.co/MkxJnp7W/image.png"
       },
