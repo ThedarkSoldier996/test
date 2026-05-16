@@ -589,8 +589,13 @@
       },
       {
         "name": "STAR CHANNEL HD",
-        "status": "false",
-        "url": "http://181.78.82.6:46090/play/a0cf/index.m3u8",
+        "url": "http://45.5.119.97:12500/play/a06j/index.m3u8",
+        "icono": "https://i.ibb.co/MkxJnp7W/image.png"
+      },
+      {
+        "name": "STAR CHANNEL HD",
+        "info"."Señal Extra",
+        "url": "http://209.45.101.155:8000/play/a01h",
         "icono": "https://i.ibb.co/MkxJnp7W/image.png"
       },
       {
@@ -670,7 +675,8 @@
       },
       {
         "name": "DISCOVERY",
-        "status":"false",
+        "status":"true",
+        "VLC": "true",
         "info": "En Diferido",
         "url": "http://190.83.9.222:8000/play/ca038/index.m3u8",
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
@@ -2329,7 +2335,7 @@
         {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://190.7.19.197:232/play/a041/index.m3u8"
+        "url": "https://goo.su/RmnAEy"
       }
     ]
   }
