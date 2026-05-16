@@ -240,6 +240,12 @@
     "title": " ARGENTINA",
     "items": [
       {
+        "name": "CANAL 13",
+        "info": "La Rioja",
+        "icono": "https://i.ibb.co/V0wpwbyw/image.png",
+        "url": "http://arcast.net:1935/mp/mp/playlist.m3u8"
+      },
+      {
         "name": "Telemax",
         "icono": "https://i.ibb.co/GQ2n4jtV/image.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
@@ -263,36 +269,11 @@
       {
         "name": "AMERICA TV INTERNACIONAL",
         "icono": "https://i.ibb.co/35gPz3bL/image.png",
-        "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://vmf.edge-apps.net/"
-          },
-          {
-            "name": "Referer",
-            "value": "https://vmf.edge-apps.net/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
+        "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8"      },
       {
         "name": "CANAL 6 POSADAS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_6_Digital_Posadas_%28Logo_2025%29.png",
-        "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
       },
       {
         "name": "TELEFE",
@@ -2367,7 +2348,7 @@
         {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://arcast.net:1935/mp/mp/playlist.m3u8"
+        "url": "http://190.7.19.197:232/play/a040/index.m3u8"
       }
     ]
   }
