@@ -523,26 +523,19 @@
         "type": "hls"
       },
       {
-        "visible": "true",
         "name": "CINEMAX HD",
         "url": "http://181.78.82.6:46090/play/a0fm/index.m3u8",
-        "icono": "https://i.ibb.co/Wvk5XLJC/image.png",
-        "type": "hls"
+        "icono": "https://i.ibb.co/Wvk5XLJC/image.png"
       },
       {
-        "visible": "true",
         "name": "RCN NOVELAS",
         "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
-        "icono": "https://i.ibb.co/N2TZV3Sv/image.png",
-        "type": "CLEARKEY",
-        "type": "hls"
+        "icono": "https://i.ibb.co/N2TZV3Sv/image.png"
       },
       {
-                "name": "TLN",
-                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
+       "name": "TLN",
+       "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+       "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
       {
         "name": "RETRO X TV",
@@ -588,20 +581,12 @@
       {
         "name": "TODONOVELAS",
         "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
-        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
+        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
+      },
+      {
+        "name": "DISCOVERY SCIENCE",
+        "icono": "https://i.ibb.co/sdDBv4v4/image.png",
+        "url": "http://177.10.184.193:8000/play/a02m/index.m3u8"
       },
       {
         "name": "SONY CHANNEL",
