@@ -2334,6 +2334,8 @@
       },
         {
         "name": "Señal No Asignada",
+          "status": "false",
+         "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
         "url": "https://goo.su/RmnAEy"
       }
