@@ -609,6 +609,18 @@
         "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
       },
       {
+        "name": "AXN",
+        "info": "Señal Extra",
+        "url": "http://45.173.12.70:8000/play/a05b/index.m3u8",
+        "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
+      },
+            {
+        "name": "AXN",
+        "info": "Señal Extra 2",
+        "url": "http://181.78.84.78:8910/play/a0em/index.m3u8",
+        "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
+      },
+      {
         "name": "FX",
         "url": "http://38.199.4.105:9999/play/a0hl/index.m3u8",
         "icono": "https://i.ibb.co/dsp1RDmw/image.png"
@@ -644,6 +656,23 @@
         "info": "Señal Extra",
         "url": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
         "icono": "https://i.ibb.co/hxnBDPpS/image.png"
+      },
+       {
+        "name": "DISCOVERY",
+        "url": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
+        "icono": "https://i.ibb.co/TxVd2wJd/image.png"
+      },
+      {
+        "name": "DISCOVERY",
+        "info": "Señal Extra",
+        "url": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
+        "icono": "https://i.ibb.co/TxVd2wJd/image.png"
+      },
+      {
+        "name": "DISCOVERY",
+        "info": "En Diferido",
+        "url": "http://190.83.9.222:8000/play/ca038/index.m3u8",
+        "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       }
     ]
   },
