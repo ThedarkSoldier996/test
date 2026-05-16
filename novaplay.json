@@ -83,7 +83,6 @@
       },
       {
         "name": "TELEFUTURO",
-        "pais": "Paraguay",
         "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
@@ -228,6 +227,12 @@
         "texto": "SEÑAL TV Y RADIO"
       },
       {
+        "name": "COSMOS TV",
+        "info": "TV Y RADIO",
+        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "icono": "https://i.ibb.co/m5BwgvgL/image.png"
+      },
+      {
         "name": "MITV",
         "icono": "https://i.ibb.co/93ZMbXCy/image.png",
         "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion"
@@ -239,6 +244,12 @@
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
     "title": " ARGENTINA",
     "items": [
+      {
+        "name": "COSMOS TV",
+        "info": "Radio FM - TV",
+        "icono": "https://i.ibb.co/YrNjw3J/image.png",
+        "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+      },
       {
         "name": "CANAL 13",
         "info": "La Rioja",
