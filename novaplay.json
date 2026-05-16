@@ -193,7 +193,7 @@
       },
         {
         "name": "HEI NOW ",
-        "url": "https://tigocloud.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "url": "https://tigocloud.desdeparaguay.net/heitv/heitv_py_baja/playlist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/XkLZ49BM/image.png"
       },
        {
@@ -245,8 +245,14 @@
     "title": " ARGENTINA",
     "items": [
        {
+        "name": "CATAMARCA TV",
+        "info": "RADIO/TV",
+        "icono": "https://i.ibb.co/Q7msJV6J/image.png",
+        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8"
+      },
+       {
         "name": "TN",
-        "info": "TELE NOTICIAS",
+        "info": "TeleNoticias",
         "icono": "https://i.ibb.co/wm1j5x9/image.png",
         "url": "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8"
       },     
