@@ -444,9 +444,41 @@
          "icono": "https://i.ibb.co/sd7g73J2/image.png"
       },
        {
-        "name": "ESPN PREMIUM - SEÑAL EXTRA ",
+        "name": "ESPN PREMIUM",
+        "info": "Señal Extra",  
         "url": "http://138.59.227.20:8000/play/a086/index.m3u8",
        "icono": "https://i.ibb.co/Zz9Dyg6H/image.png"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "info": "Señal Extra - Chile",  
+        "url": "http://205.235.6.29:8000/play/a0pz/index.m3u8",
+       "icono": "https://i.ibb.co/Zz9Dyg6H/image.png"
+      },
+      {
+        "name": "FOX SPORTS 1",
+        "info": "Argentina",
+        "icono": "https://i.ibb.co/0yCtMZVW/image.png",
+        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "info": "Argentina",
+        "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
+        "url": "http://138.59.227.20:8000/play/a09b/index.m3u8"
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "info": "Argentina",
+        "icono": "https://i.ibb.co/vxcj4GS9/image.png",
+        "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"        
+      },
+        {
+        "name": "FOX DEPORTES",
+        "info": "Estados Unidos",  
+        "icono": "https://i.ibb.co/nNjrswbM/image.png",
+        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+        "texto": "IDIOMA: ESPAÑOL"
       }
     ]
   },
