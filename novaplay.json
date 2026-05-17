@@ -2273,8 +2273,8 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "icono": "http://181.78.71.71:18000/play/a03p/index.m3u8",
-        "url": "https://i.ibb.co/ymrjyWMP/image.png"
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "http://181.78.71.71:18000/play/a03p/index.m3u8"
       },
        {
         "name": "Señal No Asignada",
