@@ -642,6 +642,16 @@
         "url": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       },
+      {
+        "name": "SUN CHANNEL",
+        "url": "http://138.121.12.126:8000/play/a02u/index.m3u8",
+        "icono": "https://i.ibb.co/BFsJVVG/image.png"
+      },
+       {
+        "name": "NAT GEO",
+        "url": "http://181.224.255.210:8001/play/a0m2/index.m3u8",
+        "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
+      },
             {
         "name": "HGTV",
         "url": "http://190.0.247.38:8000/play/a00u",
