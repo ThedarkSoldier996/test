@@ -519,6 +519,12 @@
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/FkKkR38v/image.png"
       },
+            {
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Chile",   
+        "url": "http://45.181.120.65:9087/play/057/index.m3u8",
+        "icono": "https://i.ibb.co/FkKkR38v/image.png"
+      },
       {
         "name": "TYC SPORTS",
         "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
@@ -600,9 +606,15 @@
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
             {
-        "name": "CLARO SPORTS MX",
-        "url": "http://181.78.109.48:9998/play/a06u/index.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
+        "name": "MOVISTAR DEPORTES",
+        "url": "http://38.188.100.18:8000/play/a0fb/index.m3u8",
+        "icono": "hhttps://i.ibb.co/rKWH0YF8/image.png"
+      },
+      {
+        "name": "MOVISTAR DEPORTES",
+         "info": "Señal Extra", 
+        "url": "http://190.234.82.52:8000/play/ac1q/index.m3u8",
+        "icono": "hhttps://i.ibb.co/rKWH0YF8/image.png"
       }
     ]
   },
