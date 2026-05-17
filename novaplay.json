@@ -5,7 +5,8 @@
     "title": "EVENTOS",
     "items": [
       {
-        "name": "TîGO SPORTS - EVENTOS 1",
+        "name": "TIGO SPORTS PY",
+        "info":"Eventos 1",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
@@ -13,7 +14,8 @@
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
       {
-        "name": "TîGO SPORTS - EVENTOS 2",
+        "name": "TIGO SPORTS PY",
+        "info":"Eventos 2",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
@@ -21,7 +23,8 @@
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
       {
-        "name": "TîGO SPORTS - EVENTOS 3",
+        "name": "TIGO SPORTS PY",
+        "info":"Eventos 3",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
@@ -30,7 +33,7 @@
       },
       {
         "name": "NOVASPORTS",
-        "info": "Tigo Sports",
+        "info": "Tigo Sports PY",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
@@ -2290,7 +2293,7 @@
      {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://190.117.20.39:8000/play/a08c/index.m3u8"
+        "url": "http://181.118.158.103:8000/play/a026/index.m3u8"
       },
         {
         "name": "Señal No Asignada",
