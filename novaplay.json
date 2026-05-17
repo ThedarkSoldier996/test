@@ -2281,7 +2281,12 @@
      {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://181.118.158.103:8000/play/a026/index.m3u8"
+        "url": "http://38.188.100.18:8000/play/a0fb/index.m3u8"
+      },
+       {
+        "name": "Señal No Asignada",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "http://190.234.82.52:8000/play/ac1q/index.m3u8"
       },
         {
         "name": "Señal No Asignada",
