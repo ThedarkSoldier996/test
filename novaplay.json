@@ -513,22 +513,36 @@
     "title": "ENTRETENIMIENTO",
     "items": [
       {
-        "visible": "true",
         "name": "NCIS Criminologia Naval",
         "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
-        "icono": "https://i.ibb.co/BH295xff/image.png",
-        "type": "hls"
+        "icono": "https://i.ibb.co/BH295xff/image.png"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "url": "http://177.10.184.193:8000/play/a09x/index.m3u8",
-        "icono": "https://i.ibb.co/rKvj7dqv/image.png",
-        "type": "hls"
+        "icono": "https://i.ibb.co/rKvj7dqv/image.png"
       },
       {
-        "name": "CINEMAX HD",
+        "name": "CINEMAX",
         "url": "http://181.78.82.6:46090/play/a0fm/index.m3u8",
         "icono": "https://i.ibb.co/Wvk5XLJC/image.png"
+      },
+            {
+        "name": "CINEMAX",
+        "info": "Señal Extra",     
+        "url": "http://45.5.151.62:8000/play/a012/index.m3u8",
+        "icono": "https://i.ibb.co/Wvk5XLJC/image.png"
+      },
+      {
+        "name": "CINEMAX",
+        "info": "Señal Extra 2",     
+        "url": "http://190.83.9.222:8000/play/ca092",
+        "icono": "https://i.ibb.co/Wvk5XLJC/image.png"
+      },
+       {
+        "name": "CINECANAL",
+        "url": "http://181.224.255.210:8001/play/a0ob/index.m3u8",
+        "icono": "https://i.ibb.co/yB4Jjt4s/image.png"
       },
       {
         "name": "RCN NOVELAS",
