@@ -495,6 +495,47 @@
         "info": "Señal Extra",
         "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
         "icono": "https://i.ibb.co/JjGGTTmv/image.png"
+      },
+      {
+        "name": "TUDN",
+        "url": "https://streaming.alwaysdata.net/tudn.php",
+        "icono": "https://i.ibb.co/21rG76g7/image.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+        "icono": "https://i.ibb.co/FkKkR38v/image.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Señal Extra",   
+        "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Señal Extra",   
+        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Señal Extra",
+        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
+      },
+      {
+        "name": "TYC SPORTS",
+        "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+        "icono": "https://i.ibb.co/5WKwQfYb/image.png"
+      },
+      {
+        "name": "TYC SPORTS",
+        "info": "Señal Extra",  
+        "url": "https://streamtpnew.com/global2.php?stream=tycsports",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "icono": "https://i.ibb.co/5WKwQfYb/image.png"
       }
     ]
   },
@@ -674,55 +715,6 @@
         "name": "CLARO SPORTS",
         "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
-      },
-       {
-        "name": "TUDN",
-         "status": "false",
-        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8",
-        "icono": "https://i.ibb.co/21rG76g7/image.png"
-      },
-      {
-        "name": "TUDN",
-        "info": "Señal Extra",
-        "url": "https://streaming.alwaysdata.net/tudn.php",
-        "icono": "https://i.ibb.co/21rG76g7/image.png"
-      },
-            {
-        "name": "TNT SPORTS PREMIUM",
-        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
-        "icono": "https://i.ibb.co/FkKkR38v/image.png"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "info": "Señal Extra 1",   
-        "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
-        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
-      },
-            {
-        "name": "TNT SPORTS PREMIUM",
-        "info": "Señal Extra 2",   
-        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
-        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "info": "Señal Extra 3",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
-      },
-         
-      {
-        "name": "TYC SPORTS",
-        "status": "TRUE",
-        "url": "http://181.13.252.102:8000/play/a02s/index.m3u8",
-        "icono": "https://i.ibb.co/5WKwQfYb/image.png"
-      },
-      {
-        "name": "TYC SPORTS - SEÑAL EXTRA",
-        "url": "https://streamtpnew.com/global2.php?stream=tycsports",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/5WKwQfYb/image.png"
       },
       {
         "name": "MOVISTAR - LA LIGA",
