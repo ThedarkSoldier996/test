@@ -608,13 +608,25 @@
             {
         "name": "MOVISTAR DEPORTES",
         "url": "http://38.188.100.18:8000/play/a0fb/index.m3u8",
-        "icono": "hhttps://i.ibb.co/rKWH0YF8/image.png"
+        "icono": "https://i.ibb.co/rKWH0YF8/image.png"
       },
       {
         "name": "MOVISTAR DEPORTES",
          "info": "Señal Extra", 
         "url": "http://190.234.82.52:8000/play/ac1q/index.m3u8",
-        "icono": "hhttps://i.ibb.co/rKWH0YF8/image.png"
+        "icono": "https://i.ibb.co/rKWH0YF8/image.png"
+      },
+      {
+        "name": "FIFA+",
+        "info": "Spain",
+        "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+        "icono": "https://i.ibb.co/6JtYzTKN/image.png"
+      },
+      {
+        "name": "FIFA+",
+        "info": "Hispanic America",
+        "url": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+        "icono": "https://i.ibb.co/6JtYzTKN/image.png"
       }
     ]
   },
@@ -2267,13 +2279,13 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "icono": "http://181.78.71.71:18000/play/a03p/index.m3u8",
         "url": "http://38.188.100.18:8000/play/a0fb/index.m3u8"
       },
        {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://190.234.82.52:8000/play/ac1q/index.m3u8"
+        "url": "http://191.97.6.30:8000/play/a0f3/index.m3u8"
       },
         {
         "name": "Señal No Asignada",
