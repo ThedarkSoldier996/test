@@ -872,6 +872,18 @@
     "title": "VARIADOS - INTERNACIONALES",
     "items": [
       {
+        "name": "VIVO LATINO",
+        "info": "Música",
+        "icono": "https://i.ibb.co/DHDVCk10/image.png",
+        "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "K-POP BY CJ ENM",
+        "info": "Música",
+        "icono": "https://i.ibb.co/8LVXtd1Q/image.png",
+        "url": "https://jmp2.uk/stvp-US39000038W"
+      },
+      {
         "name": "GARAGE TV",
         "icono": "https://i.ibb.co/dsztVcvP/image.png",
         "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
