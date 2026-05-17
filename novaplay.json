@@ -479,39 +479,26 @@
         "icono": "https://i.ibb.co/nNjrswbM/image.png",
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
         "texto": "IDIOMA: ESPAÑOL"
+      },
+      {
+        "name": "BEIN SPORTPS Ñ",
+        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
+        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
+      },
+      {
+       "name": "BEIN SPORTS EXTRA Ñ",
+       "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+       "icono": "https://i.ibb.co/pNgwzvq/Zz1m-Nm-Ex-MWMy-ZWVl-Nm-Ex-MWVm-OWJh-Nj-Rh-Yz-Ew-Mjk2-ODg1-YQ.jpg"
+      },
+      {
+       "name": "BEIN SPORTS EXTRA Ñ",
+        "info": "Señal Extra",
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
+        "icono": "https://i.ibb.co/JjGGTTmv/image.png"
       }
     ]
   },
-  {
-    "type": "category",
-    "image": "https://i.ibb.co/zbWxZ95/fs1.png",
-    "title": "⚽ FOX SPORTS ⚽ ",
-    "items": [
-      {
-        "name": "FOX SPORTS 1 AR",
-        "info": "Argentina",
-        "icono": "https://i.ibb.co/0yCtMZVW/image.png",
-        "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
-      },
-      {
-        "name": "FOX SPORTS 2 AR",
-        "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
-        "url": "http://138.59.227.20:8000/play/a09b/index.m3u8"
-      },
-      {
-        "name": "FOX SPORTS 3 AR",
-        "icono": "https://i.ibb.co/vxcj4GS9/image.png",
-        "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"        
-      },
-        {
-        "name": "FOX DEPORTES USA",
-        "icono": "https://i.ibb.co/nNjrswbM/image.png",
-        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-        "texto": "IDIOMA: ESPAÑOL"
-      }
-    ]
-      },
-
+  
   {
     "visible": "true",
     "type": "category",
@@ -684,24 +671,9 @@
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
       },
       {
-        "name": "BEIN SPORTPS Ñ",
-        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
-        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
-      },
-      {
         "name": "CLARO SPORTS",
         "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
-      },
-      {
-       "name": "BEIN SPORTS EXTRA Ñ",
-       "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-       "icono": "https://i.ibb.co/pNgwzvq/Zz1m-Nm-Ex-MWMy-ZWVl-Nm-Ex-MWVm-OWJh-Nj-Rh-Yz-Ew-Mjk2-ODg1-YQ.jpg"
-      },
-            {
-                "name": "BEIN SPORTS EXTRA Ñ - SEÑAL EXTRA",
-                "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
-                "icono": "https://i.ibb.co/JjGGTTmv/image.png"
       },
        {
         "name": "TUDN",
