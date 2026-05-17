@@ -2,17 +2,23 @@ name: Mirror Repo
 
 on:
   schedule:
-    - cron: "*/59 * * * *"   # cada 59 minutos
+    - cron: "*/59 * * * *"
   workflow_dispatch:
 
 jobs:
   mirror:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+      workflows: write
+
     steps:
       - name: Clonar repo original como mirror
         run: |
           git clone --mirror https://github.com/ThedarkSoldier996/test.git
           cd test.git
-          git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/hanknova/novaplay.git
+
+          git remote set-url --push origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/hanknova/novaplay.git
+
           git push --mirror
