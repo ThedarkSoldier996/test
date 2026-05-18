@@ -4,6 +4,21 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "EVENTOS",
     "items": [
+            {
+        "name": "NOVASPORTS",
+        "info": "Tigo Sports PY - TEST 24/7",
+        "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      },
+      {
+        "name": "NOVASPORTS 2",
+        "info": "Tigo Sports PY",
+        "texto": "Señal Disponbile generalmente 30 min antes del evento",
+        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      },     
       {
         "name": "TIGO SPORTS PY",
         "info":"Eventos 1",
@@ -30,22 +45,7 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
-      },
-      {
-        "name": "NOVASPORTS",
-        "info": "Tigo Sports PY",
-        "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-      {
-        "name": "NOVASPORTS 2",
-        "info": "Tigo Sports PY",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      }     
+      }
     ]
   },
   {
@@ -783,11 +783,6 @@
         "url": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       },
-      {
-        "name": "DISCOVERY H&H",
-        "icono": "https://i.ibb.co/20WP0XmJ/image.png",
-        "url": "http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls"
-      },
             {
         "name": "DISCOVERY THEATER",
         "icono": "https://i.ibb.co/x8h0Lmp0/image.png",
@@ -802,11 +797,6 @@
         "name": "DISCOVERY TURBO",
         "icono": "https://i.ibb.co/LX1JWdhH/image.png",
         "url": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
-      },
-            {
-        "name": "DISCOVERY WORLD",
-        "icono": "https://i.ibb.co/KpvXmvV9/image.png",
-        "url": "http://cablemaxsigloxxi.com:8000/play/a086/index.m3u8?hls"
       },
       {
         "name": "SUN CHANNEL",
