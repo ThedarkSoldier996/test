@@ -2300,8 +2300,10 @@
       },
 {
         "name": "Señal No Asignada",
-        "info": "TEST SEÑAL",
+        "info": "TEST",
         "url": "https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd",
+         "type": "widevine",
+         "drm_license_uri": "https://cwip-shaka-proxy.appspot.com/no_auth",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
        {
