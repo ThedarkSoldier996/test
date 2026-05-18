@@ -1061,9 +1061,8 @@
         
        {
         "name": "CARTOONITO",
-         "status": "false",
         "icono": "https://i.ibb.co/VWDzXmT3/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-30.playlist.m3u8"
+        "url": "http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls"
       },
       {
         "name": "DISNEY JR",
@@ -2311,6 +2310,7 @@
         "name": "Señal No Asignada",
          "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "loader":"yes",
         "nsfw":"yes",  
         "url": "https://goo.su/KoXJ"
       }
