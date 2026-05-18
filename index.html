@@ -1,3 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>NovaPlay Panel</title>
+
+<style>
+body{
+  background:#111;
+  color:white;
+  font-family:Arial;
+  max-width:500px;
+  margin:auto;
+  padding:20px;
+}
+
+input, select, textarea{
+  width:100%;
+  padding:10px;
+  margin-bottom:10px;
+  border-radius:8px;
+  border:none;
+  background:#222;
+  color:white;
+}
+
+button{
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:8px;
+  background:#00bcd4;
+  color:white;
+  cursor:pointer;
+}
+</style>
+</head>
+
+<body>
+
+<h2>Agregar Canal</h2>
+
+<select id="category">
+  <option>Deportes</option>
+  <option>Peliculas</option>
+</select>
+
+<input id="name" placeholder="Nombre">
+<input id="url" placeholder="URL">
+<input id="logo" placeholder="Logo">
+
+<input id="info" placeholder="Info">
+<textarea id="texto" placeholder="Texto"></textarea>
+
+<select id="nsfw">
+  <option value="no">No NSFW</option>
+  <option value="yes">NSFW</option>
+</select>
+
+<select id="protection">
+  <option value="no">Sin protección</option>
+  <option value="yes">Con protección</option>
+</select>
+
+<input id="referer" placeholder="Referer">
+<input id="drmType" placeholder="DRM type">
+<input id="license" placeholder="License URL">
+
+<button onclick="send()">Enviar</button>
+
 <script>
 
 const API =
@@ -48,3 +118,6 @@ async function send(){
 }
 
 </script>
+
+</body>
+</html>
