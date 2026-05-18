@@ -2251,6 +2251,13 @@
          "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GU8GghgOFH95KAeNzHigGQ\",\"k\":\"3fwIVF50pr2IcPEYnNG-wA\"}],\"type\":\"temporary\"}",
         "url": "https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?"
       },
+      {
+        "name": "NOVASPORTS 2 ",
+        "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png"
+      },
        {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
