@@ -2,120 +2,236 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NovaPlay Panel</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>NovaPlay Admin Panel</title>
 
 <style>
+
 body{
-  background:#111;
-  color:white;
+  margin:0;
   font-family:Arial;
-  max-width:500px;
+  background:#0f1115;
+  color:#fff;
+}
+
+.container{
+  max-width:520px;
   margin:auto;
   padding:20px;
 }
 
+.card{
+  background:#161a22;
+  padding:20px;
+  border-radius:14px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.4);
+}
+
+h1{
+  font-size:20px;
+  margin-bottom:20px;
+}
+
+label{
+  font-size:12px;
+  opacity:0.7;
+}
+
 input, select, textarea{
   width:100%;
-  padding:10px;
-  margin-bottom:10px;
-  border-radius:8px;
+  padding:12px;
+  margin-top:5px;
+  margin-bottom:15px;
   border:none;
-  background:#222;
-  color:white;
+  border-radius:10px;
+  background:#0f1115;
+  color:#fff;
+  outline:none;
+}
+
+textarea{
+  height:80px;
+  resize:none;
 }
 
 button{
   width:100%;
-  padding:12px;
-  border:none;
-  border-radius:8px;
+  padding:14px;
   background:#00bcd4;
-  color:white;
+  border:none;
+  border-radius:10px;
+  color:#000;
+  font-weight:bold;
   cursor:pointer;
 }
+
+button:hover{
+  opacity:0.9;
+}
+
+.status{
+  margin-top:10px;
+  font-size:13px;
+  text-align:center;
+  opacity:0.8;
+}
+
+.badge{
+  display:inline-block;
+  padding:3px 8px;
+  background:#2a2f3a;
+  border-radius:8px;
+  font-size:11px;
+  margin-bottom:10px;
+}
+
 </style>
 </head>
 
 <body>
 
-<h2>Agregar Canal</h2>
+<div class="container">
 
-<select id="category">
-  <option>Deportes</option>
-  <option>Peliculas</option>
-</select>
+  <div class="card">
 
-<input id="name" placeholder="Nombre">
-<input id="url" placeholder="URL">
-<input id="logo" placeholder="Logo">
+    <div class="badge">NovaPlay Admin</div>
 
-<input id="info" placeholder="Info">
-<textarea id="texto" placeholder="Texto"></textarea>
+    <h1>Agregar Canal</h1>
 
-<select id="nsfw">
-  <option value="no">No NSFW</option>
-  <option value="yes">NSFW</option>
-</select>
+    <label>Categoría</label>
+    <select id="category">
+      <option>Cargando...</option>
+    </select>
 
-<select id="protection">
-  <option value="no">Sin protección</option>
-  <option value="yes">Con protección</option>
-</select>
+    <label>Nombre</label>
+    <input id="name" placeholder="Ej: ESPN HD">
 
-<input id="referer" placeholder="Referer">
-<input id="drmType" placeholder="DRM type">
-<input id="license" placeholder="License URL">
+    <label>URL Stream</label>
+    <input id="url" placeholder="https://...m3u8">
 
-<button onclick="send()">Enviar</button>
+    <label>Logo</label>
+    <input id="logo" placeholder="https://logo.png">
+
+    <label>Info</label>
+    <input id="info" placeholder="En Español">
+
+    <label>Texto adicional</label>
+    <textarea id="texto"></textarea>
+
+    <label>NSFW</label>
+    <select id="nsfw">
+      <option value="no">No</option>
+      <option value="yes">Sí</option>
+    </select>
+
+    <label>Protección</label>
+    <select id="protection">
+      <option value="no">No</option>
+      <option value="yes">Sí</option>
+    </select>
+
+    <input id="referer" placeholder="Referer">
+    <input id="drmType" placeholder="DRM Type">
+    <input id="license" placeholder="License URL">
+
+    <button onclick="send()">Enviar Canal</button>
+
+    <div class="status" id="status"></div>
+
+  </div>
+
+</div>
 
 <script>
 
 const API =
 "https://api.github.com/repos/ThedarkSoldier996/test/dispatches";
 
+const RAW_JSON =
+"https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json";
+
+async function loadCategories(){
+
+  try{
+
+    const res = await fetch(RAW_JSON + "?t=" + Date.now());
+    const data = await res.json();
+
+    const select = document.getElementById("category");
+    select.innerHTML = "";
+
+    const categories = data.filter(
+      c => c.type === "category"
+    );
+
+    categories.forEach(cat => {
+
+      const option = document.createElement("option");
+
+      option.value = cat.title;
+      option.textContent = cat.title;
+
+      select.appendChild(option);
+
+    });
+
+  }catch(e){
+
+    document.getElementById("status").innerText =
+      "Error cargando categorías";
+
+  }
+}
+
 async function send(){
 
-  const category = document.getElementById("category").value;
-  const name = document.getElementById("name").value;
-  const url = document.getElementById("url").value;
-  const logo = document.getElementById("logo").value;
+  const payload = {
 
-  const info = document.getElementById("info").value;
-  const texto = document.getElementById("texto").value;
+    category: document.getElementById("category").value,
+    name: document.getElementById("name").value,
+    url: document.getElementById("url").value,
+    logo: document.getElementById("logo").value,
+    info: document.getElementById("info").value,
+    texto: document.getElementById("texto").value,
+    nsfw: document.getElementById("nsfw").value,
+    protection: document.getElementById("protection").value,
+    referer: document.getElementById("referer").value,
+    drmType: document.getElementById("drmType").value,
+    license: document.getElementById("license").value
 
-  const nsfw = document.getElementById("nsfw").value;
+  };
 
-  const protection = document.getElementById("protection").value;
-  const referer = document.getElementById("referer").value;
-  const drmType = document.getElementById("drmType").value;
-  const license = document.getElementById("license").value;
+  document.getElementById("status").innerText =
+    "Enviando...";
 
-  await fetch(API, {
-    method: "POST",
-    headers: {
-      "Accept": "application/vnd.github+json",
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      event_type: "add_channel",
-      client_payload: {
-        category,
-        name,
-        url,
-        logo,
-        info,
-        texto,
-        nsfw,
-        protection,
-        referer,
-        drmType,
-        license
-      }
-    })
-  });
+  try{
 
-  alert("Enviado a GitHub Actions");
+    await fetch(API, {
+      method:"POST",
+      headers:{
+        "Accept":"application/vnd.github+json",
+        "Content-Type":"application/json"
+      },
+      body:JSON.stringify({
+        event_type:"add_channel",
+        client_payload:payload
+      })
+    });
+
+    document.getElementById("status").innerText =
+      "Canal enviado ✔";
+
+  }catch(e){
+
+    document.getElementById("status").innerText =
+      "Error al enviar";
+
+  }
+
 }
+
+loadCategories();
 
 </script>
 
