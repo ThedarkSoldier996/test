@@ -2292,7 +2292,8 @@
        {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
+         "user": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+        "url": "https://trs.cdn.rcs.net.ar/mnp/tvchile/output.mpd"
       },
         {
         "name": "Señal No Asignada",
