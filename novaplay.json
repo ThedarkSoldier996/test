@@ -2291,11 +2291,12 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "info": "TEST 001",
-        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+        "info": "TEST 002",
+        "url": "https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?",
          "type": "CLEARKEY",
-         "drm_license_uri": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45",
-        "referer": "https://chromecast.cvattv.com.ar/",
+         "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GQTE2EapnpQJAxdL26t08A\",\"k\":\"CKTKlyzQN6H-BCUVwxC_4Q\"}],\"type\":\"temporary\"}",
+       "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "referer": "https://webclient.ctcplus.com.ar/",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
 {
