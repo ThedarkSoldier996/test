@@ -367,6 +367,7 @@
       },
       {
         "name": "ESPN 1",
+        "opt":"yes",
         "info": "Argentina",
         "texto": "Se Recomienda ingresar 1 hora o 30 min antes de cada partido",
         "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
@@ -2334,10 +2335,10 @@
           
         {
         "name": "Señal No Asignada",
-          "info": "TEST SEÑAL 3",
+          "info": "SIN TEST :C",
          "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "loader":"no",
+        "loader":"yes",
         "nsfw":"yes",  
         "url": "https://goo.su/KoXJ"
       }
