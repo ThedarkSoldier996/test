@@ -109,8 +109,16 @@
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://i.ibb.co/Q74wSJNp/image.png"
       },
+            {
+        "name": "SNT",
+        "status":"false",
+        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
+        "icono": "https://i.ibb.co/SCdymVh/image.png"
+      },
       {
         "name": "SNT",
+        "info":"Señal Extra",
+        "status":"false",
         "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
         "icono": "https://i.ibb.co/SCdymVh/image.png"
       },
@@ -490,7 +498,7 @@
         "texto": "IDIOMA: ESPAÑOL"
       },
       {
-        "name": "BEIN SPORTPS Ñ",
+        "name": "BEIN SPORTS Ñ",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
         "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
       },
@@ -506,8 +514,15 @@
         "icono": "https://i.ibb.co/JjGGTTmv/image.png"
       },
       {
-        "name": "TUDN",
+        "name": "TUDN MX",
         "url": "https://streaming.alwaysdata.net/tudn.php",
+        "icono": "https://i.ibb.co/21rG76g7/image.png"
+      },
+      {
+        "name": "TUDN",
+        "opt":"yes",
+        "info": "TEST",
+        "url": "https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=qe6Kc68LfaT9IFzgi3PCuA:7IKLWvuiZnnn3bA1QGXw7EFFPYQuluUOitIxAOajm2bDq_2WjygRUIticQvbxw29DVnVbZdCcPtQ3hBVRMCJTQA4D8iiY_jsv37Mnzmf_uNvFLKPSmbE0jFvte1QMebbbdhpjjwAdt6TI8xAacCrV8dOiKsYQR1Kh2jTsshiDaU7RnYlvnDEIr3k-Y7wmvxVmD6QeDKuHTQnciczFOSlfHNvlCTTFxrualG4Yy9E5VYLfT468nBKYlRsNdiCns_DM0hmg2tZ7Xwq85D6CP2t90RwTQKm4LtuRYPrKecTWzU9fOhkd8d4tFZunxYHo491J9a8T7dkCzVPpteseB4OUIygLLjhm_Mp9jnNhuLur5eCu2opv6EwcjueQwT9zpoxG1wP04nVhbzN32EvIAyN8SreVU7l-PlnZLLiZih9BvvwTJDqDmUuzpLd9Zd-yud-28NQEjLrSG88Sr885HyUe1uEJs9qlHlzCE3l0_L16rhJ5TU3VmQ1MTSdxyeKPBkVkU860T1oozf6DijBXclfQCNV2vA57RSSYFa4p-pqnxkTDn5evQ8OiW0jQWSpzXkcG-j3GaNserw3fa1XTfucsABwb2aYCFSnDFjcOYWFT_gt46LldRtjCXnAvG6_tpbmjFALb0xGhv82KhyXgaMY3VCvvvImm1ZIz8JnDC3hBdxhs3dTB2nNgHV03HTuQKVgOO91qhHH0JRzO9DJGFo2bg&anvtrid=1e61ae4033767949870cd7becc37ba86&anvauth=tb=0~te=1779225723~sgn=c0b7d81b62c8d1ca33b427e7d4fcc61e45f1f484e16651dbbe5ffe57de77df1b&t=1779225633",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
       {
@@ -582,7 +597,8 @@
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
   },
        {
-        "name": "SKY SPORTS",  
+        "name": "SKY SPORTS",
+        "opt":"yes", 
         "url": "http://45.5.119.43:4000/play/a05r/index.m3u8",
        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
       },
@@ -690,6 +706,7 @@
       },
       {
         "name": "RETRO X TV",
+        "status":"false",
         "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8",
         "icono": "https://i.ibb.co/MkX4XXrZ/image.png"
       },
