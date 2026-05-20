@@ -104,6 +104,12 @@
         "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
+            {
+        "name": "TELEFUTURO",
+         "info": "Señal Extra",      
+        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
+      },
       {
         "name": "C9N",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
@@ -270,11 +276,15 @@
         "icono": "https://i.ibb.co/TDT2DbbF/image.png",
         "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8"
       },
-      {
-        "name": "CANAL 34",
-        "info": "San Juan",
-        "icono": "https://i.ibb.co/6JXgDyPk/image.png",
-        "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+             {
+        "name": "CRONICA",
+        "icono": "https://i.ibb.co/ZRV8cJSg/image.png",
+         "url": "http://45.5.149.220:8000/play/a037/index.m3u8?hls"
+      },
+       {
+        "name": "TV Publica",
+        "icono": "https://i.ibb.co/VWcZhDKv/image.png",
+         "url": "http://45.5.149.220:8000/play/a03g/index.m3u8?hls"
       },
        {
         "name": "TN",
@@ -998,6 +1008,11 @@
         "name": "BABY SHARK TV",
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
         "icono": "https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo=s485-rw"
+      },
+     {
+        "name": "TOONCAST",
+        "icono": "https://i.ibb.co/mZL9dRm/image.png",
+         "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls"
       },
       {
         "name": "NARUTO SHIPPUDEN",
@@ -2304,31 +2319,13 @@
         "referer": "https://bitmovin.com/",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
-       {
-        "name": "Señal No Asignada",
-         "info": "Tv Publica ARG TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "http://45.5.149.220:8000/play/a03g/index.m3u8?hls"
-      },
+
        {
         "name": "Señal No Asignada",
          "info": "C5N TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
          "url": "http://181.13.252.102:8000/play/a01p/index.m3u8?hls"
       },
-      {
-        "name": "Señal No Asignada",
-         "info": "TOONCAST TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls"
-      },
-       {
-        "name": "Señal No Asignada",
-         "info": "CRONICA TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "http://45.5.149.220:8000/play/a037/index.m3u8?hls"
-      },
-          
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
