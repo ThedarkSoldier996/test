@@ -89,6 +89,12 @@
         "icono": "https://i.ibb.co/ML37fmW/image.png"
       },
       {
+        "name": "MEGATV",
+        "info": "Señal Extra",
+        "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+        "icono": "https://i.ibb.co/ML37fmW/image.png"
+      },
+      {
         "name": "VISIÓN TV",
         "info": "Villarica",
         "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
@@ -2322,9 +2328,11 @@
 
        {
         "name": "Señal No Asignada",
-         "info": "C5N TEST",
+         "info": "ABC TV",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "http://181.13.252.102:8000/play/a01p/index.m3u8?hls"
+         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(QZOkCg494pBDlCxla5MVno_QKxmYauSo8xPwNNCDtBC243mKx-TmriYpBmvnBZjn8K4jOoxuXU6YNPGpjX-Mh6B00e3WrNykNQb0abCXUIZV4rcFhiQtPbTJ068A3wEX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "referer": "https://www.dailymotion.com/"
       },
         {
         "name": "Señal No Asignada",
