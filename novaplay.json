@@ -2305,18 +2305,17 @@
         "info": "TEST 005",
         "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
          "type": "CLEARKEY",
-         "drm_license_uri": "e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58",
+         "drm_license_uri": "https://results.femon.net?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
 {
         "name": "Señal No Asignada",
-        "info": "TEST1",
-        "url": "https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd",
+        "info": "TEST2",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
          "type": "widevine",
-         "drm_license_uri": "https://cwip-shaka-proxy.appspot.com/no_auth",
-         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "referer": "https://bitmovin.com/",
+         "drm_license_uri": "https://results.femon.net?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
+        "referer": "https://portal.app.flow.com.py/",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
             {
