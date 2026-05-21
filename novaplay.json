@@ -2302,17 +2302,16 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "info": "TEST 004",
-        "url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd",
+        "info": "TEST 005",
+        "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
          "type": "CLEARKEY",
-         "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/warnertest.json",
-        "referer": "https://portal.app.flow.com.ar/",
+         "drm_license_uri": "e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
 {
         "name": "Señal No Asignada",
         "info": "TEST1",
-        "vpn": "yes",
         "url": "https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd",
          "type": "widevine",
          "drm_license_uri": "https://cwip-shaka-proxy.appspot.com/no_auth",
