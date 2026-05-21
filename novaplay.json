@@ -2295,6 +2295,23 @@
   }
 ]
   },
+  
+   {
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "NOVAX",
+    "items": [
+     {
+        "name": "Señal No Asignada",
+        "info": "TEST 001",
+        "url": "https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
+         "type": "CLEARKEY",
+         "drm_license_uri": "https://results.femon.net?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      }
+    ]
+  },
    {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
