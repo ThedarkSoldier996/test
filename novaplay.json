@@ -2328,11 +2328,14 @@
       },
 {
         "name": "Señal No Asignada",
-        "info": "TEST2",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
-         "type": "widevine",
-         "drm_license_uri": "https://results.femon.net?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
-        "referer": "https://portal.app.flow.com.py/",
+        "info": "TEST3",
+        "url": "http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      },
+      {
+        "name": "Señal No Asignada",
+        "info": "TEST4",
+        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
             {
