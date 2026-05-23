@@ -58,7 +58,7 @@
       {
         "name": "BRUNO MASI TV",
         "url": "https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8",
-        "icono": "https://i.ibb.co/nNxzjQzD/image.png"
+        "icono": "https://i.ibb.co/WNks2gQ1/image.png"
       },
       {
         "name": "TVS ENCARNACIÓN",
@@ -251,7 +251,7 @@
       {
         "name": "MONUMENTAL TV",
         "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/HTx1zLrP/image.png",
+        "icono": "https://i.ibb.co/q3DypFNJ/image.png",
         "texto": "SEÑAL TV Y RADIO"
       },
       {
@@ -330,7 +330,7 @@
       },
        {
         "name": "A24",
-        "icono": "https://i.ibb.co/DHVQfWZ8/image.png",
+        "icono": "https://i.ibb.co/b9qhSXx/image.png",
          "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",
         "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
       },
@@ -345,22 +345,22 @@
         "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8"      },
       {
         "name": "CANAL 6 POSADAS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_6_Digital_Posadas_%28Logo_2025%29.png",
+        "icono": "https://i.ibb.co/KxSqb7j9/image.png",
         "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
       },
       {
         "name": "TELEFE",
         "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
-        "icono": "https://i.ibb.co/p6YxK2mt/image.png"
+        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
       },
       {
         "name": "EL TRECE",
-        "icono": "https://i.ibb.co/vxYT2dp9/image.png",
+        "icono": "https://i.ibb.co/LhvLyCFh/image.png",
         "url": "http://45.5.151.147:8000/play/a00f/index.m3u8"
       },
       {
         "name": "CANAL 26",
-        "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png",
+        "icono": "https://i.ibb.co/4wBDgN3C/image.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
       }
       ]
@@ -372,7 +372,7 @@
          {
         "name": "MEGA HD",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/28244",
-        "icono": "https://i.ibb.co/W45YnMg4/image.png"
+        "icono": "https://i.ibb.co/Q3JPqXKZ/image.png"
       },
          {
         "name": "CHILEVISION",
