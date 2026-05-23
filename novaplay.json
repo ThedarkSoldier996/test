@@ -514,6 +514,24 @@
         "icono": "https://i.ibb.co/vxcj4GS9/image.png",
         "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"        
       },
+      {
+        "name": "FOX SPORTS 1",
+        "info": "Mexico",
+        "icono": "https://i.ibb.co/YFdknpTn/image.png",
+        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592003.m3u8"        
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "info": "Mexico",
+        "icono": "https://i.ibb.co/DfkGpQvq/file-0000000051a0720e8b76b7855a2858fb.png",
+        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592007.m3u8"        
+      },
+       {
+        "name": "FOX SPORTS 3",
+        "info": "Mexico",
+        "icono": "https://i.ibb.co/27LZM5dR/image.png",
+        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592011.m3u8"        
+      },
         {
         "name": "FOX DEPORTES",
         "info": "Estados Unidos",  
@@ -625,9 +643,15 @@
          "info": "Peru",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },    
+      },   
+       {
+        "name": "DIRECTV SPORTS +",
+        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592039.m3u8",
+        "icono": "https://i.ibb.co/QvQsMP14/image.png"
+  },
   {
         "name": "DIRECTV SPORTS +",
+        "info": "Señal Extrs",
         "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/QvQsMP14/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
@@ -2367,18 +2391,6 @@
         "name": "Señal No Asignada",
         "info": "TEST3",
         "url": "http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "info": "MEGA HD CHILE",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/28244",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-         {
-        "name": "Señal No Asignada",
-        "info": "CHILEVISION",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/58287",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
       {
