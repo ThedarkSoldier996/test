@@ -366,18 +366,26 @@
       }
       ]
       },
+    {
+    "type": "category",
+    "title": "CHILE",
+    "items": [
+         {
+        "name": "MEGA HD",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/28244",
+        "icono": "https://i.ibb.co/W45YnMg4/image.png"
+      },
+         {
+        "name": "CHILEVISION",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/58287",
+        "icono": "https://i.ibb.co/n833Vgsq/image.png"
+      }
+    ]
+  },
      {
     "type": "category",
-    "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
     "title": "⚽ DEPORTES ⚽",
     "items": [
-      {
-        "name": "ESPN 1",
-        "info": "Colombia",
-        "url": "https://streamtpnew.com/premier.php?stream=espn",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/20cw7BQs/image.png"
-      },
       {
         "name": "ESPN 1",
         "info": "Colombia",
@@ -856,12 +864,6 @@
       "name": "TELEMUNDO NOTICIAS",
       "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
       "icono": "https://i.ibb.co/rKP60LHm/image.png"
-      },
-      {
-        "name": "Meganoticias",
-        "info": "Chile",
-        "icono": "https://i.ibb.co/rJDsB0r/image.png",
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
       },
       {
         "name": "RT - RUSSIA TODAY",
