@@ -2348,8 +2348,8 @@
       },
           {
   "name": "LATIN",
-  "url": "https://1025-tbx.vrioott.com/bloomberglat/manifest.mpd",
-  "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qlV3zM3zVpqEgle7QxN5rw\",\"k\":\"M6cA4ybJk8I5LB18W06hCw\"}],\"type\":\"temporary\"}",
+  "url": "https://1140-tbx.vrioott.com/hbo/manifest.mpd",
+  "drm_license_uri": "https://vertex-plus.es/licence/HBO.DGO.json",
   "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
   "icono": "https://i.ibb.co/NdfLDnF7/image.png"
         },
