@@ -597,6 +597,12 @@
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
       },
       {
+        "name": "DIRECTV SPORTS",
+        "info": "Peru - Extra",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
+        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
+      },
+      {
         "name": "DIRECTV SPORTS 2",
         "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
@@ -614,6 +620,12 @@
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
   },
+   {
+        "name": "DIRECTV SPORTS 2",
+         "info": "Peru",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
+        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
+      },    
   {
         "name": "DIRECTV SPORTS PLUS",
         "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
