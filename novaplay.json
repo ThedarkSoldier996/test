@@ -516,18 +516,6 @@
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
       {
-        "name": "ESPN",
-        "info": "Chile",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591977.m3u8",
-        "icono": "https://i.ibb.co/Pvq156K0/image.png"
-      },
-      {
-        "name": "ESPN",
-        "info": "Mexico",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591978.m3u8",
-        "icono": "https://i.ibb.co/Pvq156K0/image.png"
-      },
-      {
         "name": "ESPN 2",
         "info": "Colombia",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
@@ -540,18 +528,7 @@
         "url": "http://138.59.227.20:8000/play/a098/index.m3u8",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
-       {
-        "name": "ESPN 2",
-        "info": "Chile",      
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591983.m3u8",
-        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
-      },
-      {
-        "name": "ESPN 2",
-        "info": "Mexico",      
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591984.m3u8",
-        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
-      },
+      
             {
         "name": "ESPN 3",
         "info": "Colombia",      
@@ -567,12 +544,6 @@
       },
       {
         "name": "ESPN 4",
-        "info": "Mexico",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591988.m3u8",
-        "icono": "https://i.ibb.co/MkxW7vqS/image.png"
-      },
-      {
-        "name": "ESPN 4",
         "info": "Colombia",
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
@@ -582,18 +553,6 @@
         "name": "ESPN 4",
          "info": "Argentina",
         "url": "http://138.59.227.20:8000/play/a084/index.m3u8",
-        "icono": "https://i.ibb.co/HTrmQvrj/image.png"
-      },
-      {
-        "name": "ESPN 4",
-         "info": "Sur",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591990.m3u8",
-        "icono": "https://i.ibb.co/HTrmQvrj/image.png"
-      },
-      {
-        "name": "ESPN 4",
-         "info": "Mexico",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591991.m3u8",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
        {
@@ -608,12 +567,6 @@
         "url": "http://38.210.3.64:8090/play/a0jd/index.m3u8",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
-             {
-        "name": "ESPN 5",
-        "info": "Sur",        
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591993.m3u8",
-        "icono": "https://i.ibb.co/JwKrdwmf/image.png"
-      },
       {
         "name": "ESPN 6",
         "url": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
@@ -621,26 +574,14 @@
       },
       {
         "name": "ESPN 6",
-        "info": "Señal Extra 1",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591995.m3u8",
-        "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
-      },
-      {
-        "name": "ESPN 6",
-        "info": "Señal Extra 2",
+        "info": "Señal Extra",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn6",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
       },
       {
         "name": "ESPN 7",
-        "info": "Señal Extra 1",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591996.m3u8",
-        "icono": "https://i.ibb.co/vxFK1Cvm/image.png"
-      },
-      {
-        "name": "ESPN 7",
-        "info": "Señal Extra 2",
+        "info": "Señal Extra",
         "icono": "https://i.ibb.co/vxFK1Cvm/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn7"
        },      
@@ -662,11 +603,6 @@
        "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
       {
-        "name": "ESPN DEPORTES",  
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591971.m3u8",
-       "icono": "https://i.ibb.co/0y1xYpX0/image.png"
-      },
-      {
         "name": "FOX SPORTS 1",
         "info": "Argentina",
         "icono": "https://i.ibb.co/0yCtMZVW/image.png",
@@ -683,24 +619,6 @@
         "info": "Argentina",
         "icono": "https://i.ibb.co/vxcj4GS9/image.png",
         "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"        
-      },
-      {
-        "name": "FOX SPORTS 1",
-        "info": "Mexico",
-        "icono": "https://i.ibb.co/YFdknpTn/image.png",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592003.m3u8"        
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "info": "Mexico",
-        "icono": "https://i.ibb.co/DfkGpQvq/file-0000000051a0720e8b76b7855a2858fb.png",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592007.m3u8"        
-      },
-       {
-        "name": "FOX SPORTS 3",
-        "info": "Mexico",
-        "icono": "https://i.ibb.co/27LZM5dR/image.png",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592011.m3u8"        
       },
         {
         "name": "FOX DEPORTES",
@@ -814,20 +732,14 @@
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },   
-       {
+      {
         "name": "DIRECTV SPORTS +",
-        "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592039.m3u8",
-        "icono": "https://i.ibb.co/QvQsMP14/image.png"
-  },
-             {
-        "name": "DIRECTV SPORTS +",
-        "info": "Señal Extra 1",
         "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
   },
   {
         "name": "DIRECTV SPORTS +",
-        "info": "Señal Extra 2",
+        "info": "Señal Extra",
         "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/QvQsMP14/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
