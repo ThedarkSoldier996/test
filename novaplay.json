@@ -177,9 +177,9 @@
         "texto": "Conexión via Dailymotion"
       },
       {
-        "name": "UNION TV",
-        "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/mVqXF9YP/image.png"
+        "name": "ASPEN TV",
+        "url": "https://tigocloud.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion",
+        "icono": "https://i.ibb.co/bgpvM0Xc/image.png"
       },
       {
         "name": "RCC",
