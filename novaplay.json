@@ -2469,6 +2469,16 @@
         "origin": "https://portal.app.flow.com.py",
         "referer": "https://portal.app.flow.com.py/",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+       {
+        "name": "Señal No Asignada",
+        "info": "TEST SIN PROXY",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "type": "clearkey",
+        "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
+        "origin": "https://portal.app.flow.com.py",
+        "referer": "https://portal.app.flow.com.py/",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
         
       },
         {
