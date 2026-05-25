@@ -13,19 +13,18 @@
       },
 		 {
         "name": "NOVASPORTS 2",
-        "info": "Tigo Sports PY - 24/7 ??",
-        "ASN": "AS23201",
+        "info": "Tigo Sports PY - 24/7",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo2.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
+        "icono": "https://i.ibb.co/mF8S7Kx9/image.png"
       },
       {
         "name": "NOVASPORTS EVENTOS",
         "info": "Tigo Sports PY - EVENTOS",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       }
     ]
   },
