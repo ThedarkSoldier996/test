@@ -573,6 +573,11 @@
         "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
+		 {
+        "name": "ESPN",
+        "url": "http://38.226.49.253:8000/play/a07l/index.m3u8",
+        "icono": "https://i.ibb.co/Pvq156K0/image.png"
+      },
       {
         "name": "ESPN 2",
         "info": "Colombia",
