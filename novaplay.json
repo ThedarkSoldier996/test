@@ -262,6 +262,7 @@
       },
        {
         "name": "REPUBLICA FM TV",
+		"status": "false",   
         "url": "https://tigocloud.desdeparaguay.net/republicatv/republicatv/chunklist_w334732353.m3u8",
         "icono": "https://i.ibb.co/VWY7TB29/image.png",
         "texto": "RADIO - TV 101.3 FM"
@@ -2588,7 +2589,7 @@
         "name": "BRAZZERS TV FHD",
         "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/146367.m3u8",
 		"nsfw":"yes",  
-        "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
+        "icono": "https://i.ibb.co/rfpWNKYV/image.png"
       },
 		{
         "name": "PORNBOX",
@@ -2597,18 +2598,29 @@
         "icono": "https://i.ibb.co/GQpjnKX9/image.png"
       },
 		{
+        "name": "AMAZING TV",
+        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
+		"nsfw":"yes",  
+        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png"
+      },
+		{
+        "name": "PANDORA PERFECT",
+        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86",
+		"nsfw":"yes",  
+        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png"
+      },
+		{
+        "name": "Sonsee 1",
+        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88",
+		"nsfw":"yes",  
+        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png"
+      },
+		{
         "name": "EROTIC 5",
         "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8",
 		"nsfw":"yes",  
-        "icono": "https://i.ibb.co/JR9J9YJL/image.png"
-      },
-		{
-        "name": "EROTIC 7",
-        "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7377.m3u8",
-		"nsfw":"yes",  
         "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
       }
-	
     ]
   },
    {
