@@ -2558,12 +2558,7 @@
 		"nsfw":"yes",  
         "icono": "https://i.ibb.co/rfpWNKYV/image.png"
       },
-		{
-        "name": "PORNBOX",
-        "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7380.m3u8",
-		"nsfw":"yes",  
-        "icono": "https://i.ibb.co/GQpjnKX9/image.png"
-      },
+
 		{
         "name": "AMAZING TV",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
@@ -2613,6 +2608,27 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
+		{
+        "name": "PARAVISION TEST",
+        "url": "http://24.152.42.29:8000/play/a02c/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		{
+        "name": "SURTV TEST",
+        "url": "http://24.152.42.29:8000/play/a02e/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		{
+        "name": "TV CAMARA TEST",
+        "url": "http://24.152.42.29:8000/play/a02a/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		{
+        "name": "SEXTREME TEST",
+        "url": "http://24.152.42.29:8000/play/a0c2/index.m3u8",
+		"nsfw":"yes",  
+        "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
+      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
