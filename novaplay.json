@@ -93,25 +93,19 @@
 		{
         "name": "BOCA VS Universidad Católica",
         "info": "NOVASPORTS EVENTOS 1 ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-		{
-        "name": "BOCA VS Universidad Católica",
-        "info": "NOVASPORTS EVENTOS 2 ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+        "url": "http://38.226.49.253:8000/play/a06g/index.m3u8",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
 		{
         "name": "América de Cali vs Macará",
         "info": "NOVASPORTS EVENTOS 3 ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+        "url": "http://38.226.49.253:8000/play/a07l/index.m3u8",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
 		{
         "name": "Tigre vs Alianza Atlético",
         "info": "NOVASPORTS EVENTOS 4",
-        "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+        "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       }
     ]
@@ -614,19 +608,12 @@
 		
 	  {
         "name": "ESPN 2",
-        "info": "Colombia",
 		"url":  "http://38.226.49.253:8000/play/a06g/index.m3u8",  
-        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
-      },	
-		{
-        "name": "ESPN 2",
-        "info": "Colombia - Extra",
-        "url": "http://181.118.153.15:8000/play/aj01/index.m3u8",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },	
       {
         "name": "ESPN 2",
-        "info": "Colombia - Extra 2",
+        "info": "Serv. Externo",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
