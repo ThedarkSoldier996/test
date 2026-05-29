@@ -1,7 +1,7 @@
 [
   {
     "type": "category",
-    "title": "EVENTOS",
+    "title": "TIGO SPORTS EVENTOS",
     "items": [  
 		 {
         "name": "NOVASPORTS",
@@ -60,30 +60,6 @@
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-		{
-        "name": "BOCA VS Universidad Católica",
-        "info": "NOVASPORTS EVENTOS ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-		{
-        "name": "BOCA VS Universidad Católica",
-        "info": "NOVASPORTS EVENTOS ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-		{
-        "name": "América de Cali vs Macará",
-        "info": "NOVASPORTS EVENTOS ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=espn",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-		{
-        "name": "Tigre vs Alianza Atlético",
-        "info": "NOVASPORTS EVENTOS ",
-        "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       }
     ]
   },
@@ -108,6 +84,36 @@
 		"drm_license_uri2":	"https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",	 		
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       }	
+    ]
+  },
+	{
+    "type": "category",
+    "title": "NOVA SPORTS EVENTOS",
+    "items": [  
+		{
+        "name": "BOCA VS Universidad Católica",
+        "info": "NOVASPORTS EVENTOS 1 ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "BOCA VS Universidad Católica",
+        "info": "NOVASPORTS EVENTOS 2 ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "América de Cali vs Macará",
+        "info": "NOVASPORTS EVENTOS 3 ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "Tigre vs Alianza Atlético",
+        "info": "NOVASPORTS EVENTOS 4",
+        "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      }
     ]
   },
   {
