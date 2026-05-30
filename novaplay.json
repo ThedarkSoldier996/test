@@ -911,27 +911,15 @@
         "url": "http://38.226.49.253:8000/play/a05m/index.m3u8",
 		"url2": "http://38.226.49.253:8000/play/a05u/index.m3u8",  
         "icono": "https://i.ibb.co/vvDdW11M/image.png"
-      },
-      {
+      },     
+       {
         "name": "AXN",
-        "url": "http://181.78.82.6:46090/play/a0a3/index.m3u8",
-        "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
-      },
-      {
-        "name": "AXN",
-        "info": "Señal Extra",
-        "url": "http://45.173.12.70:8000/play/a05b/index.m3u8",
-        "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
-      },
-            {
-        "name": "AXN",
-        "info": "Señal Extra 2",
-        "url": "http://181.78.84.78:8910/play/a0em/index.m3u8",
+        "url": "http://38.226.49.253:8000/play/a062/index.m3u8",
         "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
       },
       {
         "name": "FX",
-        "url": "http://38.199.4.105:9999/play/a0hl/index.m3u8",
+        "url": "http://38.226.49.253:8000/play/a07c/index.m3u8",
         "icono": "https://i.ibb.co/dsp1RDmw/image.png"
       },
       {
