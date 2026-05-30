@@ -887,7 +887,7 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "http://200.125.170.122:8000/play/a0cy/index.m3u8",
+        "url": "http://38.226.49.253:8000/play/a07f/index.m3u8",
         "icono": "https://i.ibb.co/nMskkQC6/image.png"
       },
       {
@@ -898,11 +898,12 @@
       {
         "name": "STAR CHANNEL HD",
         "url": "http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8?hls",
+		"url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",  
         "icono": "https://i.ibb.co/MkxJnp7W/image.png"
       },
       {
         "name": "SPACE HD",
-        "url": "http://181.13.252.102:8000/play/a02w/index.m3u8",
+        "url": "http://38.226.49.253:8000/play/a064/index.m3u8",
         "icono": "https://i.ibb.co/KxjhK824/image.png"
       },
       {
