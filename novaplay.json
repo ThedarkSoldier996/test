@@ -1473,7 +1473,11 @@
         "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
-		
+		{
+        "name": "TLC TEST",
+        "url": "http://24.152.42.29:8000/play/a01a/index.m3u8?hls",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
