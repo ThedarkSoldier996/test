@@ -250,13 +250,9 @@ http://38.226.49.253:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/vvDdW11M/image.png",A&E
 http://38.226.49.253:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/3m2nQZ1p/image.png",AXN
-http://181.78.82.6:46090/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/3m2nQZ1p/image.png",AXN
-http://45.173.12.70:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/3m2nQZ1p/image.png",AXN
-http://181.78.84.78:8910/play/a0em/index.m3u8
+http://38.226.49.253:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/dsp1RDmw/image.png",FX
-http://38.199.4.105:9999/play/a0hl/index.m3u8
+http://38.226.49.253:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",TODONOVELAS
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/YFC4QqcB/image.png",SONY CHANNEL
