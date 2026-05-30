@@ -856,9 +856,10 @@
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
     "title": "ENTRETENIMIENTO",
     "items": [
-      
+
       {
         "name": "UNIVERSAL COMEDY",
+		"status":"false",  
         "url": "http://38.226.49.253:8000/play/a03a/index.m3u8",
         "icono": "https://i.ibb.co/rKvj7dqv/image.png"
       },
@@ -1465,8 +1466,8 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
-        "name": "TLC TEST",
-        "url": "http://24.152.42.29:8000/play/a01a/index.m3u8?hls",
+        "name": "TNT NOVELAS TEST",
+        "url": "http://38.226.49.253:8000/play/a07f/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
         {
