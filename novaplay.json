@@ -140,12 +140,7 @@
       {
         "name": "TELEFUTURO",
         "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
-      },
-            {
-        "name": "TELEFUTURO",
-         "info": "Señal Extra",      
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+		"url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",  
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
@@ -188,12 +183,7 @@
       {
         "name": "ÑANDUTI TV",
         "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
-        "icono": "https://i.ibb.co/qMTf7sNt/image.png"
-      },
-      {
-        "name": "ÑANDUTI TV",
-        "info": "Señal Extra",
-        "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+		"url2": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",  
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
       {
