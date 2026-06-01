@@ -156,7 +156,9 @@
       {
         "name": "TELEFUTURO",
         "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-		"url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",  
+		"url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+		 "url3": "http://138.59.227.20:8000/play/a0fh/index.m3u8", 
+		 "url4": "http://138.59.227.20:8000/play/a0ff/index.m3u8",  
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
