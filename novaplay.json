@@ -133,6 +133,8 @@
             {
         "name": "MEGATV",    
         "url": "https://www.desde-paraguay.com/mega.m3u8",
+		"url2": "http://138.59.227.20:8000/play/a0g8/index.m3u8",
+		"url3": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",		
         "icono": "https://i.ibb.co/ML37fmW/image.png"
       },
       {
@@ -188,6 +190,7 @@
       {
         "name": "TRECE",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
+		"url2":"http://138.59.227.20:8000/play/a0e3/index.m3u8",  
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
             {
@@ -268,6 +271,7 @@
         {
         "name": "VENUS MEDIA ",
         "url": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
+		"url2":"http://138.59.227.20:8000/play/a0fc/index.m3u8",	
         "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
         {
@@ -303,6 +307,7 @@
       {
         "name": "MONUMENTAL TV",
         "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+		"url2":"http://138.59.227.20:8000/play/a0fr/index.m3u8",  
         "icono": "https://i.ibb.co/q3DypFNJ/image.png",
         "texto": "SEÑAL TV Y RADIO"
       },
