@@ -371,5 +371,3 @@ http://24.152.42.29:8000/play/a01s/index.m3u8?hls
 http://24.152.42.29:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TV CAMARA TEST
 http://24.152.42.29:8000/play/a02a/index.m3u8?hls
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",SURTV TEST 2
-http://138.59.227.20:8000/play/a0e9/index.m3u8
