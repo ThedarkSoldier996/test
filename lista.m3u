@@ -41,6 +41,12 @@ https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/
 https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/SDwTc6gL/image.png",LA TELE
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/qLwhBZMS/image.png",PARAVISION
+http://24.152.42.29:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/gMG7f9LH/image.png",SURTV
+http://24.152.42.29:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/Rk8pT1Wx/image.png",TV CAMARA
+http://24.152.42.29:8000/play/a02a/index.m3u8?hls
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/TsxdFGk/image.png",TRECE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/bRFH7D6c/channels4-profile.jpg",PARAGUAY TV
@@ -202,7 +208,7 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DIRECTV SPORTS
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DIRECTV SPORTS
-http://201.230.121.85:8000/play/a0yv/index.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDP0DhTv/image.png",DIRECTV SPORTS 2
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDP0DhTv/image.png",DIRECTV SPORTS 2
@@ -365,11 +371,9 @@ http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 http://24.152.42.29:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",PARAVISION TEST
-http://24.152.42.29:8000/play/a01s/index.m3u8?hls
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",SURTV TEST
-http://24.152.42.29:8000/play/a01w/index.m3u8?hls
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TV CAMARA TEST
-http://24.152.42.29:8000/play/a02a/index.m3u8?hls
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png",DSports Amazon
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png",DSports TEST 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv2.png",DSports2 TEST 1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv+.png",DSports+ TEST 1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
