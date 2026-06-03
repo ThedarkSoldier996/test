@@ -1448,6 +1448,13 @@
         "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
+	 {
+        "name": "DSports Amazon",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png"
+      },	
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
