@@ -188,6 +188,24 @@
         "url3": "http://138.59.227.20:8000/play/a0fg/index.m3u8",
 		  "icono": "https://i.ibb.co/SDwTc6gL/image.png"
       },
+	{
+        "name": "PARAVISION",
+		"VLC": "true",	
+        "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
+        "icono": "https://i.ibb.co/qLwhBZMS/image.png"
+      },
+		{
+        "name": "SURTV",
+		"VLC": "true",	
+        "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
+        "icono": "https://i.ibb.co/gMG7f9LH/image.png"
+      },
+		{
+        "name": "TV CAMARA",
+		"VLC": "true",	
+        "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
+        "icono": "https://i.ibb.co/Rk8pT1Wx/image.png"
+      },	
       {
         "name": "TRECE",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
@@ -763,13 +781,10 @@
       {
         "name": "DIRECTV SPORTS",
         "info": "Peru",
-        "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DIRECTV SPORTS",
-        "info": "Peru - Extra",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+		"url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
@@ -1430,31 +1445,28 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-		{
-        "name": "PARAVISION TEST",
-		"VLC": "true",	
-        "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		{
-        "name": "SURTV TEST",
-		"VLC": "true",	
-        "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		{
-        "name": "TV CAMARA TEST",
-		"VLC": "true",	
-        "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
 	 {
-        "name": "DSports Amazon",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "name": "DSports TEST 2",
+     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
         "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png"
-      },	
+      },
+		{
+        "name": "DSports2 TEST 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv2.png"
+      },
+
+		{
+        "name": "DSports+ TEST 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv+.png"
+      },
 		{
         "name": "Prueba TEST",
         "youtube": "https://www.youtube.com/watch?v=XK9b86yB1ng",
