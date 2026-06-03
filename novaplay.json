@@ -1452,6 +1452,14 @@
         "youtube": "https://www.youtube.com/watch?v=pU7culxnZT0",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
+		{
+        "name": "CANAL DE PRUEBA 1",
+        "info": "SOLO VPN 1.1.1.1",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd",	
+        "type": "CLEARKEY",
+		"drm_license_uri":	"{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6IS3EasRG+uKe6HnvL3Jvw\",\"k\":\"y4nuOWFZnj5kilqtYIlfNA\"}],\"type\":\"temporary\"}",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
