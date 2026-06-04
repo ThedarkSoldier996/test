@@ -381,5 +381,9 @@ http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 http://24.152.42.29:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="",CAZE TV [YOUTUBE]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="",SPORTV
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",TEST
 https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
