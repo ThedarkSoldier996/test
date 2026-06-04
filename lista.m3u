@@ -235,6 +235,8 @@ https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/7tZj27XV/image.png",NICASPORTS
 https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="",CAZE TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/LhNxBJ9Z/image-1314.jpg",DAZN COMBAT
 https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/rKvj7dqv/image.png",UNIVERSAL COMEDY
@@ -385,7 +387,5 @@ http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 http://24.152.42.29:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="",CAZE TV [YOUTUBE]
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="",SPORTV
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es",PARAVISION TEST FOR INTERCABLE  
+https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
