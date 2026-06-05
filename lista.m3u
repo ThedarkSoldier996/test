@@ -235,8 +235,20 @@ https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/7tZj27XV/image.png",NICASPORTS
 https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="",CAZE TV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/xSyvqf0F/image.png",CAZÉTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/zW3PRC9N/image.png",CAZÉTV 1
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/21BDZ7pC/image.png",CAZÉTV 2
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/G3rzpVNn/image.png",CAZÉTV 3
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/v6J2Lcj9/image.png",SPORTV 1
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/R4Jbm8z7/image.png",SPORTV 2
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/KcF6CwHj/image.png",SPORTV 3
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/LhNxBJ9Z/image-1314.jpg",DAZN COMBAT
 https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/rKvj7dqv/image.png",UNIVERSAL COMEDY
