@@ -1,7 +1,7 @@
 [
   {
     "type": "category",
-    "title": "TIGO SPORTS EVENTOS",
+    "title": "NOVASPORTS EVENTOS",
     "items": [
       {
         "name": "NOVASPORTS",
@@ -59,13 +59,7 @@
         "info": "EVENTOS 4",
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      }
-    ]
-  },
-  {
-    "type": "category",
-    "title": "NOVA SPORTS",
-    "items": [
+      },
       {
         "name": "NOVASPORTS",
         "info": "Tigo Sports PY - 24/7",
@@ -109,6 +103,7 @@
       },
       {
         "name": "ALMAYA TV PILAR",
+        "status": "false",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "icono": "https://i.ibb.co/YFWNVfmM/image.png"
       },
