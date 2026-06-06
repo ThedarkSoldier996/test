@@ -1,8 +1,8 @@
-name: Actualizar sesiones
+name: Sync ccur-session
 
 on:
   schedule:
-    - cron: "*/4 * * * *" # cada 3 minutos
+    - cron: "*/3 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,22 +12,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Instalar Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Ejecutar actualización
+      - name: Run update
         run: python update.py
 
-      - name: Commit si hubo cambios
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add novaplay.json
 
-          git diff --cached --quiet || (
-            git commit -m "Actualización automática de sesiones"
-            git push
-          )
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "update ccur-session"
+          git push
