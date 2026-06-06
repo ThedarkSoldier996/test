@@ -92,6 +92,7 @@
       },
       {
         "name": "ROCK & POP PY",
+		 "status":"false", 
         "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/BK7rpy4p/image.png"
       },
@@ -103,7 +104,6 @@
       },
       {
         "name": "ALMAYA TV PILAR",
-        "status": "false",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "icono": "https://i.ibb.co/YFWNVfmM/image.png"
       },
@@ -210,7 +210,6 @@
       },
       {
         "name": "TRECE",
-        "status": "false",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
 		"url2": "http://138.59.227.20:8000/play/a0e3/index.m3u8",
 		"url3": "http://138.59.227.20:8000/play/a0fl/index.m3u8",  
