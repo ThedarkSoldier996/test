@@ -137,6 +137,7 @@
         "name": "MEGATV",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
         "url2": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+	    "url3": "http://138.59.227.20:8000/play/a0g8/index.m3u8",  
         "icono": "https://i.ibb.co/ML37fmW/image.png"
       },
       {
@@ -247,13 +248,12 @@
       {
         "name": "PRO",
         "url": "https://www.desde-paraguay.com/pro.m3u8?admin=nacion",
-        "url2": "http://138.59.227.20:8000/play/a0fn/index.m3u8",
         "icono": "https://i.ibb.co/TBHgtFCC/image.png"
       },
       {
         "name": "POPU TV",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
-        "url2": "http://138.59.227.20:8000/play/a0g8/index.m3u8",
+		"url2": "http://138.59.227.20:8000/play/a0fn/index.m3u8",  
         "icono": "https://i.ibb.co/Z1v1gxFq/image.png"
       },
       {
@@ -1761,22 +1761,8 @@
       },
 		 {
         "name": "Prueba PARAVISION TEST",
+		"VLC": "true",	 
         "url": "http://138.59.227.20:8000/play/a0e4/index.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		 {
-        "name": "Prueba PARAGUAY TV TEST",
-        "url": "http://138.59.227.20:8000/play/a0f8/index.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		 {
-        "name": "Prueba POPUTV TEST",
-        "url": "http://138.59.227.20:8000/play/a0fq/index.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		 {
-        "name": "Prueba PROTV TEST",
-        "url": "http://138.59.227.20:8000/play/a0fn/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
