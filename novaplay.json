@@ -807,7 +807,7 @@
       },
       {
         "name": "FOX SPORTS 2 AR",
-        "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
+        "icono": "https://i.ibb.co/Yqy33Xp/image.png",
         "url": "http://138.59.227.20:8000/play/a09b/index.m3u8"
       },
 	  {
@@ -819,7 +819,7 @@
       },
       {
         "name": "FOX SPORTS 3 AR",
-        "icono": "https://i.ibb.co/vxcj4GS9/image.png",
+        "icono": "https://i.ibb.co/jZZDn3Tv/image.png",
         "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"
       },
 	 {
@@ -1099,6 +1099,7 @@
       },
       {
         "name": "NICASPORTS",
+		"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/149.0.0.0 Mobile/15E148 Safari/604.1",  
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
         "icono": "https://i.ibb.co/7tZj27XV/image.png"
       },
