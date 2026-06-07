@@ -1099,6 +1099,13 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=19fb8464136594ce0c66fe3589e88ef4&key=6a0efc4a82a1e087f093c3e5de3e2a3e"
       },
+	  {
+        "name": "VIX TUDN",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+        "icono": "https://i.ibb.co/CpJbVghS/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48"
+      },
       {
         "name": "VIX PREMIUM",
 		"info":"MUNDIAL 90",
