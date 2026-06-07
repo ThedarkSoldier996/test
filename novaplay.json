@@ -1275,21 +1275,21 @@
     "items": [
       {
         "name": "UNIVERSAL COMEDY",
-        "status": "false",
+        "VLC": "yes",
         "url": "http://38.226.49.253:8000/play/a03a/index.m3u8",
-        "icono": "https://i.ibb.co/rKvj7dqv/image.png"
+        "icono": "https://i.ibb.co/j9YkhZmR/image.png"
       },
       {
         "name": "CINEMAX",
         "url": "http://38.226.49.253:8000/play/a0ax/index.m3u8",
         "url2": "http://38.226.49.253:8000/play/a05j/index.m3u8",
         "url3": "http://45.5.151.62:8000/play/a012/index.m3u8",
-        "icono": "https://i.ibb.co/Wvk5XLJC/image.png"
+        "icono": "https://i.ibb.co/jPTj3g4Z/image.png"
       },
       {
         "name": "CINECANAL",
         "url": "http://38.226.49.253:8000/play/a05z/index.m3u8",
-        "icono": "https://i.ibb.co/yB4Jjt4s/image.png"
+        "icono": "https://i.ibb.co/39DdGtnJ/image.png"
       },
       {
         "name": "RCN NOVELAS",
