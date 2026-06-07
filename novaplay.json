@@ -202,6 +202,7 @@
         "name": "SURTV",
         "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
+	    "url2": "http://138.59.227.20:8000/play/a0e9/index.m3u8",  
         "icono": "https://i.ibb.co/gMG7f9LH/image.png"
       },
       {
@@ -810,10 +811,17 @@
       },
       {
         "name": "FOX DEPORTES",
+		"status":"false",  
         "info": "Estados Unidos",
         "icono": "https://i.ibb.co/DD6X7bbW/image.png",
-        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-        "texto": "IDIOMA: ESPAÑOL"
+        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+       },
+		{
+        "name": "FOX SPORTS PREMIUM MX ",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "icono": "https://i.ibb.co/DgmL957s/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426"
       },
       {
         "name": "BEIN SPORTS Ñ",
@@ -1768,14 +1776,13 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		 {
-        "name": "Prueba SUR TEST",
-		"VLC": "true",	 
-        "url": "http://138.59.227.20:8000/play/a0e9/index.m3u8",
+        "name": "Prueba SNT TEST",
+		"url": "http://138.59.227.20:8000/play/a0e7/index.m3u8",	 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
-        "name": "Prueba SUR TEST",
-		"url": "http://138.59.227.20:8000/play/a0e9/index.m3u8",
+        "name": "Prueba SNT TEST",
+		"url": "http://138.59.227.20:8000/play/a0e2/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
