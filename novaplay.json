@@ -195,6 +195,7 @@
         "name": "PARAVISION",
         "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
+		"url2": "http://138.59.227.20:8000/play/a0e4/index.m3u8",  
         "icono": "https://i.ibb.co/qLwhBZMS/image.png"
       },
       {
@@ -1760,9 +1761,14 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		 {
-        "name": "Prueba PARAVISION TEST",
+        "name": "Prueba SUR TEST",
 		"VLC": "true",	 
-        "url": "http://138.59.227.20:8000/play/a0e4/index.m3u8",
+        "url": "http://138.59.227.20:8000/play/a0e9/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		{
+        "name": "Prueba SUR TEST",
+		"url": "http://138.59.227.20:8000/play/a0e9/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
