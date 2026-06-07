@@ -1099,6 +1099,7 @@
       },
       {
         "name": "NICASPORTS",
+		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",  
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
         "icono": "https://i.ibb.co/7tZj27XV/image.png"
       },
@@ -1275,7 +1276,7 @@
     "items": [
       {
         "name": "UNIVERSAL COMEDY",
-        "VLC": "yes",
+        "VLC": "true",
         "url": "http://38.226.49.253:8000/play/a03a/index.m3u8",
         "icono": "https://i.ibb.co/j9YkhZmR/image.png"
       },
@@ -1292,14 +1293,16 @@
         "icono": "https://i.ibb.co/39DdGtnJ/image.png"
       },
       {
-        "name": "RCN NOVELAS",
-        "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
-        "icono": "https://i.ibb.co/N2TZV3Sv/image.png"
+        "name": "RCN MÁS",
+        "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+		"url2": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+		"url3": "https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8",   
+        "icono": "https://i.ibb.co/6cwbLkTS/image.png"
       },
       {
         "name": "TLN",
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
+        "icono": "https://i.ibb.co/gY2HSJm/image.png"
       },
       {
         "name": "TNT NOVELAS",
