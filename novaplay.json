@@ -209,6 +209,7 @@
         "name": "TV CAMARA",
         "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
+		"url2":"http://181.79.87.130:8000/play/a0bq/index.m3u8",  
         "icono": "https://i.ibb.co/Rk8pT1Wx/image.png"
       },
       {
@@ -234,6 +235,7 @@
         "name": "ÑANDUTI TV",
         "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
         "url2": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+		"url3": "http://138.59.227.20:8000/play/a0eq/index.m3u8",  
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
       {
@@ -792,22 +794,40 @@
         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
       {
-        "name": "FOX SPORTS 1",
-        "info": "Argentina",
+        "name": "FOX SPORTS AR",
         "icono": "https://i.ibb.co/0yCtMZVW/image.png",
         "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
       },
+		 {
+        "name": "FOX SPORTS MX",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "icono": "https://i.ibb.co/ccfV774K/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f"
+      },
       {
-        "name": "FOX SPORTS 2",
-        "info": "Argentina",
+        "name": "FOX SPORTS 2 AR",
         "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
         "url": "http://138.59.227.20:8000/play/a09b/index.m3u8"
       },
+	  {
+        "name": "FOX SPORTS 2 MX",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "icono": "https://i.ibb.co/JWk1qdNr/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621"
+      },
       {
-        "name": "FOX SPORTS 3",
-        "info": "Argentina",
+        "name": "FOX SPORTS 3 AR",
         "icono": "https://i.ibb.co/vxcj4GS9/image.png",
         "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"
+      },
+	 {
+        "name": "FOX SPORTS 3 MX",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+        "icono": "https://i.ibb.co/s99ZFkC9/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063"
       },
       {
         "name": "FOX DEPORTES",
@@ -1749,7 +1769,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
+    "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
   "name": "PARAVISION-TESTING FOR INTERCABLE",
@@ -1764,25 +1784,15 @@
   }
 },
       {
-  "name": "PARAVISION-TESTING FOR INTERCABLE",
+  "name": "PARAVISION-TESTING NOT HEADERS",
   "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
   "type": "CLEARKEY",
   "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
   "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es"
 },
       {
-        "name": "Prueba TEST",
+        "name": "Prueba youtube TEST",
         "youtube": "https://www.youtube.com/watch?v=XK9b86yB1ng",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		 {
-        "name": "Prueba SNT TEST",
-		"url": "http://138.59.227.20:8000/play/a0e7/index.m3u8",	 
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-		{
-        "name": "Prueba SNT TEST",
-		"url": "http://138.59.227.20:8000/play/a0e2/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
