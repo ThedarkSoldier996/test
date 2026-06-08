@@ -537,7 +537,7 @@
       {
         "name": "SBT",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-        "icono": "https://i.ibb.co/LDPbfxW9/image.png"
+        "icono": "https://i.ibb.co/pjhBH72r/image.png"
       },
       {
         "name": "TV BAND",
@@ -1359,16 +1359,15 @@
       {
         "name": "HISTORY",
         "url": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
-        "url2": "http://38.226.49.253:8000/play/a0gc/index.m3u8",
-        "url3": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
-        "icono": "https://i.ibb.co/h1BSG3y5/image.png"
+        "url2": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
+        "icono": "https://i.ibb.co/6Rm4GPxB/image.png"
       },
       {
         "name": "HISTORY 2",
         "url": "http://38.226.49.253:8000/play/a03m/index.m3u8",
         "url2": "http://38.188.48.83:8000/play/a0kp/index.m3u8",
         "url3": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
-        "icono": "https://i.ibb.co/hxnBDPpS/image.png"
+        "icono": "https://i.ibb.co/gbqv2hYf/image.png"
       },
       {
         "name": "DISCOVERY",
@@ -1381,12 +1380,12 @@
         "name": "DISCOVERY H&H",
         "url": "http://38.226.49.253:8000/play/a0an/index.m3u8",
         "url2": "http://138.59.227.20:8000/play/a08f/index.m3u8",
-        "url3": "http://190.7.19.197:232/play/a064/index.m3u8",
-        "icono": "https://i.ibb.co/20WP0XmJ/image.png"
+        "url3": "http://190.7.19.197:232/play/a064/index.m3u8", 
+        "icono": "https://i.ibb.co/Txq02rk5/image.png"
       },
       {
         "name": "DISCOVERY THEATER",
-        "icono": "https://i.ibb.co/x8h0Lmp0/image.png",
+        "icono": "https://i.ibb.co/LD6JQ45y/image.png",
         "url": "http://38.226.49.253:8000/play/a06b/index.m3u8",
         "url2": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls"
       },
@@ -1424,7 +1423,7 @@
         "name": "HGTV",
         "url": "http://38.226.49.253:8000/play/a03w/index.m3u8",
         "url2": "http://190.0.247.38:8000/play/a00u",
-        "icono": "https://i.ibb.co/WpcVSV2G/image.png"
+        "icono": "https://i.ibb.co/yFGv0wcB/image.png"
       }
     ]
   },
