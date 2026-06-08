@@ -92,8 +92,10 @@
       },
       {
         "name": "ROCK & POP PY",
-		 "status":"false", 
         "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
+		"url2": "https://rockandpop.b-cdn.net/Source.m3u8",
+		"url3": "https://rockandpop.b-cdn.net/480p.m3u8",
+		"url4": "https://rockandpop.b-cdn.net/720p.m3u8",  
         "icono": "https://i.ibb.co/BK7rpy4p/image.png"
       },
       {
@@ -234,8 +236,9 @@
       {
         "name": "ÑANDUTI TV",
         "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
-        "url2": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
-		"url3": "http://138.59.227.20:8000/play/a0eq/index.m3u8",  
+        "url2": "https://nanduti.b-cdn.net/Source.m3u8",
+		"url3": "https://nanduti.b-cdn.net/480p.m3u8",
+		"url4": "https://nanduti.b-cdn.net/720p.m3u8",   
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
       {
