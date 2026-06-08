@@ -835,13 +835,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063"
       },
-      {
-        "name": "FOX DEPORTES",
-		"hls":"yes",  
-        "info": "Estados Unidos",
-        "icono": "https://i.ibb.co/DD6X7bbW/image.png",
-        "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
-       },
 		{
         "name": "FOX SV",
         "url": "http://45.5.118.152:8000/play/a0dh/index.m3u8",
@@ -1110,7 +1103,7 @@
       },
       {
         "name": "NICASPORTS",
-		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",  
+		"status":"false",
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
         "icono": "https://i.ibb.co/7tZj27XV/image.png"
       },
@@ -1518,12 +1511,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
       },
-		 {
-        "name": "LA 2",
-		"status":"false",	 
-		"url":"https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",  
-        "icono": "https://i.ibb.co/VhsX1kD/image.png"
-      },
       {
         "name": "VIVO LATINO",
         "info": "Música",
@@ -1854,31 +1841,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-     {
-  "name": "PARAVISION-TESTING FOR INTERCABLE",
-  "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-  "type": "CLEARKEY",
-  "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-  "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es",
-  "headers": {
-    "Origin": "https://portal.app.flow.com.py",
-    "Referer": "https://portal.app.flow.com.py/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-  }
-},
-      {
-  "name": "PARAVISION-TESTING NOT HEADERS",
-  "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-  "type": "CLEARKEY",
-  "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-  "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es"
-},
-      
-		 {
-        "name": "Prueba NICASPORTS TEST",
-        "url": "https://45.170.224.29:8000/play/a01m/index.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
