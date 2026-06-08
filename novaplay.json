@@ -616,6 +616,12 @@
         "name": "CORAZON",
         "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
         "icono": "https://i.ibb.co/rG5C7VHJ/image.png"
+      },
+		{
+        "name": "AZTECA 1",
+        "info": "-1 HORA",
+        "icono": "https://i.ibb.co/fzhjqynM/image.png",
+        "url": "https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8"
       }
     ]
   },
@@ -1437,31 +1443,23 @@
       {
         "name": "RTVE 24H",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-        "icono": "https://i.ibb.co/mFV5k2mk/24h-2026-svg.png"
+		"url2":"https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",  
+        "icono": "https://i.ibb.co/r2yVYzS6/image.png"
       },
       {
-        "name": "CNN",
-        "info": "En Español",
+        "name": "CNN EN ESPAÑOL",
         "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/4gDZSNZC/image.png"
+        "icono": "https://i.ibb.co/FkzRj2My/image.png"
       },
       {
-        "name": "CNN",
-        "info": "Chile",
+        "name": "CNN CHILE",
         "url": "http://38.226.49.253:8000/play/a04y/index.m3u8",
         "icono": "https://i.ibb.co/gbLRLR8G/image.png"
       },
       {
-        "name": "CNN",
-        "info": "Internacional",
-        "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
-        "icono": "https://i.ibb.co/3mN9Wb0K/image.png"
-      },
-      {
-        "name": "CNN",
-        "info": "Brasil",
+        "name": "CNN BRASIL",
         "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
-        "icono": "https://i.ibb.co/DPr6ttnZ/image.png"
+        "icono": "https://i.ibb.co/HpKfTjxw/image.png"
       },
       {
         "name": "DW",
@@ -1480,7 +1478,7 @@
         "name": "TELESUR",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
         "type": "hls",
-        "icono": "https://i.ibb.co/QvFQpyGR/Tele-SUR-logo-textless-svg.png"
+        "icono": "https://i.ibb.co/zhnnDNKQ/image.png"
       },
       {
         "name": "CNN HEADLINES INTERNATIONAL",
@@ -1497,8 +1495,7 @@
       {
         "name": "FOX NEWS USA",
         "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
-        "type": "hls",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+        "icono": "https://i.ibb.co/R42gk2Ws/image.png",
         "texto": "Idioma: English"
       }
     ]
@@ -1511,9 +1508,15 @@
       {
         "name": "LA 1",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+		"url2":"https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",  
+        "icono": "https://i.ibb.co/351xNJZf/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
+      },
+		 {
+        "name": "LA 2",
+		"url":"https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",  
+        "icono": "https://i.ibb.co/VhsX1kD/image.png"
       },
       {
         "name": "VIVO LATINO",
@@ -1522,10 +1525,9 @@
         "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "K-POP BY CJ ENM",
-        "info": "Música",
-        "icono": "https://i.ibb.co/8LVXtd1Q/image.png",
-        "url": "https://jmp2.uk/stvp-US39000038W"
+        "name": "NHK WORLD",
+        "icono": "https://i.ibb.co/B2T9LNLP/image.png",
+        "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
       },
       {
         "name": "UNIVISION",
@@ -1583,20 +1585,14 @@
       {
         "name": "CGTN",
         "info": "En Español",
-        "icono": "https://i.ibb.co/ymSYCKq7/image.png",
+        "icono": "https://i.ibb.co/cSY586P4/image.png",
         "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
       },
       {
         "name": "VENEVISION",
         "info": "Internacional",
-        "icono": "https://i.ibb.co/Xfd5VZdp/image.png",
+        "icono": "https://i.ibb.co/ks9qW9PN/image.png",
         "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8"
-      },
-      {
-        "name": "VTV CANAL 23",
-        "info": "Rep. Dominicana",
-        "icono": "https://i.ibb.co/9k2C9zWw/image.png",
-        "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
       }
     ]
   },
