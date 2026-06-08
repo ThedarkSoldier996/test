@@ -1614,13 +1614,14 @@
       },
       {
         "name": "TOONCAST",
-        "icono": "https://i.ibb.co/mZL9dRm/image.png",
-        "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls"
+        "icono": "https://i.ibb.co/fYH5j83Q/image.png",
+        "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
+		"url2": "http://38.226.49.253:8000/play/a03u/index.m3u8?hls"  
       },
       {
         "name": "NARUTO SHIPPUDEN",
         "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/960px-Logo_Naruto_Shipp%C5%ABden.svg.png"
+        "icono": "https://i.ibb.co/pjVNq6V0/image.png"
       },
       {
         "name": "NICKELODEON TOONS",
@@ -1635,7 +1636,7 @@
       {
         "name": "DISNEY CHANNEL",
         "url": "http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls",
-        "icono": "https://lokos.pages.dev/webp/logos/disney.webp"
+        "icono": "https://i.ibb.co/RpX4r4PF/image.png"
       },
       {
         "name": "POPEYE",
@@ -1645,7 +1646,7 @@
       {
         "name": "POKEMON",
         "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1920px-International_Pok%C3%A9mon_logo.svg.png"
+        "icono": "https://i.ibb.co/0RvyjdT9/image.png"
       },
       {
         "name": "NICKELODEON CLASICOS",
@@ -1654,23 +1655,24 @@
       },
       {
         "name": "NICKELODEON ",
-        "icono": "https://i.ibb.co/7xtxbrPm/image.png",
+        "icono": "https://i.ibb.co/d4qbMQDN/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-33.playlist.m3u8"
       },
       {
         "name": "DISCOVERY KIDS",
-        "icono": "https://i.ibb.co/nqqVw9dY/image.png",
+        "icono": "https://i.ibb.co/bgYBcryv/image.png",
         "url": "http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls"
       },
       {
         "name": "NICK JR",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nickjr-logo.png/960px-Nickjr-logo.png",
+        "icono": "https://i.ibb.co/8nHmkqt3/image.png",
         "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
       },
       {
         "name": "CARTOON NETWORK",
-        "icono": "https://i.ibb.co/B23WZvts/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-31.playlist.m3u8"
+        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
+        "url": "http://38.226.49.253:8000/play/a050/index.m3u8?hls",
+		"url2": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls"  
       },
       {
         "name": "CARTOONITO",
@@ -1679,8 +1681,9 @@
       },
       {
         "name": "DISNEY JR",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
-        "url": "http://190.0.247.38:8000/play/a00f"
+        "icono": "https://i.ibb.co/YFNk9ydS/image.png",
+        "url": "http://38.226.49.253:8000/play/a034/index.m3u8?hls",
+		"url2": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls"  
       }
     ]
   },
