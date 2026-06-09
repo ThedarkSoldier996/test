@@ -930,6 +930,14 @@
         "drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
+				{
+        "name": "DIRECTV SPORTS",
+		 "info": "CHILE",	
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
       {
         "name": "DIRECTV SPORTS",
         "info": "PERU",
@@ -1857,21 +1865,7 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-		{
-          "name": "DSports Chile",
-          "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-          "type": "CLEARKEY",
-         "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/dsportchile",
-			"drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79"
-        },
-		{
-        "name": "DSports🇨🇱Amazon",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
-        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png"
-      },
+
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
