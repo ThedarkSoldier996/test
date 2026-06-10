@@ -630,6 +630,9 @@
 		"url": "https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tecnopolis/output.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=3184a62584b247baa350308639a9bdf6&key=7bb92afd72a80341aaacbe15069fdad1",
+		"Origin": "https://play.rocstar.tv",
+        "Referer": "https://play.rocstar.tv/",
+        "User-Agent": "Rocstar TV/3.1.7-amob (Rocstar TV/3.1.7-amob (Linux;Android 16) AndroidXMedia3/1.8.0)",
         "icono": "https://i.ibb.co/JLStN5H/images-5-12.jpg"
       },
       {
