@@ -110,11 +110,23 @@
       },
 	  {
 		"name": "GEN PY",
+		"info":"Opción 1",
 		"evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
-        "url3": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
-        "url4": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
+        "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
+      },
+		{
+		"name": "GEN PY",
+	    "info":"Opción 2",
+		"evento": "yes",
+        "url": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
+        "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
+      },
+		{
+		"name": "GEN PY",
+	    "info":"Opción 3",
+		"evento": "yes",
+        "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
 	  {
