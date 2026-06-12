@@ -4,8 +4,8 @@
     "title": "NOVASPORTS EVENTOS",
     "items": [
       {
-        "name": "NOVASPORTS",
-        "info": "EVENTOS 1",
+        "name": "NOVASPORTS - EVENTOS 1",
+        "evento": "yes",
         "status":"false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb85686757576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb85686757576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
@@ -22,8 +22,8 @@
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
       {
-        "name": "NOVASPORTS",
-        "info": "EVENTOS 2",
+        "name": "NOVASPORTS - EVENTOS 2",
+        "evento": "yes",
         "status":"false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb85686757576d0c6/rolling-buffer/APP_CHN4/APP_CHN2/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8f67567575d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
@@ -40,8 +40,8 @@
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
       {
-        "name": "NOVASPORTS",
-        "info": "EVENTOS 3",
+        "name": "NOVASPORTS - EVENTOS 3",
+        "evento": "yes",
         "status":"false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8567785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8567785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
@@ -58,14 +58,15 @@
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
       {
-        "name": "NOVASPORTS",
+        "name": "NOVASPORTS - EVNETOS 4",
+        "evento": "yes",
         "info": "EVENTOS 4",
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       },
       {
-        "name": "NOVASPORTS",
-        "info": "Tigo Sports PY - 24/7",
+        "name": "NOVASPORTS - EVENTOS 5",
+        "evento": "yes",
         "status":"false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
@@ -346,6 +347,7 @@
       {
         "name": "C9N",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
+        "url2": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "icono": "https://i.ibb.co/Q74wSJNp/image.png"
       },
       {
@@ -529,7 +531,12 @@
         "icono": "https://i.ibb.co/mCyTDjS6/image.png",
         "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
         "url2": "http://138.59.227.20:8000/play/a0dp/index.m3u8"
-      }
+      },
+      {
+                "name": "Oviedo TV",
+                "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+                "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png"
+    }
     ]
   },
   {
@@ -1039,9 +1046,14 @@
         "drm_license_uri": "https://results.femon.net?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063"
       },
       {
-        "name": "FOX SV",
+        "name": "FOX EL SALVADOR",
         "url": "http://45.5.118.152:8000/play/a0dh/index.m3u8",
         "icono": "https://i.ibb.co/S4rgZsDN/image.png"
+      },
+      {
+        "name": "FOX ONE",
+        "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+        "icono": "https://i.ibb.co/gbW8vKBP/image.png"
       },
       {
         "name": "FOX SPORTS PREMIUM MX ",
@@ -1872,8 +1884,11 @@
       },
       {
         "name": "DISCOVERY KIDS",
+        "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
+        "url2": "http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls",
         "icono": "https://i.ibb.co/bgYBcryv/image.png",
-        "url": "http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls"
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=9201c07931b74c37c4e30a9e96b64c30&key=8e1ce4f1b1185f64e42f9974cbad1442"
       },
       {
         "name": "NICK JR",
@@ -1883,13 +1898,20 @@
       {
         "name": "CARTOON NETWORK",
         "icono": "https://i.ibb.co/KxP8dwQn/image.png",
-        "url": "http://38.226.49.253:8000/play/a050/index.m3u8?hls",
-        "url2": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls"
+        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
+        "ur2": "http://38.226.49.253:8000/play/a050/index.m3u8?hls",
+        "url3": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79"
       },
       {
         "name": "CARTOONITO",
+        "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
+        "url2": "http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls",
         "icono": "https://i.ibb.co/VWDzXmT3/image.png",
-        "url": "http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls"
+         "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid= 3fc370ab08218da5dad9b9644f1df57b&key=1ddc60916c0efd29990cb1d319e7710a"
+
       },
       {
         "name": "DISNEY JR",
