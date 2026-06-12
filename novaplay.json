@@ -122,7 +122,8 @@
         "name": "TV PUBLICA - MUNDIAL",
         "evento": "yes",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png",
-        "url": "http://138.59.227.20:8000/play/a095/index.m3u8"
+        "url": "http://138.59.227.20:8000/play/a095/index.m3u8",
+        "url2": "http://190.7.19.197:232/play/a03c/index.m3u8"
       },
       {
         "name": "DIRECTV SPORTS (SD) AR - MUNDIAL",
@@ -565,7 +566,8 @@
       {
         "name": "TV PUBLICA",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png",
-        "url": "http://138.59.227.20:8000/play/a095/index.m3u8"
+        "url": "http://138.59.227.20:8000/play/a095/index.m3u8",
+        "url2": "http://190.7.19.197:232/play/a03c/index.m3u8"
       },
       {
         "name": "TN",
@@ -2054,6 +2056,12 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
+      {
+        "name": "Señal No Asignada",
+        "info": "DEPORTV",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "http://190.7.19.197:232/play/a05d/index.m3u8"
+      },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
