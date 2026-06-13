@@ -847,7 +847,8 @@
         "name": "ESPN - EXTERNO",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpday1.xyz/global1.php?stream=espn",
-        "icono": "https://i.ibb.co/Pvq156K0/image.png"
+        "icono": "https://i.ibb.co/Pvq156K0/image.png",
+        "resolver":"yes"
       },
       {
         "name": "ESPN",
