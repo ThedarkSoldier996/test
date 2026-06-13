@@ -517,8 +517,7 @@
         "texto": "SEÑAL TV Y RADIO"
       },
       {
-        "name": "COSMOS TV",
-        "info": "TV Y RADIO",
+        "name": "COSMOS TV-RADIO",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
         "icono": "https://i.ibb.co/m5BwgvgL/image.png"
       },
@@ -853,7 +852,7 @@
       {
         "name": "ESPN - EXTERNO",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn",
+        "url": "https://streamtpday1.xyz/global1.php?stream=espn",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
       {
@@ -878,7 +877,7 @@
       {
         "name": "ESPN 2 - EXTERNO",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn2",
+        "url": "https://streamtpday1.xyz/global1.php?stream=espn2",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
       {
@@ -903,7 +902,7 @@
       {
         "name": "ESPN 3 - EXTERNO",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn3",
+        "url": "https://streamtpday1.xyz/global1.php?stream=espn3",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
       {
@@ -928,7 +927,7 @@
       {
         "name": "ESPN 4 - EXTERNO",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn4",
+        "url": "https://streamtpday1.xyz/global1.php?stream=espn4",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
       {
