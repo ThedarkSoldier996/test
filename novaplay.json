@@ -120,11 +120,6 @@
         "dl":"yes"
       },
       {
-        "name": "TRECE PY - MUNDIAL 2",
-        "url":"http://24.152.42.29:8000/play/a03r/index.m3u8",
-        "icono": "https://i.ibb.co/TsxdFGk/image.png"
-      },
-      {
         "name": "TELEFE - MUNDIAL",
         "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
@@ -403,6 +398,7 @@
       },
       {
         "name": "TRECE",
+        "status":"false",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
         "url2":"http://24.152.42.29:8000/play/a03r/index.m3u8",
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
