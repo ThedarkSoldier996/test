@@ -230,11 +230,10 @@
       },
       {
         "name": "CANAL 5 - MUNDIAL",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CANAL-5-HD/default.mpd",
-        "url2": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+         "evento": "yes",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=578f77c2e0fb7b31b1676b75b57fe922&key=6e5ee266b112e58a0e27e4384b03ed76",
-        "drm_license_uri2": "https://results.femon.net?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
       {
@@ -838,13 +837,11 @@
         "drm_license_uri2": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
         "icono": "https://i.ibb.co/fdNfZg0G/image.png"
       },
-      {
+       {
         "name": "CANAL 5",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CANAL-5-HD/default.mpd",
-        "url2": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=578f77c2e0fb7b31b1676b75b57fe922&key=6e5ee266b112e58a0e27e4384b03ed76",
-        "drm_license_uri2": "https://results.femon.net?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
       {
