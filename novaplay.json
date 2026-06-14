@@ -106,12 +106,23 @@
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
        {
+        "name": "GEN PY 4 - MUNDIAL",
+        "evento": "yes",
+        "url": "http://24.152.42.29:8000/play/a02f/index.m3u8",
+        "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
+      },
+       {
         "name": "TRECE PY - MUNDIAL",
         "info": "SOLO GOOGLETV O SIMILARES",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "REINTENTAR SI NO CARGA",
         "dl":"yes"
+      },
+      {
+        "name": "TRECE PY - MUNDIAL 2",
+        "url":"http://24.152.42.29:8000/play/a03r/index.m3u8",
+        "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
         "name": "TELEFE - MUNDIAL",
@@ -329,6 +340,7 @@
         "url2": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
         "url3": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
         "url4": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
+        "url5": "http://24.152.42.29:8000/play/a02f/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
@@ -391,8 +403,8 @@
       },
       {
         "name": "TRECE",
-        "status":"false",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
+        "url2":"http://24.152.42.29:8000/play/a03r/index.m3u8",
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
@@ -435,6 +447,7 @@
       {
         "name": "POPU TV",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
+        "url2":"http://24.152.42.29:8000/play/a09l/index.m3u8",
         "icono": "https://i.ibb.co/Z1v1gxFq/image.png"
       },
       {
@@ -483,6 +496,17 @@
         "name": "HEI NOW ",
         "url": "https://tigocloud.desdeparaguay.net/heitv/heitv_py_baja/playlist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/XkLZ49BM/image.png"
+      },
+      
+      {
+        "name": "AMERICA PY",
+        "url":"http://24.152.42.29:8000/play/a08f/index.m3u8",
+        "icono": "https://i.ibb.co/hRV2QFq6/image.png"
+      },
+      {
+        "name": "AMERICA PY DL",
+        "url":"https://geo.dailymotion.com/player/x1b5gc.html?video=x9lh4mu",
+        "icono": "https://i.ibb.co/hRV2QFq6/image.png"
       },
       {
         "name": "REPUBLICA FM TV",
@@ -536,6 +560,11 @@
                 "name": "Oviedo TV",
                 "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
                 "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png"
+    },
+      {
+                "name": "A24 PARAGUAY DL",
+                "url": "https://geo.dailymotion.com/player/x1b5gc.html?video=k26DgbMBBfp3nOE2FS4",
+                "icono": "https://i.ibb.co/6cWshy45/image.png"
     }
     ]
   },
@@ -620,7 +649,7 @@
         "url2": "http://190.7.19.197:232/play/a01z/index.m3u8"
       },
       {
-        "name": "A24",
+        "name": "A24 ARGENTINA",
         "icono": "https://i.ibb.co/b9qhSXx/image.png",
         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",
         "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
@@ -1987,11 +2016,6 @@
     "icono": "https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png"
   },
   {
-    "name": "THE WALKING DEAD 24/7",
-    "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
-    "icono": "https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png"
-  },
-  {
     "name": "STAR TREK 24/7",
     "url": "https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8",
     "icono": "https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG.png"
@@ -3090,12 +3114,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-      {
-        "name": "Señal No Asignada",
-        "info": "DEPORTV",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://190.7.19.197:232/play/a05d/index.m3u8"
-      },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
