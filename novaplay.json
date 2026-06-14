@@ -181,6 +181,14 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
+        "name": "DIRECTV SPORTS+ - MUNDIAL",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+        "evento": "yes",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8afa490e1640be969729fb459182e4ec&key=6f129820cdd5b6978a98c604c72cf05b",
+        "icono": "https://i.ibb.co/QvQsMP14/image.png"
+      },
+      {
         "name": "VIX PREMIUM 1 - MUNDIAL",
         "evento": "yes",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
@@ -1149,10 +1157,10 @@
       },
       {
         "name": "DIRECTV SPORTS+",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
         "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8afa490e1640be969729fb459182e4ec&key=6f129820cdd5b6978a98c604c72cf05b",
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
