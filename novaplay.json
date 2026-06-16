@@ -96,6 +96,16 @@
         "drm_license_uri": "https://results.femon.net?keyid=739cd40be1473c09ae918d89d2132200&key=16220f085ba18266a0db6542a9512c70"
       },
       {
+        "name": "VS SPORTS - MUNDIAL",
+        "info":"GEN - MUNDIAL",
+        "evento": "yes",
+        "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png",
+        "Origin": "https://www.gen.com.py",
+        "Referer": "https://www.gen.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+      },
+      {
         "name": "GEN PY 1 - MUNDIAL",
         "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
@@ -111,6 +121,7 @@
         "name": "GEN PY 3- MUNDIAL",
         "evento": "yes",
         "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
+        "url2": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
@@ -3120,14 +3131,10 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "Señal No Asignada",
-        "info": "GEN TV",
-        "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "Origin": "https://www.gen.com.py",
-        "Referer": "https://www.gen.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-      },
+                "name": "SEÑAL NO ASIGNADA",
+                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
+                "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+            },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
