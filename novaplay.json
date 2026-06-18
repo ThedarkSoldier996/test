@@ -88,15 +88,6 @@
     "title": "MUNDIAL",
     "items": [
       {
-        "name": "TELEMUNDO 60 - MUNDIAL",
-        "status": "false",
-        "evento": "yes",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvda)/master.mpd",
-        "icono": "https://i.ibb.co/wxPSfFT/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=739cd40be1473c09ae918d89d2132200&key=16220f085ba18266a0db6542a9512c70"
-      },
-      {
         "name": "VS SPORTS - MUNDIAL",
         "info":"GEN - MUNDIAL",
         "evento": "yes",
@@ -109,24 +100,18 @@
       {
         "name": "GEN PY 1 - MUNDIAL",
         "evento": "yes",
-        "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
-        "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
-      },
-      {
-        "name": "GEN PY 2 - MUNDIAL",
-        "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
-        "name": "GEN PY 3- MUNDIAL",
+        "name": "GEN PY 2- MUNDIAL",
         "evento": "yes",
         "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
         "url2": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
-        "name": "GEN PY 4 - MUNDIAL",
+        "name": "GEN PY 3 - MUNDIAL",
         "evento": "yes",
         "url": "http://24.152.42.29:8000/play/a02f/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
@@ -1735,13 +1720,6 @@
         "icono": "https://i.ibb.co/tPNyJ6X3/image.png"
       },
       {
-        "name": "TELEMUNDO 60",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvda)/master.mpd",
-        "icono": "https://i.ibb.co/wxPSfFT/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=739cd40be1473c09ae918d89d2132200&key=16220f085ba18266a0db6542a9512c70"
-      },
-      {
         "name": "TELEMUNDO ACCION",
         "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
         "icono": "https://i.ibb.co/1fSwQRcC/image.png"
@@ -1750,20 +1728,6 @@
         "name": "UNIVERSO",
         "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
         "icono": "https://i.ibb.co/Z66Y08qq/image.png"
-      },
-      {
-        "name": "UNIVERSO 2",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
-        "icono": "https://i.ibb.co/Z66Y08qq/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=96b67fa09140329a89b7a1ead134eda3&key=c618d32c56cdc6cad8330eb98507ca3f"
-      },
-      {
-        "name": "UNIVERSO 3",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-west)/master.mpd",
-        "icono": "https://i.ibb.co/Z66Y08qq/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=069f3495380f3d25a8c03477067f7d1b&key=7d9dbf8134535e1665e914fb7134ce47"
       },
       {
         "name": "CANAL 57",
