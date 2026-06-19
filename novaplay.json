@@ -845,10 +845,15 @@
       {
         "name": "AZTECA 7",
         "url": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
-        "url2": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=2cde091f1e4675c82d65498bd6ba0e65&key=29f2aeb97a908466177c56fc28fe083f",
-        "drm_license_uri2": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
+        "icono": "https://i.ibb.co/fdNfZg0G/image.png"
+      },
+      {
+        "name": "AZTECA 7 - 2",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
         "icono": "https://i.ibb.co/fdNfZg0G/image.png"
       },
        {
@@ -3098,17 +3103,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-      {
-        "name": "SEÑAL NO ASIGNADA",
-        "info":"TEST FOX",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTS",
-        "Referer":"https://www.primevideo.com/",
-        "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-        "icono": "https://i.ibb.co/m5PgzmbT/image.png"
-      },
       {
           "name": "Caracol TV",
           "url": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd",
