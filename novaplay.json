@@ -89,6 +89,7 @@
     "items": [
       {
           "name": "TELEMUNDO -  MUNDIAL",
+          "status":"false",
           "evento": "yes",
           "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
           "type": "CLEARKEY",
