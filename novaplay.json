@@ -3096,15 +3096,12 @@
     "items": [
       {
         "name": "SEÑAL NO ASIGNADA",
-        "info":"TEST VPN",
+        "info":"TEST FOX",
         "evento": "yes",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
-        "icono": "https://i.ibb.co/m5PgzmbT/image.png",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/main/foxsport.json",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png"
       },
       {
         "name": "Señal No Asignada",
