@@ -249,6 +249,12 @@
         "drm_license_uri": "https://results.femon.net?keyid=bfbf27d8a79f7734f720c3af6a63f5fe&key=d5fcf98fcee1bbdd44104f188d088335"
       },
       {
+        "name": "CDN DEPORTES - MUNDIAL",
+        "evento": "yes",     
+        "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
+        "icono": "https://i.ibb.co/Tjg8Q5Y/image.png"
+      },
+      {
         "name": "CANAL 5 - MUNDIAL",
          "evento": "yes",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
@@ -3118,9 +3124,9 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "CDN DEPORTES",
+        "name": "CDN DEPORTES0001",
         "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+        "icono": "https://i.ibb.co/Tjg8Q5Y/image.png"
       },
       {
         "name": "Señal No Asignada",
