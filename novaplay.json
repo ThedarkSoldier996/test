@@ -246,7 +246,7 @@
          "evento": "yes",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
       {
@@ -867,7 +867,7 @@
         "name": "CANAL 5",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
       {
@@ -3111,10 +3111,10 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "CANAL 5 - TEST",
-        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "name": "VIX DEPORTES - TEST",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VXDEPORT",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
       {
