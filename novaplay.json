@@ -154,14 +154,6 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS CL - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
         "name": "DIRECTV SPORTS CO - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
@@ -1138,13 +1130,6 @@
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DIRECTV SPORTS CL",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
@@ -3124,6 +3109,14 @@
           "icono": "https://i.ibb.co/rKKT99qK/image.png",
           "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Tmundo"
         },
+      {
+        "name": "DIRECTV SPORTS CL - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
