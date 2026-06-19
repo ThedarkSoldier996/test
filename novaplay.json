@@ -3107,6 +3107,13 @@
         "icono": "https://i.ibb.co/m5PgzmbT/image.png"
       },
       {
+          "name": "TELEMUNDO MUNDIAL",
+          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+          "type": "CLEARKEY",
+          "image": "https://i.ibb.co/Z1xqKrcH/052926-wc-logo.webp",
+          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTS"
+        },
+      {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
         "loop": "true",
