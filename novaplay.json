@@ -240,14 +240,6 @@
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
-      },
-        {
-        "name": "LA 1 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "icono": "https://i.ibb.co/351xNJZf/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
       }
     ]
   },
