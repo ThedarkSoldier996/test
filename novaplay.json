@@ -171,7 +171,7 @@
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=75074a0cbd83f5b72fb3e5c1495252a9&key=a4a0df04b2d28f2160cead2ecdeb7203"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP01"
       },
       {
         "name": "VIX PREMIUM 2 - MUNDIAL",
@@ -179,7 +179,7 @@
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=11f486ca7df20d63ff3aaecf4d87d132&key=9271506950313bab2ced7522891aa022"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP02"
       },
       {
         "name": "VIX PREMIUM 3 - MUNDIAL",
@@ -187,7 +187,7 @@
         "url": "https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-92-HD-H265/VIX-MUNDIAL-92-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=7ecf2de72f3d8c80a4355abe8e0f2d1b&key=4ab47cbccf1ea08fa3fd82970795aad5"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP03"
       },
       {
         "name": "VIX PREMIUM 4 - MUNDIAL",
@@ -195,7 +195,7 @@
         "url": "https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-93-HD-H265/VIX-MUNDIAL-93-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=696435bb1f9b9387866e4d01ab969779&key=af4bbc01b4e6c0a14279e11451a3e474"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP04"
       },
       {
         "name": "VIX PREMIUM 5 - MUNDIAL",
@@ -203,7 +203,7 @@
         "url": "https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-94-HD-H265/VIX-MUNDIAL-94-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=78535ece7acc58ad362346c7c2fa4cf5&key=9042221339d28d54428a3e7d0c34bd65"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP05"
       },
       {
         "name": "VIX PREMIUM 6 - MUNDIAL",
@@ -211,7 +211,7 @@
         "url": "https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-95-HD-H265/VIX-MUNDIAL-95-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=bfbf27d8a79f7734f720c3af6a63f5fe&key=d5fcf98fcee1bbdd44104f188d088335"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP06"
       },
       {
         "name": "CDN DEPORTES - MUNDIAL",
