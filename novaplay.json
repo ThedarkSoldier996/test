@@ -239,7 +239,7 @@
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CAZETV"
       }
     ]
   },
@@ -1262,21 +1262,7 @@
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
-      },
-      {
-        "name": "CAZETV 2",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
-        "icono": "https://i.ibb.co/21BDZ7pC/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457"
-      },
-      {
-        "name": "CAZETV 3",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
-        "icono": "https://i.ibb.co/G3rzpVNn/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CAZETV"
       },
       {
         "name": "SPORTV 1",
