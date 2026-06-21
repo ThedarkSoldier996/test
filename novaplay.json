@@ -1146,18 +1146,18 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
-        "name": "LA LIGA TV",
+        "name": "LA LIGA TV --",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
         "icono": "https://i.ibb.co/kg6tjpVT/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a"
       },
       {
         "name": "LA LIGA HYPERMOTION 1",
         "url": "https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
         "icono": "https://i.ibb.co/nqW6xhdv/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a88617e904504ee291f49f0e60a51d49&key=17f92d59fde3b6d2bf4ffb48e8ca720a"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LIGAHYPERMOTION"
       },
       {
         "name": "LA LIGA HYPERMOTION 2",
