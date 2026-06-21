@@ -1632,13 +1632,6 @@
         "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
       },
       {
-        "name": "TELEMUNDO 44",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wzdc)/master.mpd",
-        "icono": "https://i.ibb.co/jPw706rY/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=0cbb45241c353c3d8b3403c83394ff13&key=6a568aba844183dfb191c1ab28cfb61a"
-      },
-      {
         "name": "TELEMUNDO 47",
         "icono": "https://i.ibb.co/7d2T1Gn0/image.png",
         "url": "http://201.151.118.136:8000/play/a00h/index.m3u8"
