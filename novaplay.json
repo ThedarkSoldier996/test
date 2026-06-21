@@ -802,7 +802,7 @@
         "name": "NU9VE - OPC 2",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
         "icono": "https://i.ibb.co/BHzJsnTD/image.png"
       },
       {
