@@ -1734,8 +1734,10 @@
       },
       {
         "name": "DISNEY CHANNEL",
-        "url": "http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls",
-        "icono": "https://i.ibb.co/RpX4r4PF/image.png"
+        "icono": "https://i.ibb.co/RpX4r4PF/image.png",
+        "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DISCHANNEL"
       },
       {
         "name": "POPEYE",
@@ -3025,11 +3027,11 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "DISNEY CHANNEL TEST",
+        "name": "AXN TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
+        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DISCHANNEL"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AXN"
       },
       {
         "name": "Señal No Asignada",
