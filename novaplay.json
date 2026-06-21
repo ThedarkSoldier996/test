@@ -1800,8 +1800,21 @@
       {
         "name": "DISNEY JR",
         "icono": "https://i.ibb.co/YFNk9ydS/image.png",
-        "url": "http://38.226.49.253:8000/play/a034/index.m3u8?hls",
-        "url2": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls"
+        "url": "https://zap-live2-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR"
+      },
+      {
+        "name": "DISNEY JR - OPC 2",
+        "icono": "https://i.ibb.co/YFNk9ydS/image.png",
+        "url": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls"
+      },
+      {
+        "name": "DREAMWORKS",
+        "icono": "https://i.ibb.co/jZvmLzMW/image.png",
+        "url": "https://aca-live-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORKS"
       }
     ]
   },
@@ -3041,18 +3054,18 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "DISNEY JR TEST",
+        "name": "NATGEO TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live2-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd",
+        "url": "https://aca-live-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NTGEO"
       },
       {
-        "name": "DREAMWORKS TEST",
+        "name": "DISCOVERY TURBO TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://aca-live-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd",
+        "url": "https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORKS"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTURBO"
       },
       {
         "name": "Señal No Asignada",
