@@ -1051,13 +1051,17 @@
       {
         "name": "TUDN MX ",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
-        "url2": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
         "icono": "https://i.ibb.co/21rG76g7/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDN"
       },
       {
-        "name": "TUDN MX - EXTERNO",
+        "name": "TUDN MX OPC 2 ",
+        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
+        "icono": "https://i.ibb.co/21rG76g7/image.png"
+      },
+      {
+        "name": "TUDN MX OPC 3",
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png",
         "web": "yes"
@@ -1119,9 +1123,13 @@
       {
         "name": "DIRECTV SPORTS 2 AR OPC 2",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-        "url2": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2_OPC2",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
+      },
+      {
+        "name": "DIRECTV SPORTS 2 AR OPC 3",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
