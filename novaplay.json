@@ -1770,19 +1770,7 @@
         "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
       },
       {
-        "name": "CARTOON NETWORK",
-        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CN"
-      },
-      {
         "name": "CARTOON NETWORK - OPC 2",
-        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
-        "ur2": "http://38.226.49.253:8000/play/a050/index.m3u8?hls"
-      },
-      {
-        "name": "CARTOON NETWORK - OPC 3",
         "icono": "https://i.ibb.co/KxP8dwQn/image.png",
         "url": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls"
       },
@@ -3036,14 +3024,12 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-     
-      {
-        "name": "DIRECTV SPORTS CL - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+     {
+        "name": "DISNEY CHANNEL TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DISCHANNEL"
       },
       {
         "name": "Señal No Asignada",
