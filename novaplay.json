@@ -1506,6 +1506,13 @@
       },
       {
         "name": "DISCOVERY TURBO",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTURBO"
+      },
+      {
+        "name": "DISCOVERY TURBO - OPC 2",
         "icono": "https://i.ibb.co/LX1JWdhH/image.png",
         "url": "http://38.226.49.253:8000/play/a05i/index.m3u8",
         "url2": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
@@ -1517,7 +1524,14 @@
         "icono": "https://i.ibb.co/BFsJVVG/image.png"
       },
       {
-        "name": "NAT GEO",
+        "name": "NATGEO",
+        "icono": "https://i.ibb.co/ksfZR4Yj/image.png",
+        "url": "https://aca-live-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NTGEO"
+      },
+      {
+        "name": "NATGEO - OPC 2",
         "url": "http://38.226.49.253:8000/play/a05x/index.m3u8",
         "url2": "http://181.224.255.210:8001/play/a0m2/index.m3u8",
         "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
@@ -3054,18 +3068,18 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "NATGEO TEST",
+        "name": "DISCOVERY SCIENCE TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://aca-live-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd",
+        "url": "https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NTGEO"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSCIENCE"
       },
       {
-        "name": "DISCOVERY TURBO TEST",
+        "name": "DISCOVERY ID TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
+        "url": "https://aca-live-ott.izzigo.tv/13/out/u/dash/DISCOVERY-ID-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTURBO"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DID"
       },
       {
         "name": "Señal No Asignada",
