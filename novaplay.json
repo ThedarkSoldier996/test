@@ -1499,8 +1499,16 @@
         "url3": "http://190.7.19.197:232/play/a064/index.m3u8",
         "icono": "https://i.ibb.co/Txq02rk5/image.png"
       },
-      {
+       {
         "name": "DISCOVERY THEATER",
+        "icono": "https://i.ibb.co/LD6JQ45y/image.png",
+        "url": "https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-THEATER-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTHEATER"
+      },
+      
+      {
+        "name": "DISCOVERY THEATER - OPC 2",
         "icono": "https://i.ibb.co/LD6JQ45y/image.png",
         "url": "http://38.226.49.253:8000/play/a06b/index.m3u8",
         "url2": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls"
@@ -1512,7 +1520,7 @@
         "url2": "http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls"
       },
        {
-        "name": "DISCOVERY ID TEST",
+        "name": "DISCOVERY ID",
         "icono": "https://i.ibb.co/ZpG4D26S/image.png",
         "url": "https://aca-live-ott.izzigo.tv/13/out/u/dash/DISCOVERY-ID-HD/default.mpd",
         "type": "CLEARKEY",
@@ -1520,7 +1528,7 @@
       },
       {
         "name": "DISCOVERY TURBO",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "icono": "https://i.ibb.co/LX1JWdhH/image.png",
         "url": "https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTURBO"
@@ -1530,6 +1538,13 @@
         "icono": "https://i.ibb.co/LX1JWdhH/image.png",
         "url": "http://38.226.49.253:8000/play/a05i/index.m3u8",
         "url2": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
+      },
+      {
+        "name": "DISCOVERY WORLD",
+        "icono": "https://i.ibb.co/9HcQLp1m/image.png",
+        "url": "https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-WORLD-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORLD"
       },
       {
         "name": "SUN CHANNEL",
@@ -3082,18 +3097,18 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "DISCOVERY THEATER TEST",
+        "name": "A&E TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-THEATER-HD/default.mpd",
+        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTHEATER"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AANDE"
       },
       {
-        "name": "DISCOVERY WORLD TEST",
+        "name": "AMC TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-WORLD-HD/default.mpd",
+        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORLD"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AMC"
       },
       {
         "name": "Señal No Asignada",
