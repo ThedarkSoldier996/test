@@ -1357,6 +1357,13 @@
     "title": "ENTRETENIMIENTO",
     "items": [
       {
+        "name": "AMC",
+        "icono": "https://i.ibb.co/NgmzQS9P/image.png",
+        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AMC"
+      },
+      {
         "name": "NCIS Criminologia Naval",
         "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
         "icono": "https://i.ibb.co/DDCQwRzK/image.png"
@@ -1414,6 +1421,13 @@
       },
       {
         "name": "A&E",
+        "icono": "https://i.ibb.co/vvDdW11M/image.png",
+        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AANDE"
+      },
+      {
+        "name": "A&E - OPC 2",
         "url": "http://38.226.49.253:8000/play/a05m/index.m3u8",
         "url2": "http://38.226.49.253:8000/play/a05u/index.m3u8",
         "icono": "https://i.ibb.co/vvDdW11M/image.png"
@@ -3096,19 +3110,40 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-     {
-        "name": "A&E TEST",
+      {
+        "name": "ANTIRETORNO AL CARGAR CANALES",
+        "info": "SOLO ES UN VIDEO EN BUCLE",
+        "loop": "true",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd",
+        "url": "https://drive.usercontent.google.com/download?id=1P9pLY6TdpoNm9G2CcEfstIe0WSxKh1iq&export=download&authuser=0&confirm=t&uuid=f7d98d0e-ed6f-4911-ab22-8e101b18e297&at=AAINaIJI2tAJ4Wcc-lPlnVRoPq4F%3A1782130268100"
+      },
+     {
+        "name": "CINECANAL TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AANDE"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNECANAL"
       },
       {
-        "name": "AMC TEST",
+        "name": "CINEMAX TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd",
+        "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AMC"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNEMAX"
+      },
+      {
+        "name": "DE PELICULA SD TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DPELISD"
+      },
+       {
+        "name": "DE PELICULA HD TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DPELIHD"
       },
       {
         "name": "Señal No Asignada",
