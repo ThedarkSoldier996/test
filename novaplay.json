@@ -1478,6 +1478,13 @@
         "url3": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
         "icono": "https://i.ibb.co/gbqv2hYf/image.png"
       },
+       {
+        "name": "ANIMAL PLANET",
+        "icono": "https://i.ibb.co/SwkcpPqM/image.png",
+        "url": "https://paz-live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/APLANET"
+      },
       {
         "name": "DISCOVERY",
         "url": "http://38.226.49.253:8000/play/a05s/index.m3u8",
@@ -1503,6 +1510,13 @@
         "icono": "https://i.ibb.co/5Wx5R2nH/image.png",
         "url": "http://38.226.49.253:8000/play/a03o/index.m3u8",
         "url2": "http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls"
+      },
+       {
+        "name": "DISCOVERY ID TEST",
+        "icono": "https://i.ibb.co/ZpG4D26S/image.png",
+        "url": "https://aca-live-ott.izzigo.tv/13/out/u/dash/DISCOVERY-ID-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DID"
       },
       {
         "name": "DISCOVERY TURBO",
@@ -3068,18 +3082,18 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "ANIMALPLANET TEST",
+        "name": "DISCOVERY THEATER TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd",
+        "url": "https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-THEATER-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/APLANET"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DTHEATER"
       },
       {
-        "name": "DISCOVERY ID TEST",
+        "name": "DISCOVERY WORLD TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://aca-live-ott.izzigo.tv/13/out/u/dash/DISCOVERY-ID-HD/default.mpd",
+        "url": "https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-WORLD-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DID"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORLD"
       },
       {
         "name": "Señal No Asignada",
