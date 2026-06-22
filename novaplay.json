@@ -342,14 +342,12 @@
       },
       {
         "name": "C9N",
-        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
-        "url2": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+        "url": "http://138.59.227.20:8000/play/a0e6/index.m3u8",
         "icono": "https://i.ibb.co/Q74wSJNp/image.png"
       },
       {
         "name": "SNT",
-        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
-        "url2":"https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+        "url":"https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
         "icono": "https://i.ibb.co/SCdymVh/image.png"
       },
       {
