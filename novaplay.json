@@ -3141,7 +3141,7 @@
        {
         "name": "DE PELICULA HD TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd",
+        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DPELIHD"
       },
