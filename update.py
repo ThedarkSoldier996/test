@@ -15,8 +15,8 @@ PATTERN = r"/ccur-session/([^/]+)/rolling-buffer/(" + "|".join(CHANNELS) + r")/"
 
 NOVA_URL = "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json"
 
-PRUEBA7_URL = "https://archive.org/download/prueba7_202606/prueba.7/prueba7.json"
-PRUEBA8_URL = "https://archive.org/download/prueba8_202606/prueba.8/prueba8.json"
+PRUEBA7_URL = "https://archive.org/download/prueba7_202606/prueba.7"
+PRUEBA8_URL = "https://archive.org/download/prueba8_202606/prueba.8"
 
 
 def load(url):
