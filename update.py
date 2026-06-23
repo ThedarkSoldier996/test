@@ -15,13 +15,54 @@ PATTERN = r"/ccur-session/([^/]+)/rolling-buffer/(" + "|".join(CHANNELS) + r")/"
 
 NOVA_URL = "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json"
 
-PRUEBA7_URL = "https://archive.org/download/prueba7_202606/prueba.7"
-PRUEBA8_URL = "https://archive.org/download/prueba8_202606/prueba.8"
+# Solo el item de Archive.org
+PRUEBA7_URL = "https://archive.org/download/prueba7_202606"
+PRUEBA8_URL = "https://archive.org/download/prueba8_202606"
 
 
 def load(url):
     print(f"Cargando: {url}")
 
+    # Detectar items de Archive.org
+    if "archive.org/download/" in url and not url.endswith(".json"):
+
+        identifier = url.split("/download/")[1].split("/")[0]
+
+        metadata_url = f"https://archive.org/metadata/{identifier}"
+
+        print(f"Consultando metadata: {metadata_url}")
+
+        with urlopen(metadata_url) as f:
+            metadata = json.load(f)
+
+        json_file = next(
+            (
+                file["name"]
+                for file in metadata.get("files", [])
+                if file["name"].lower().endswith(".json")
+            ),
+            None
+        )
+
+        if not json_file:
+            raise Exception(
+                f"No se encontró ningún archivo JSON en {identifier}"
+            )
+
+        json_url = (
+            f"https://archive.org/download/"
+            f"{identifier}/{json_file}"
+        )
+
+        print(f"JSON detectado: {json_url}")
+
+        with urlopen(json_url) as f:
+            data = json.load(f)
+
+        print("OK")
+        return data
+
+    # URLs JSON normales
     with urlopen(url) as f:
         data = json.load(f)
 
