@@ -91,6 +91,7 @@
         "name": "VS SPORTS - MUNDIAL",
         "info":"GEN - MUNDIAL",
         "evento": "yes",
+        "status": "false",
         "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
         "icono": "https://i.ibb.co/m5PgzmbT/image.png",
         "Origin": "https://www.gen.com.py",
@@ -3291,6 +3292,26 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
+            {
+        "name": "VS SPORTS TEST - MUNDIAL",
+        "info":"GEN - MUNDIAL",
+        "evento": "yes",
+        "url": "https://nam.vssports.com.py/origin-proxy/index.m3u8",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png",
+        "Origin": "https://www.gen.com.py",
+        "Referer": "https://www.gen.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+      },
+       {
+        "name": "VS SPORTS TEST 2 - MUNDIAL",
+        "info":"GEN - MUNDIAL",
+        "evento": "yes",
+        "url": "https://nam.vssports.com.py/origin-proxy/index.m3u8",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png",
+        "Origin": "https://www.vssports.com.py",
+        "Referer": "https://www.vssports.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+      },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
