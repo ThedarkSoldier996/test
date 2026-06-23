@@ -1543,7 +1543,14 @@
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
       },
       {
-        "name": "SONY CHANNEL",
+    "name": "SONY CHANNEL",
+    "icono": "https://i.ibb.co/YFC4QqcB/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Sny"
+  },
+      {
+        "name": "SONY CHANNEL - OPC 2",
         "url": "http://38.226.49.253:8000/play/a060/index.m3u8",
         "icono": "https://i.ibb.co/YFC4QqcB/image.png"
       },
@@ -3187,12 +3194,12 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-        {
-    "name": "Sony Channel",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
-    "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd",
+          {
+    "name": "Sony Movies",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonymovies.png",
+    "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd",
     "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Sny"
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SnyMovie"
   },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
