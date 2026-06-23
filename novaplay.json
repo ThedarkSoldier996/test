@@ -3188,7 +3188,13 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-        
+        {
+    "name": "Sony Channel",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
+    "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Sny"
+  },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
