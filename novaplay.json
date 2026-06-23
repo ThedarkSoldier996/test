@@ -1555,6 +1555,13 @@
         "icono": "https://i.ibb.co/YFC4QqcB/image.png"
       },
       {
+    "name": "Sony Movies",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonymovies.png",
+    "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SnyMovie"
+  },
+      {
         "name": "SONY ONE EXITOS",
         "icono": "https://i.ibb.co/nNxX98vJ/image.png",
         "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
@@ -3194,12 +3201,19 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-          {
-    "name": "Sony Movies",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonymovies.png",
-    "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd",
+            {
+    "name": "Space",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd",
     "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SnyMovie"
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SPACE"
+  },
+  {
+    "name": "Star Channel",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png",
+    "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/STARCH"
   },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
