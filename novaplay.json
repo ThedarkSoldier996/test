@@ -384,14 +384,13 @@
         "icono": "https://i.ibb.co/Rk8pT1Wx/image.png"
       },
       {
-        "name": "TRECE",
-        "status": "false",
+        "name": "TRECE PY",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
-        "url2": "http://24.152.42.29:8000/play/a03r/index.m3u8",
+        "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(qurl8AXhmATkhe-AYvqUcpDeU5wKFPAfi25sVBOdSeqsWv1_ddh69XVRxpQYrPA72VgBi4HFSxzdF1jCRdGFrzfvKGYTDMHRWKf5gXN1cTlQBo9NQdDHkJbYwENW4b55)/cloud/3/x9ksaba/s/live-720.m3u8",
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
-        "name": "TRECE PY",
+        "name": "TRECE PY - OPC 2",
         "info": "SOLO GOOGLETV O SIMILARES",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
