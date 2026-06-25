@@ -317,11 +317,13 @@
       },
       {
         "name": "TELEFUTURO",
-        "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-        "url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "url3": "http://138.59.227.20:8000/play/a0fh/index.m3u8",
-        "url4": "http://138.59.227.20:8000/play/a0ff/index.m3u8",
-        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
+        "url": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/Telefuturo",
+        "icono": "https://i.ibb.co/4wMg7y8X/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/Telefuturo",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"      
       },
       {
         "name": "C9N",
