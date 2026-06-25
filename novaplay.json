@@ -103,13 +103,6 @@
         "url": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
-      
-      {
-        "name": "TRECE PY - MUNDIAL",
-        "evento": "yes",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(qurl8AXhmATkhe-AYvqUcpDeU5wKFPAfi25sVBOdSeqsWv1_ddh69XVRxpQYrPA72VgBi4HFSxzdF1jCRdGFrzfvKGYTDMHRWKf5gXN1cTlQBo9NQdDHkJbYwENW4b55)/cloud/3/x9ksaba/s/live-720.m3u8",
-        "icono": "https://i.ibb.co/TsxdFGk/image.png"
-      },
       {
         "name": "TRECE PY OPC 2 - MUNDIAL",
         "evento": "yes",
@@ -392,6 +385,7 @@
       },
       {
         "name": "TRECE PY",
+        "status":"yes",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
         "url2": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(qurl8AXhmATkhe-AYvqUcpDeU5wKFPAfi25sVBOdSeqsWv1_ddh69XVRxpQYrPA72VgBi4HFSxzdF1jCRdGFrzfvKGYTDMHRWKf5gXN1cTlQBo9NQdDHkJbYwENW4b55)/cloud/3/x9ksaba/s/live-720.m3u8",
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
