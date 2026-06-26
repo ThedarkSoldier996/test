@@ -2072,10 +2072,13 @@
       },
       {
         "name": "DISCOVERY KIDS",
-        "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "icono": "https://i.ibb.co/bgYBcryv/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DKIDS"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DKIDS",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "NICK JR",
@@ -2097,24 +2100,10 @@
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
-      {
-        "name": "DISNEY JR",
-        "icono": "https://i.ibb.co/YFNk9ydS/image.png",
-        "url": "https://zap-live2-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR"
-      },
-      {
-        "name": "DISNEY JR - OPC 2",
+            {
+        "name": "DISNEY JR ",
         "icono": "https://i.ibb.co/YFNk9ydS/image.png",
         "url": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls"
-      },
-      {
-        "name": "DREAMWORKS",
-        "icono": "https://i.ibb.co/jZvmLzMW/image.png",
-        "url": "https://aca-live-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORKS"
       }
     ]
   },
