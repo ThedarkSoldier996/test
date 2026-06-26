@@ -849,13 +849,6 @@
       },
       {
         "name": "LAS ESTRELLAS",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/LAS-ESTRELLAS-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/lasestrellas001",
-        "icono": "https://i.ibb.co/qL61cbPs/image.png"
-      },
-      {
-        "name": "LAS ESTRELLAS - OPC 2",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ep2x5rkrf5/out/v1/4e18b1b6cb5a48e19b5062e782008c4e/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/lasestrellas002",
