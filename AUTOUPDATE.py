@@ -43,6 +43,7 @@ EQUIVALENCIAS={
     },
     "INFANTILES 👦":{
         "Cartoonito":["CARTOONITO"],
+        "Nickelodeon":["NICKELODEON"],
     },
 "⚽EVENTOS FLOW ⚽":{
         "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
