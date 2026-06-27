@@ -1,20 +1,22 @@
 name: AUTOUPDATE
 
 on:
+  schedule:
+    - cron: "*/10 * * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: autoupdate
-  cancel-in-progress: true
-
 jobs:
+
   autoupdate:
+
     runs-on: ubuntu-latest
 
     steps:
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -24,71 +26,17 @@ jobs:
       - name: Instalar Requests
         run: pip install requests
 
-      - name: Verificar cambios
-        id: check
-        shell: bash
-        run: |
-          python << 'EOF'
-          import hashlib
-          import requests
-          import pathlib
-          import os
-
-          URL = "https://mundodeportes.online/pandatv/playpre/canales.json"
-
-          SOURCE_SHA_FILE = ".source.sha256"
-          SCRIPT_SHA_FILE = ".script.sha256"
-
-          # SHA del archivo remoto
-          data = requests.get(URL, timeout=60).content
-          source_sha = hashlib.sha256(data).hexdigest()
-
-          # SHA del script
-          script_sha = hashlib.sha256(
-              pathlib.Path("AUTOUPDATE.py").read_bytes()
-          ).hexdigest()
-
-          old_source = pathlib.Path(SOURCE_SHA_FILE).read_text().strip() if pathlib.Path(SOURCE_SHA_FILE).exists() else ""
-          old_script = pathlib.Path(SCRIPT_SHA_FILE).read_text().strip() if pathlib.Path(SCRIPT_SHA_FILE).exists() else ""
-
-          changed = (
-              source_sha != old_source or
-              script_sha != old_script
-          )
-
-          print("SOURCE:", source_sha)
-          print("SCRIPT:", script_sha)
-          print("CHANGED:", changed)
-
-          pathlib.Path(SOURCE_SHA_FILE).write_text(source_sha)
-          pathlib.Path(SCRIPT_SHA_FILE).write_text(script_sha)
-
-          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write(f"changed={'true' if changed else 'false'}\n")
-          EOF
-
-      - name: Sin cambios
-        if: steps.check.outputs.changed == 'false'
-        run: echo "No hubo cambios. Finalizando."
-
       - name: Ejecutar AUTOUPDATE
-        if: steps.check.outputs.changed == 'true'
         run: python AUTOUPDATE.py
 
       - name: Commit automático
-        if: steps.check.outputs.changed == 'true'
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
 
-          git add \
-            novaplay.json \
-            .source.sha256 \
-            .script.sha256
+          git add novaplay.json
 
-          if ! git diff --cached --quiet; then
+          git diff --cached --quiet || (
             git commit -m "AUTOUPDATE"
             git push
-          else
-            echo "No hay cambios para subir."
-          fi
+          )
