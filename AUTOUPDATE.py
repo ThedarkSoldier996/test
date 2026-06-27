@@ -11,7 +11,7 @@ ARCHIVO_DESTINO = "novaplay.json"
 
 DEBUG = True
 
-# Categorías que NO quieres tocar
+# Ignorar categorías
 CATEGORIAS_IGNORADAS = {
     "PLUTO",
     "PLUTO TV",
@@ -19,7 +19,8 @@ CATEGORIAS_IGNORADAS = {
 }
 
 # =====================================================
-# EQUIVALENCIAS (ORIGEN -> DESTINOS MÚLTIPLES)
+# EQUIVALENCIAS (ÚNICA FUENTE DE CAMBIOS)
+# SOLO lo que esté aquí se modifica
 # =====================================================
 
 EQUIVALENCIAS = {
@@ -27,8 +28,6 @@ EQUIVALENCIAS = {
     "RPC": ["TRECE PY", "TRECE PY - MUNDIAL"],
     "UNICANAL": ["UNICANAL PY", "UNICANAL PY - MUNDIAL"],
     "POPU TV": ["POPUTV PY", "POPUTV PY - MUNDIAL"],
-    "TELEFE ARG": ["TELEFE - MUNDIAL"],
-    "TV PUBLICA ARG": ["TV PUBLICA AR - MUNDIAL", "TV PUBLICA"],
 }
 
 # =====================================================
@@ -40,7 +39,7 @@ def debug(msg):
         print(msg)
 
 # =====================================================
-# NORMALIZAR NOMBRES
+# NORMALIZAR
 # =====================================================
 
 def normalizar(texto):
@@ -65,60 +64,37 @@ origen = r.json()
 # CARGAR DESTINO
 # =====================================================
 
-debug("Cargando novaplay.json...")
+debug("Cargando destino...")
 
 with open(ARCHIVO_DESTINO, "r", encoding="utf8") as f:
     destino = json.load(f)
 
 # =====================================================
-# CREAR ÍNDICE GLOBAL (TODOS LOS CANALES)
+# CREAR MAPA SOLO DESDE EQUIVALENCIAS
 # =====================================================
 
-indice = {}
+debug("\n===== INDEX SOLO EQUIVALENCIAS =====")
 
-debug("\n===== INDEXANDO ORIGEN =====")
+mapa = {}
 
 for categoria in origen:
-
-    nombre_cat = categoria.get("name", "")
-
-    debug(f"\nCategoría origen: {nombre_cat}")
-
     for canal in categoria.get("samples", []):
 
         nombre = canal.get("name", "")
         key = normalizar(nombre)
 
-        indice[key] = canal
+        # SOLO si está en EQUIVALENCIAS
+        for origen_nombre, destinos in EQUIVALENCIAS.items():
 
-        debug(f"  + {nombre}")
+            if key == normalizar(origen_nombre):
 
-debug(f"\nTotal canales indexados: {len(indice)}")
+                debug(f"✔ ORIGEN: {nombre}")
 
-# =====================================================
-# APLICAR EQUIVALENCIAS
-# =====================================================
-
-debug("\n===== EQUIVALENCIAS =====")
-
-for origen_nombre, destinos in EQUIVALENCIAS.items():
-
-    origen_key = normalizar(origen_nombre)
-
-    if origen_key not in indice:
-        debug(f"❌ No existe origen: {origen_nombre}")
-        continue
-
-    for destino_nombre in destinos:
-
-        destino_key = normalizar(destino_nombre)
-
-        indice[destino_key] = indice[origen_key]
-
-        debug(f"✔ {origen_nombre} -> {destino_nombre}")
+                for d in destinos:
+                    mapa[normalizar(d)] = canal
 
 # =====================================================
-# ACTUALIZACIÓN
+# ACTUALIZAR (SOLO SI ESTÁ EN MAPA)
 # =====================================================
 
 debug("\n===== ACTUALIZANDO =====")
@@ -132,34 +108,35 @@ for categoria in destino:
     titulo = categoria.get("title", "")
 
     if normalizar(titulo) in {normalizar(x) for x in CATEGORIAS_IGNORADAS}:
-        debug(f"\n⛔ Omitiendo categoría: {titulo}")
+        debug(f"\n⛔ OMITIDO: {titulo}")
         continue
 
-    debug(f"\n📁 Categoría: {titulo}")
+    debug(f"\n📁 CATEGORÍA: {titulo}")
 
     for canal in categoria.get("items", []):
 
         nombre = canal.get("name", "")
         key = normalizar(nombre)
 
-        debug(f"\n🔎 Buscando: {nombre}")
+        debug(f"\n🔎 {nombre}")
 
-        if key not in indice:
-            debug("❌ No encontrado")
+        # 🔴 REGLA ABSOLUTA: si no está en EQUIVALENCIAS → NO SE TOCA
+        if key not in mapa:
+            debug("❌ NO ESTÁ EN EQUIVALENCIAS → IGNORADO")
             no_encontrados += 1
             continue
 
         encontrados += 1
 
-        origen_canal = indice[key]
+        origen_canal = mapa[key]
 
         url_actual = canal.get("url", "")
         url_nueva = origen_canal.get("url", "")
 
         debug(f"URL actual : {url_actual}")
-        debug(f"URL origen : {url_nueva}")
+        debug(f"URL nueva  : {url_nueva}")
 
-        if url_nueva and url_actual != url_nueva:
+        if url_actual != url_nueva and url_nueva:
 
             debug("🔄 ACTUALIZADO")
 
@@ -167,7 +144,7 @@ for categoria in destino:
             cambios += 1
 
         else:
-            debug("✔ Sin cambios")
+            debug("✔ SIN CAMBIOS")
 
 # =====================================================
 # GUARDAR
@@ -183,7 +160,7 @@ if cambios > 0:
     print("==============================")
     print(f"Cambios: {cambios}")
     print(f"Encontrados: {encontrados}")
-    print(f"No encontrados: {no_encontrados}")
+    print(f"Ignorados: {no_encontrados}")
 
 else:
 
