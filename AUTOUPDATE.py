@@ -20,6 +20,16 @@ EQUIVALENCIAS = {
     "GEN_TV": "GEN PY - MUNDIAL",
     "RPC  ": "TRECE PY - MUNDIAL",
     "RPC  ": "TRECE PY",
+    "UNICANAL": "UNICANAL PY - MUNDIAL",
+    "UNICANAL": "UNICANAL PY",
+    "POPU TV": "POPUTV PY - MUNDIAL",
+    "POPU TV": "POPUTV PY",
+    "POPU TV": "POPUTV PY",
+    "TELEFE ARG": "TELEFE - MUNDIAL",
+    "TELEFE ARG": "TELEFE - MUNDIAL",
+    "TV PUBLICA  ARG": "TV PUBLICA AR - MUNDIAL",
+    "TV PUBLICA  ARG": "TV PUBLICA",
+    
 }
 
 # =====================================================
