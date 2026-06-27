@@ -1,7 +1,3 @@
-# AUTOUPDATE.py
-# Plantilla basada en tu script.
-# Sustituye EQUIVALENCIAS según necesites.
-
 import json
 import re
 import requests
@@ -44,6 +40,10 @@ EQUIVALENCIAS={
     "CRONICA TV": ["CRONICA"],
     "A24": ["A24 ARGENTINA"],
     "CANAL 26": ["CANAL 26"],
+    },
+"⚽EVENTOS FLOW ⚽":{
+        "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
+        "EVENTOS FLOW 2":["EVENTOS FLOW 2"], 
     }
 }
 
