@@ -44,30 +44,32 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Subir novaplay.json a Supabase Storage
+      - name: Subir novaplay.json a Supabase Storage (LEGACY)
         if: steps.commit.outputs.changed == 'true'
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          python << EOF
+          python << 'EOF'
           import requests
+          import os
+
+          url = f"{os.environ['SUPABASE_URL']}/storage/v1/object/Novaplay/novaplay.json"
+
+          headers = {
+              "Authorization": f"Bearer {os.environ['SUPABASE_SERVICE_ROLE_KEY']}",
+              "apikey": os.environ['SUPABASE_SERVICE_ROLE_KEY'],
+              "Content-Type": "application/json",
+              "x-upsert": "true"
+          }
 
           with open("novaplay.json", "rb") as f:
-              r = requests.post(
-                  f"${SUPABASE_URL}/storage/v1/object/Novaplay/novaplay.json",
-                  headers={
-                      "Authorization": f"Bearer ${SUPABASE_SECRET_KEY}",
-                      "Content-Type": "application/json",
-                      "x-upsert": "true"
-                  },
-                  data=f
-              )
+              r = requests.post(url, headers=headers, data=f)
 
           print("Código:", r.status_code)
           print(r.text)
 
           r.raise_for_status()
 
-          print("Archivo subido correctamente a Supabase.")
+          print("✔ Subido correctamente a Supabase (LEGACY).")
           EOF
