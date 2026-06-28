@@ -60,11 +60,6 @@ EQUIVALENCIAS={
         "DISCOVERY WORLD":["DISCOVERY WORLD"],
         "National Geographic":["NATGEO"],
         "Lifetime":["Lifetime"],
-        "TCM":["TCM"],
-        "TCM":["TCM"],
-        "TCM":["TCM"],
-        "TCM":["TCM"],
-        "TCM":["TCM"],
     },
     "CINE Y SERIES":{
         "TCM":["TCM"],
