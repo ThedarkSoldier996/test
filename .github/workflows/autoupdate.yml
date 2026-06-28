@@ -49,7 +49,7 @@ jobs:
           fi
 
       - name: Subir novaplay.json a Supabase Storage (LEGACY)
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.changed == 'true' || github.event_name == 'push'
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
