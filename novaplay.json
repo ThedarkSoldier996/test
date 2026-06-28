@@ -1379,95 +1379,95 @@
     "title": "ENTRETENIMIENTO",
     "items": [
       {
-        "name": "MTV",
-        "icono": "https://i.ibb.co/kVbGB7q1/image.png",
-        "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/VTM"
-      },
-      {
         "name": "Warner TV",
         "icono": "https://i.ibb.co/wrR0pC7B/image.png",
         "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/WRNER"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/WRNER",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "TCM",
         "icono": "https://i.ibb.co/YFHL77wj/image.png",
         "url": "https://paz-live1-ott.izzigo.tv/15/out/u/dash/TCM-SD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TCM"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TCM",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "HBO Family",
         "icono": "https://i.ibb.co/rfFN6vX3/image.png",
         "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0FMILY"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0FMILY",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "HBO Mundi",
         "icono": "https://i.ibb.co/YTTmB24X/image.png",
         "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0MUNDI"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0MUNDI",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "HBO+",
         "icono": "https://i.ibb.co/6cjrF1RB/image.png",
         "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0PLUS"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0PLUS",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "HBO Signature",
         "icono": "https://i.ibb.co/yBWnvrfR/image.png",
         "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0SIGNTURE"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0SIGNTURE",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "HBO Xtreme",
         "icono": "https://i.ibb.co/PvQcZPx4/image.png",
         "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0XTR"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0XTR",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "GOLDEN SD",
         "icono": "https://i.ibb.co/XfBP95zm/image.png",
         "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENSD"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENSD",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
-      {
-        "name": "GOLDEN EDGE SD",
-        "icono": "https://i.ibb.co/fVXXXqGG/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENEDGESD"
-      },
-      {
-        "name": "GOLDEN PLUS HD",
-        "icono": "https://i.ibb.co/21TPR8Vc/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPLUSHD"
-      },
-      {
-        "name": "GOLDEN PREMIER HD",
-        "icono": "https://i.ibb.co/cc8wppbr/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPREMIERHD"
-      },
+      
       {
         "name": "EUROPA EUROPA",
         "icono": "https://i.ibb.co/Dg9cc46B/image.png",
         "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROPA"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROPA",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "DE PELICULA SD",
