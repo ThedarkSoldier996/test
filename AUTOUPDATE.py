@@ -53,6 +53,13 @@ EQUIVALENCIAS={
     },
     "CULTURA Y COCINA 🐢":{
         "HGTV":["HGTV"],
+        "DISCOVERY THEATER":["DISCOVERY THEATER"],
+        "DISCOVERY SCIENCE":["DISCOVERY SCIENCE"],
+        "DISCOVERY ID":["DISCOVERY ID"],
+        "DISCOVERY TURBO":["DISCOVERY TURBO"],
+        "DISCOVERY WORLD":["DISCOVERY WORLD"],
+        "National Geographic":["NATGEO"],
+        "Lifetime":["Lifetime"],
     },
 "⚽EVENTOS FLOW ⚽":{
         "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
