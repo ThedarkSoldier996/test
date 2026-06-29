@@ -10,13 +10,13 @@ CATEGORIAS_IGNORADAS={"PLUTO","PLUTO TV","PLUTOTV"}
 
 EQUIVALENCIAS={
     "PARAGUAY🇵🇾":{
-        "GEN_TV":["GEN TV","GEN PY - MUNDIAL"],
+        "GEN_TV":["GEN TV","GEN PY - MUNDIAL - OPC 2"],
         "PARAVISION  ": ["PARAVISION"],
-        "RPC":["TRECE PY","TRECE PY - MUNDIAL"],
+        "RPC":["TRECE PY","TRECE PY - MUNDIAL - OPC 2"],
         "UNICANAL":["UNICANAL PY","UNICANAL PY - MUNDIAL"],
         "POPU TV": ["POPUTV PY", "POPUTV PY - MUNDIAL"],
         "PY | SNT  ": ["SNT"],
-    "TELEFUTURO HD": ["TELEFUTURO"],
+    "TELEFUTURO HD": ["TELEFUTURO - OPC 2"],
     "C9N  ": ["C9N"],
     "HEI NEW": ["HEI NOW"],
     "MEGA TV  PY": ["MEGA TV PY"],
@@ -29,8 +29,8 @@ EQUIVALENCIAS={
     "LA TELE": ["LA TELE"],
     },
     "ARGENTINA🇦🇷":{
-        "TELEFE":["TELEFE","TELEFE - MUNDIAL"],
-        "TV PUBLICA":["TV PUBLICA","TV PUBLICA AR - MUNDIAL"],
+        "TELEFE":["TELEFE","TELEFE - MUNDIAL - OPC 2"],
+        "TV PUBLICA":["TV PUBLICA","TV PUBLICA AR - MUNDIAL - OPC 2"],
          "AMERICA TV ": ["AMERICA TV"],
     "EL TRECE": ["EL TRECE"],
     "CANAL 9 ": ["CANAL 9"],
