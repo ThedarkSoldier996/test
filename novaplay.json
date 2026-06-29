@@ -177,6 +177,7 @@
       {
         "name": "TRECE PY - MUNDIAL",
         "info": "SOLO GOOGLETV",
+        "evento": "yes",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "REINTENTAR SI NO CARGA"
@@ -245,6 +246,7 @@
       {
         "name": "TV PUBLICA AR - MUNDIAL - OPC 2",
         "evento": "yes",
+         "info": "Señal Inestable",
         "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyOTAyNzQwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYWFjOTYwZjAyZmZiOTI5ZCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyNzI5OTQ2LTQ3OSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ICmxcL3A-vKl6oA27XQIgkBDVA6W4Nz2z6D1RO1kNiJgoAvrEZLakMUl9Ja7UE__-6o1jmU_M4EGt6ckT_aAHA==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png",
         "type": "CLEARKEY",
