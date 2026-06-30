@@ -41,7 +41,7 @@ EQUIVALENCIAS = {
         "HBO Plus": ["HBO+"],
         "HBO SIGNATURE": ["HBO Signature"],
         "HBO XTREME": ["HBO Xtreme"],
-    },
+    }
 }
 
 def debug(m):
