@@ -3194,11 +3194,10 @@
         "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
       },
       {
-        "name": "PRUEBA AZTECA7",
+        "name": "PRUEBA",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd",
         "type": "CLEARKEY",
-        "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TELEMUNDOUSA"
       },
       {
