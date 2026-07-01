@@ -3194,9 +3194,9 @@
         "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
       },
       {
-        "name": "TELEMUNDO",
+        "name": "PRUEBA AZTECA7",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd",
+        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TELEMUNDOUSA"
       },
