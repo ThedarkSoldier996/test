@@ -146,6 +146,15 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTSEVENTOS",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
+		       {
+        "name": "TSN SPORTS",
+		"evento": "yes",		   
+        "icono": "https://i.ibb.co/7JvShNds/image.png",
+        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "type": "CLEARKEY",  
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NOVAPLAYTEST",
+		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"   
+      },
       {
         "name": "GEN PY  - MUNDIAL",
         "evento": "yes",
@@ -3201,14 +3210,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-       {
-        "name": "TSN SPORTS TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "type": "CLEARKEY",  
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NOVAPLAYTEST",
-		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"   
-      },
       {
         "name": "PRUEBA2",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
