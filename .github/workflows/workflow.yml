@@ -16,11 +16,11 @@ jobs:
           git clone --mirror https://github.com/ThedarkSoldier996/test.git
           cd test.git
 
-          # Eliminar referencias de Pull Requests que GitHub no permite subir
+          # Eliminar referencias de Pull Requests
           git for-each-ref --format='%(refname)' refs/pull | while read ref; do
             git update-ref -d "$ref"
           done
 
-          git remote set-url --push origin https://${{ secrets.TOKEN }}@github.com/hanknova/novaplay.git
+          git remote set-url --push origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/hanknova/novaplay.git
 
           git push --mirror
