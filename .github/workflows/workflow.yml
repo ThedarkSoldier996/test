@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   mirror:
     runs-on: ubuntu-latest
@@ -13,14 +16,24 @@ jobs:
       - name: Mirror repository
         shell: bash
         run: |
+          set -e
+
           git clone --mirror https://github.com/ThedarkSoldier996/test.git
           cd test.git
 
-          # Eliminar referencias de Pull Requests
+          # Eliminar referencias de Pull Requests (GitHub no permite subirlas)
           git for-each-ref --format='%(refname)' refs/pull | while read ref; do
             git update-ref -d "$ref"
           done
 
-          git remote set-url --push origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/hanknova/novaplay.git
+          # Verificar que el token exista
+          if [ -z "${{ secrets.PAT_TOKEN }}" ]; then
+            echo "ERROR: El secret PAT_TOKEN está vacío o no existe."
+            exit 1
+          fi
 
+          # Configurar el remoto de destino
+          git remote set-url --push origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/hanknova/novaplay.git
+
+          # Sincronizar el repositorio
           git push --mirror
