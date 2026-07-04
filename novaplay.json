@@ -165,20 +165,17 @@
       },
       {
         "name": "TRECE PY - MUNDIAL",
-        "info": "🤖TV RECOMENDADO",
+        "info": "Novaplay 4.0.4",
         "evento": "yes",
         "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2neu.m3u8?sec=87B5T_48YpmiJlwzpu7VtmcIcLjaBoLtGdq9UZGSBIH8jlQnoF6ezgfPOGZqT_93fN7Ce6lnsG4XWcXRrYpok538KPVWN5Ym-2bunxv0SBM&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
-        "icono": "https://i.ibb.co/DDnBTYfh/image.png",
-        "texto": "REINTENTAR SI NO CARGA"
+        "icono": "https://i.ibb.co/GvmyhvNH/image.png"
       },
       {
         "name": "UNICANAL PY - MUNDIAL",
-        "info": "🤖TV RECOMENDADO",
+        "info": "Novaplay 4.0.4",
         "evento": "yes",
-        "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-        "icono": "https://i.ibb.co/G4KnJjPY/image.png",
-        "texto": "Conexión Externa",
-        "dl": "yes"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2lou.m3u8?sec=BqrZ01iSRnazljkqKbBAwP1Dl_boJpsfBplyWPa2bAugsqa-YeBW3sUYJidcHcPYmT3jrGccZpufHto8UcmdiypXxw_3zYwpc6EI9UF5-UXYZHy0ZSxwvGEoyIVyD1Yl&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "icono": "https://i.ibb.co/G4KnJjPY/image.png"
       },
       {
         "name": "TELEFE - MUNDIAL",
@@ -287,7 +284,7 @@
       },
       {
         "name": "UNICANAL",
-        "icono": "https://i.ibb.co/G4KnJjPY/image.png",
+        "icono": "https://i.ibb.co/k2M067nv/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/UNICANALPY_ONLYPERSONAL",
@@ -306,7 +303,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TRECE PY",
+        "name": "TRECE",
         "icono": "https://i.ibb.co/GvmyhvNH/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "type": "CLEARKEY",
@@ -387,18 +384,13 @@
       },
       {
         "name": "TRECE PY",
-        "info": "🤖TV RECOMENDADO",
-        "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
-        "icono": "https://i.ibb.co/DDnBTYfh/image.png",
-        "texto": "REINTENTAR SI NO CARGA"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2neu.m3u8?sec=87B5T_48YpmiJlwzpu7VtmcIcLjaBoLtGdq9UZGSBIH8jlQnoF6ezgfPOGZqT_93fN7Ce6lnsG4XWcXRrYpok538KPVWN5Ym-2bunxv0SBM&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32https://cdndirector.dailymotion.com/cdn/live/video/xak2neu.m3u8?sec=87B5T_48YpmiJlwzpu7VtmcIcLjaBoLtGdq9UZGSBIH8jlQnoF6ezgfPOGZqT_93fN7Ce6lnsG4XWcXRrYpok538KPVWN5Ym-2bunxv0SBM&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "icono": "https://i.ibb.co/GvmyhvNH/image.png"
       },
       {
         "name": "UNICANAL PY",
-        "info": "🤖TV RECOMENDADO",
-        "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
-        "icono": "https://i.ibb.co/G4KnJjPY/image.png",
-        "texto": "Conexión Externa",
-        "dl": "yes"
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2lou.m3u8?sec=BqrZ01iSRnazljkqKbBAwP1Dl_boJpsfBplyWPa2bAugsqa-YeBW3sUYJidcHcPYmT3jrGccZpufHto8UcmdiypXxw_3zYwpc6EI9UF5-UXYZHy0ZSxwvGEoyIVyD1Yl&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "icono": "https://i.ibb.co/k2M067nv/image.png"
       },
       {
         "name": "TELEFUTURO",
