@@ -731,9 +731,9 @@
         "icono": "https://i.ibb.co/Q3JPqXKZ/image.png"
       },
       {
-        "name": "CHILEVISION",
-        "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
-        "icono": "https://i.ibb.co/n833Vgsq/image.png"
+        "name": "America TV CL",
+        "url": "https://v2.tustreaming.cl/radioamericatv/index.m3u8",
+        "icono": "http://i.ibb.co/6cPft7tq/image.png"
       }
     ]
   },
