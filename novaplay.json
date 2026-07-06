@@ -1709,13 +1709,8 @@
       },
       {
         "name": "DISCOVERY KIDS",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-        "icono": "https://i.ibb.co/bgYBcryv/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DKIDS",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "http://8.243.126.131:8000/play/a05n/index.m3u8?hls",
+        "icono": "https://i.ibb.co/bgYBcryv/image.png"
       },
       {
         "name": "NICK JR",
