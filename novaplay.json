@@ -121,6 +121,15 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTSAQ"
       },
       {
+        "name": "DSPORTS - MUNDIAL",
+        "evento": "yes",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
+      },
+      {
         "name": "DSPORTS COLOMBIA - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
@@ -2945,15 +2954,7 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-            {
-        "name": "DSPORTS TEST",
-        "evento": "yes",
-        "icono": "https://i.ibb.co/7JvShNds/image.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
-      },
+            
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
