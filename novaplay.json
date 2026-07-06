@@ -664,6 +664,7 @@
       },
       {
         "name": "CANAL 13",
+        "status":"false",
         "info": "La Rioja",
         "icono": "https://i.ibb.co/V0wpwbyw/image.png",
         "url": "http://arcast.net:1935/mp/mp/playlist.m3u8"
@@ -726,12 +727,12 @@
     "items": [
       {
         "name": "MEGA HD",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/28244",
+        "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
         "icono": "https://i.ibb.co/Q3JPqXKZ/image.png"
       },
       {
         "name": "CHILEVISION",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/58287",
+        "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
         "icono": "https://i.ibb.co/n833Vgsq/image.png"
       }
     ]
