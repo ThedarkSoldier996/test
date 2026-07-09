@@ -26,14 +26,14 @@
         "evento": "yes",
         "status": "false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN2/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
         "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
@@ -67,15 +67,15 @@
         "name": "NOVASPORTS - EVENTOS 5",
         "evento": "yes",
         "status": "false",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
         "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
@@ -672,7 +672,7 @@
       },
       {
         "name": "CANAL 13",
-        "status":"false",
+        "status": "false",
         "info": "La Rioja",
         "icono": "https://i.ibb.co/V0wpwbyw/image.png",
         "url": "http://arcast.net:1935/mp/mp/playlist.m3u8"
@@ -1312,7 +1312,6 @@
         "icono": "https://i.ibb.co/Dg9cc46B/image.png",
         "url": "http://190.7.19.197:232/play/a01o/index.m3u8"
       },
-     
       {
         "name": "AMC",
         "icono": "https://i.ibb.co/NgmzQS9P/image.png",
@@ -2897,7 +2896,6 @@
         "nsfw": "yes",
         "icono": "https://i.ibb.co/PzQYG9qt/image.png"
       },
-
       {
         "name": "AMAZING TV",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
@@ -2953,7 +2951,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-            
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
