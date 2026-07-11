@@ -176,14 +176,14 @@
         "name": "TRECE PY - MUNDIAL",
         "info": "SOLO EVENTOS",
         "evento": "yes",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2neu.m3u8?sec=OuVetDVYNpu-TctMAvmJdUhyomPgRAva1AlrHKqjUkUjCjEv89U0-bMxUD1-Et-Ia6CgudsrVY58Jucpjc7v75AeuUDRfd1kOyfvfX--R38&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "url": "http://45.170.130.224:8000/play/a02m/index.m3u8",
         "icono": "https://i.ibb.co/GvmyhvNH/image.png"
       },
       {
         "name": "UNICANAL PY - MUNDIAL",
         "info": "SOLO EVENTOS",
         "evento": "yes",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2lou.m3u8?sec=EbA1Bq381Tc8xFUBXUCEPlVnqHHBubGkFOqYZlUeAmL6uBIdyPDhxZkDwaDk-zflcpRlDUmJz--E5b9gFxhHoCq5i_YY9-PDqWdohiP07B5sORdx3iKCQLgxMGp33p3Z&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "url": "http://45.170.130.224:8000/play/a03o/index.m3u8",
         "icono": "https://i.ibb.co/k2M067nv/image.png"
       },
       {
@@ -397,12 +397,12 @@
       },
       {
         "name": "TRECE PY",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2neu.m3u8?sec=OuVetDVYNpu-TctMAvmJdUhyomPgRAva1AlrHKqjUkUjCjEv89U0-bMxUD1-Et-Ia6CgudsrVY58Jucpjc7v75AeuUDRfd1kOyfvfX--R38&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32https://cdndirector.dailymotion.com/cdn/live/video/xak2neu.m3u8?sec=OuVetDVYNpu-TctMAvmJdUhyomPgRAva1AlrHKqjUkUjCjEv89U0-bMxUD1-Et-Ia6CgudsrVY58Jucpjc7v75AeuUDRfd1kOyfvfX--R38&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "url": "http://45.170.130.224:8000/play/a02m/index.m3u8",
         "icono": "https://i.ibb.co/GvmyhvNH/image.png"
       },
       {
         "name": "UNICANAL PY",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/xak2lou.m3u8?sec=EbA1Bq381Tc8xFUBXUCEPlVnqHHBubGkFOqYZlUeAmL6uBIdyPDhxZkDwaDk-zflcpRlDUmJz--E5b9gFxhHoCq5i_YY9-PDqWdohiP07B5sORdx3iKCQLgxMGp33p3Z&dmTs=744674&dmV1st=a9a28557-963b-20df-3ceb-dd446a3f8b32",
+        "url": "http://45.170.130.224:8000/play/a03o/index.m3u8",
         "icono": "https://i.ibb.co/k2M067nv/image.png"
       },
       {
