@@ -29,6 +29,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/7JvShNds/image.png",TSN SPORTS
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/GvmyhvNH/image.png",TRECE PY - MUNDIAL
+http://45.170.130.224:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/k2M067nv/image.png",UNICANAL PY - MUNDIAL
+http://45.170.130.224:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE - MUNDIAL
 http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA - MUNDIAL
@@ -81,6 +85,10 @@ https://nam.vssports.com.py/stable-proxy/chunklist.m3u8
 http://138.59.227.20:8000/play/a0fk/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/N232M85k/image.png",POPU TV
 http://190.108.83.69:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/GvmyhvNH/image.png",TRECE PY
+http://45.170.130.224:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/k2M067nv/image.png",UNICANAL PY
+http://45.170.130.224:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/4wMg7y8X/image.png",TELEFUTURO
 https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/SCdymVh/image.png",SNT
