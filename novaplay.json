@@ -2953,7 +2953,6 @@
     "items": [
        {
         "name": "TEST channel",
-        "evento": "yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
@@ -2964,7 +2963,6 @@
       },
       {
           "name": "CAMARA DT",
-        "directo":"yes",
           "type": "CLEARKEY",
          "icono": "https://i.ibb.co/ymrjyWMP/image.png",
           "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
