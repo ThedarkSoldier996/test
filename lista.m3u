@@ -927,3 +927,5 @@ http://24.152.42.29:8000/play/a0c2/index.m3u8
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",CAMARA DT
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
+#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",CAMARA DT PRUEBA 2
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
