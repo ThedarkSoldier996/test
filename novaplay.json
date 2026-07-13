@@ -569,7 +569,6 @@
       {
         "name": "MONUMENTAL TV",
         "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-        "url2": "http://138.59.227.20:8000/play/a0fr/index.m3u8",
         "icono": "https://i.ibb.co/q3DypFNJ/image.png",
         "texto": "SEÑAL TV Y RADIO"
       },
@@ -586,8 +585,7 @@
       {
         "name": "NEXT",
         "icono": "https://i.ibb.co/mCyTDjS6/image.png",
-        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0dp/index.m3u8"
+        "url": "http://138.59.227.20:8000/play/a0dp/index.m3u8"
       }
     ]
   },
