@@ -150,7 +150,7 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/93ZMbXCy/image.png",MITV
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/mCyTDjS6/image.png",NEXT
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+http://138.59.227.20:8000/play/a0dp/index.m3u8
 #EXTINF:-1 group-title=" ARGENTINA" tvg-logo="https://i.ibb.co/G4KNLc5K/image.png",BAYRES TV
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8
 #EXTINF:-1 group-title=" ARGENTINA" tvg-logo="https://i.ibb.co/6JPqBf1d/image.png",24/7 NOTICIAS NEUQUEN
