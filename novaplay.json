@@ -2972,6 +2972,36 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
+        "name": "tigo prueba",
+        "url": "https://edge04-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MzA3MTMzIiwic2lwIjoiMTgxLjk0LjI0My4xNjEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRVdUTi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmZmNjJiMzgzZWY4N2E0OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJ1cmwiOiJodHRwczovLzE5MC4xMDQuMTgxLjE5OCIsInNvdXJjZXMiOlsyMywyNCwzMCwzM119.7_xrY-JqZoHcBJP6nQdkd3slozDGUaxgBJl8XHwqRD18QkI9PRF8TYK8igNUN9fc9mHUd0q9OS3L3eyFYrqFxA==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+       {
+        "name": "tigo prueba",
+        "url": "https://edge03-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MzA3MTMzIiwic2lwIjoiMTgxLjk0LjI0My4xNjEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRVdUTi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmZmNjJiMzgzZWY4N2E0OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJ1cmwiOiJodHRwczovLzE5MC4xMDQuMTgxLjE5OCIsInNvdXJjZXMiOlsyMywyNCwzMCwzM119.7_xrY-JqZoHcBJP6nQdkd3slozDGUaxgBJl8XHwqRD18QkI9PRF8TYK8igNUN9fc9mHUd0q9OS3L3eyFYrqFxA==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
+        "name": "personal prueba",
+        "url": "https://edge03-fdo-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MzA3MjcwIiwic2lwIjoiMTg2LjE2LjU2LjEwOCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FV1ROL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwOWQ5NWNhN2Q2NzE1ZTA0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.gwt9FGKLIGlEEpNUSJCECly68zB_Vsb6nSePjmdgazAmcQ_6ZmTVylnV7ztSYmjTNy-yGkpP7DZuff4RDK_MJA==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
         "name": "TESTING channel 2",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
