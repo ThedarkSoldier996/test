@@ -2952,11 +2952,13 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
        {
-        "name": "TEST channel",
-         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "name": "TESTING channel",
+        "url": "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MjUyNDQ3Iiwic2lwIjoiMTU0LjYxLjE3Mi4xMjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVmlhamFyL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMWY5ZGJhNzI1ZDAyMGY3NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNjEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.1fyRYv_MM2UxctIfb1OMHmJdxISrv4nw1yzqPYMHhVOpxcEIOLiDl50zpqyqSyTBRRF02HxC_0M2MpsU0wCprg==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
