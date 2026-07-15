@@ -2963,11 +2963,11 @@
       },
          {
         "name": "TEST URL FLOW",
-        "url": "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MjgzODQyIiwic2lwIjoiMTg2LjE2LjU2LjEwOCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FV1ROL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyYmM1Y2RjNTk0OWZlZGE2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsInVybCI6Imh0dHBzOi8vMTkwLjEwNC4xODEuMTk4Iiwic291cmNlcyI6WzIzLDI0LDMwLDMzXX0=.id9ZpuYZb8g-GHBhwLVtmXCxf5fESuXeX6IwCpAuC7vDDvkYTdLwf3ilULYdi7SSmfmt89VxcQXMpkaZi3_tdw==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "url": "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MzI1MDE4Iiwic2lwIjoiMTU0LjYxLjE3Mi4xMjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVmlhamFyL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmViNTVmZTJlN2VmNGM2OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTUiLCJzb3VyY2VzIjpbMjEwLDg2XX0=.yBzuF2na-pUux80Wm1sdwmvmLQVD6zwWrX15j02PpBm0G4bfYEIU_-8flJrlQ2_4b2VJfhX7DEqBtDZ0Kj5nZQ==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
