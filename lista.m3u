@@ -889,6 +889,8 @@ http://38.226.49.253:8000/play/a0e6/index.m3u8
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 http://24.152.42.29:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/HLTxGZL3/image.png",SEXY HOT
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TYC SPORTS FHD
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",GEN
