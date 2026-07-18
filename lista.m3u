@@ -886,7 +886,7 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/PzQYG9qt/image.png",PLAYBOY
 http://38.226.49.253:8000/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/mrjFxPz4/image.png",VENUS
-http://38.226.49.253:8000/play/a0eh/index.m3u8
+https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/HLTxGZL3/image.png",SEXY HOT
