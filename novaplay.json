@@ -126,7 +126,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
       },
       {
@@ -193,8 +193,20 @@
         "url2": "http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/telefe.playlist.m3u8",
         "icono": "https://i.ibb.co/dJ4KL96F/image.png"
       },
-      {
+       {
         "name": "TV PUBLICA - MUNDIAL",
+        "flow":"yes",
+        "evento": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TvPublicaAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/VWcZhDKv/image.png"
+      },
+      {
+        "name": "TV PUBLICA - MUNDIAL OPC 2",
         "evento": "yes",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png",
         "url": "http://138.59.227.20:8000/play/a095/index.m3u8",
@@ -984,27 +996,6 @@
         "icono": "https://i.ibb.co/DgmL957s/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSPREMIUMMX"
-      },
-      {
-        "name": "BEIN SPORTS 1",
-        "url": "https://global-cdn3.visionplus.id/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/BEIN1",
-        "icono": "https://i.ibb.co/5Xqfjd7Q/image.png"
-      },
-      {
-        "name": "BEIN SPORTS 2",
-        "url": "https://global-cdn4.visionplus.id/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/BEIN2",
-        "icono": "https://i.ibb.co/Gwrfydy/image.png"
-      },
-      {
-        "name": "BEIN SPORTS 3",
-        "url": "https://global-cdn1.visionplus.id/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/BEIN3",
-        "icono": "https://i.ibb.co/fVc61gZy/image.png"
       },
       {
         "name": "BEIN SPORTS XTRA Ñ",
