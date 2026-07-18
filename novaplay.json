@@ -2898,9 +2898,9 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-        "name": "Prueba DSPORTS 1 FLOW",
+        "name": "Prueba TELEFE",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest04",
          "Origin": "https://portal.app.flow.com.py",
