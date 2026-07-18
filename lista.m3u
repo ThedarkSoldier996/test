@@ -36,6 +36,8 @@ http://45.170.130.224:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE - MUNDIAL
 http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA - MUNDIAL
+https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA - MUNDIAL OPC 2
 http://138.59.227.20:8000/play/a095/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/N6KxyPdf/image.png",CANAL 5 - MUNDIAL
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
@@ -269,12 +271,6 @@ http://45.5.118.152:8000/play/a0dh/index.m3u8
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DgmL957s/image.png",FOX SPORTS PREMIUM MX 
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/5Xqfjd7Q/image.png",BEIN SPORTS 1
-https://global-cdn3.visionplus.id/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Gwrfydy/image.png",BEIN SPORTS 2
-https://global-cdn4.visionplus.id/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fVc61gZy/image.png",BEIN SPORTS 3
-https://global-cdn1.visionplus.id/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DPj3hQc4/image.png",BEIN SPORTS XTRA Ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/21rG76g7/image.png",TUDN MX
