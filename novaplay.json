@@ -2858,6 +2858,14 @@
         "url": "http://24.152.42.29:8000/play/a0c2/index.m3u8",
         "nsfw": "yes",
         "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
+      },
+       {
+        "name": "SEXY HOT",
+         "nsfw": "yes",
+        "url": "https://dish-arg.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SEXYHOT",
+        "icono": "https://i.ibb.co/HLTxGZL3/image.png"
       }
     ]
   },
