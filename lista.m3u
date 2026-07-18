@@ -267,8 +267,6 @@ http://138.59.227.20:8000/play/a06y/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/S4rgZsDN/image.png",FOX EL SALVADOR
 http://45.5.118.152:8000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/gbW8vKBP/image.png",FOX ONE
-https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DgmL957s/image.png",FOX SPORTS PREMIUM MX 
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DPj3hQc4/image.png",BEIN SPORTS XTRA Ñ
@@ -297,30 +295,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/0
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/QvQsMP14/image.png",DSPORTS PLUS
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/nqW6xhdv/image.png",LA LIGA HYPERMOTION 1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/nqW6xhdv/image.png",LA LIGA HYPERMOTION
 https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/nqW6xhdv/image.png",LA LIGA HYPERMOTION 2
-https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/mVPGg0fg/image.png",SKY SPORTS
-https://zap-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/r2y0gQgc/image.png",SKY SPORTS LA LIGA
-https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/r2y0gQgc/image.png",SKY SPORTS LA LIGA - OPC 2
-http://181.78.109.48:9998/play/a06r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DPJ86wBB/image.png",SKY SPORTS F1
-https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/gZFBT81R/image.png",SKY SPORTS - EVENTOS 1
-https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/gZFBT81R/image.png",SKY SPORTS - EVENTOS 2
-https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fY9pYbP9/image.png",TYC SPORTS FAN
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs",CLARO SPORTS
-https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/rKWH0YF8/image.png",MOVISTAR DEPORTES
 http://38.226.49.253:8000/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/6JtYzTKN/image.png",FIFA+
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/ks5gyCQP/image-934.jpg",EUROSPORT 1
 https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/8tcWVdP/image-639.jpg",EUROSPORT 2
@@ -921,7 +899,5 @@ http://38.226.49.253:8000/play/a0eh/index.m3u8
 http://24.152.42.29:8000/play/a0c2/index.m3u8
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING channel 2
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
-#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING PY TVP
-https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
-#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING CDN TVP
-https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
+#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",Prueba DSPORTS 1 FLOW
+https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd
