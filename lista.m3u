@@ -31,6 +31,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/7JvShNds/image.png",TSN SPORTS
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/HTDjm7Pn/image.png",GEN
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/GvmyhvNH/image.png",TRECE PY - MUNDIAL
 http://45.170.130.224:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/k2M067nv/image.png",UNICANAL PY - MUNDIAL
@@ -893,7 +895,5 @@ https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextre
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TYC SPORTS FHD
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
-#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",GEN
-https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/8LD7vRkq/image.png",ABC PY
 https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
