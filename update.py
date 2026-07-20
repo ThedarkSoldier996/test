@@ -16,8 +16,7 @@ PATTERN = r"/ccur-session/([^/]+)/rolling-buffer/(" + "|".join(CHANNELS) + r")/"
 NOVA_URL = "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json"
 
 # Solo el item de Archive.org
-PRUEBA7_URL = "https://archive.org/download/prueba7_202606"
-PRUEBA8_URL = "https://archive.org/download/prueba8_202606"
+PRUEBA9_URL = "https://archive.org/download/prueba9_202607"
 
 
 def load(url):
