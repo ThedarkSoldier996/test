@@ -408,7 +408,7 @@
       {
        "name": "CANAL PRO",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
         "url2": "http://138.59.227.20:8000/play/a0fn/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CANALPROPY",
