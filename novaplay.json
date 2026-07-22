@@ -197,9 +197,9 @@
       },
       {
         "name": "ROCK & POP PY",
-        "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
-        "url2": "https://rockandpop.b-cdn.net/480p.m3u8",
-        "icono": "https://i.ibb.co/BK7rpy4p/image.png"
+        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
+        "icono": "https://i.ibb.co/BK7rpy4p/image.png",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
       },
       {
         "name": "TV MAX CNEL OVIEDO",
@@ -239,7 +239,18 @@
         "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
       },
       {
-        "name": "VS SPORTS PY",
+        "name": "VS SPORTS",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png"
+      },
+      {
+        "name": "VS SPORTS - OPC 2",
         "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
         "icono": "https://i.ibb.co/m5PgzmbT/image.png",
         "Origin": "https://www.gen.com.py",
@@ -259,19 +270,30 @@
       },
       {
         "name": "POPU TV",
-        "icono": "https://i.ibb.co/N232M85k/image.png",
-        "url": "http://190.108.83.69:8000/play/a070/index.m3u8"
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_PopuPY",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+       "icono": "https://i.ibb.co/N232M85k/image.png"
       },
       {
         "name": "TRECE PY",
-        "url": "http://45.170.130.224:8000/play/a02m/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/GvmyhvNH/image.png"
       },
       {
         "name": "UNICANAL PY",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-        "urL2": "http://45.170.130.224:8000/play/a03o/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
          "Origin": "https://portal.app.flow.com.ar",
