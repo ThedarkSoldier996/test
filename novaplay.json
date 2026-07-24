@@ -94,7 +94,7 @@
     "title": "PARAGUAY - SOLO WIFI PERSONAL",
     "items": [
       {
-        "name": "ABC PY",
+        "name": "ABC PY - WIFI PERSONAL",
         "icono": "https://i.ibb.co/8LD7vRkq/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
         "type": "CLEARKEY",
@@ -104,7 +104,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "C9N",
+        "name": "C9N - WIFI PERSONAL",
         "icono": "https://i.ibb.co/Q74wSJNp/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "type": "CLEARKEY",
@@ -114,7 +114,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "GEN TV",
+        "name": "GEN TV - WIFI PERSONAL",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "type": "CLEARKEY",
@@ -124,7 +124,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "LA TELE",
+        "name": "LA TELE - WIFI PERSONAL",
         "icono": "https://i.ibb.co/SDwTc6gL/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
         "type": "CLEARKEY",
@@ -134,7 +134,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "POPU TV",
+        "name": "POPU TV - WIFI PERSONAL",
         "icono": "https://i.ibb.co/N232M85k/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "type": "CLEARKEY",
@@ -144,7 +144,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "SNT",
+        "name": "SNT - WIFI PERSONAL",
         "icono": "https://i.ibb.co/SCdymVh/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "type": "CLEARKEY",
@@ -154,7 +154,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "UNICANAL",
+        "name": "UNICANAL - WIFI PERSONAL",
         "icono": "https://i.ibb.co/k2M067nv/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "type": "CLEARKEY",
@@ -164,7 +164,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TELEFUTURO",
+        "name": "TELEFUTURO - WIFI PERSONAL",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "type": "CLEARKEY",
@@ -174,7 +174,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TRECE",
+        "name": "TRECE - WIFI PERSONAL",
         "icono": "https://i.ibb.co/GvmyhvNH/image.png",
         "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "type": "CLEARKEY",
