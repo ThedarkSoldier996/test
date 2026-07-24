@@ -454,12 +454,6 @@
         "icono": "https://i.ibb.co/KcTmC5By/image.png"
       },
       {
-        "name": "TV CAMARA",
-        "VLC": "true",
-        "url": "http://181.79.87.130:8000/play/a0bq/index.m3u8",
-        "icono": "https://i.ibb.co/Rk8pT1Wx/image.png"
-      },
-      {
         "name": "PARAGUAY TV",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8",
         "url2": "http://138.59.227.20:8000/play/a0f8/index.m3u8",
@@ -504,11 +498,18 @@
         "icono": "https://i.ibb.co/Q7y4whkw/image.png",
         "info": "97.5 FM"
       },
-      {
+       {
         "name": "VENUS MEDIA ",
-        "url": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
-        "url2": "http://138.59.227.20:8000/play/a0fc/index.m3u8",
-        "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
+        "url2": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
+        "url3": "http://138.59.227.20:8000/play/a0fc/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusMedia",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+                 "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
       {
         "name": "REPUBLICA FM TV",
@@ -1015,12 +1016,16 @@
         "url": "http://45.181.120.65:9087/play/057/index.m3u8",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
-      {
-        "name": "TYC SPORTS",
-        "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a06x/index.m3u8",
-        "url3": "http://190.7.19.197:232/play/a04w/index.m3u8",
-        "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
+     {
+        "name": "TYC SPORTS FHD",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
       {
         "name": "DSPORTS ARGENTINA SD ",
@@ -2854,9 +2859,9 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "TYC SPORTS FHD",
+        "name": "EVENTOS",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
          "Origin": "https://portal.app.flow.com.ar",
