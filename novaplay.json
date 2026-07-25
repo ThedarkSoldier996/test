@@ -545,6 +545,17 @@
         "icono": "https://i.ibb.co/dJ4KL96F/image.png"
       },
       {
+        "name": "TELEFE INTERNACIONAL",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefeInternacionalAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
+      },
+      {
         "name": "ARGENTINISIMA SATELITAL",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
@@ -555,6 +566,52 @@
             "Referer": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/5WRPR4S8/image.png"
+      },
+      {
+        "name": "AMERICA TV AR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+        "url2": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AmericaAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/Y4wZKqRT/v-IYh4f-J4-Fi-Oe-D0-U8s-GUEUZQf3-Da-K-PME00-Ckh7c-Ff4-CRm-C3-EHopv-Usjbg-YKh-NVk-FXURSzlt-WYQ-s900-c-k-c0x.jpg"
+      },
+       {
+         "name": "EL TRECE",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+         "url2": "http://138.59.227.20:8000/play/a07b/index.m3u8"
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ElTreceAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/LhvLyCFh/image.png"
+      },
+       {
+         "name": "EL TRECE INTERNACIONAL",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ElTreceInternacionalAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/LhvLyCFh/image.png"
+      },
+      {
+         "name": "EL NUEVE",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ElNueveAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/BVWjwRKc/image.png"
       },
       {
         "name": "24/7 NOTICIAS NEUQUEN",
@@ -573,12 +630,7 @@
         "icono": "https://i.ibb.co/wm1j5x9/image.png",
         "url": "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8"
       },
-      {
-        "name": "EL TRECE",
-        "icono": "https://i.ibb.co/LhvLyCFh/image.png",
-        "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a07b/index.m3u8"
-      },
+      
       {
         "name": "A24 ARGENTINA",
         "icono": "https://i.ibb.co/b9qhSXx/image.png",
