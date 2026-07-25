@@ -18,7 +18,6 @@
       {
         "name": "TIGO SPORTS",
         "info": "Eventos",
-        "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
@@ -383,6 +382,18 @@
         "icono": "https://i.ibb.co/ML37fmW/image.png"
       },
       {
+        "name": "PARAGUAY TV",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
+        "url2": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ParaguayTV",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/bRFH7D6c/channels4-profile.jpg"
+      },
+      {
         "name": "HEI NOW",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
@@ -404,12 +415,6 @@
         "name": "XPRESSTV",
         "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
         "icono": "https://i.ibb.co/KcTmC5By/image.png"
-      },
-      {
-        "name": "PARAGUAY TV",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0f8/index.m3u8",
-        "icono": "https://i.ibb.co/bRFH7D6c/channels4-profile.jpg"
       },
       {
         "name": "ÑANDUTI TV",
@@ -1015,6 +1020,17 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
+      },
+      {
+        "name": "DSPORTS URUGUAY",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsUy",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
         "name": "DSPORTS COLOMBIA",
@@ -2904,13 +2920,6 @@
         "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       },
-        {
-                "name": "TIGO SPORTS EVENTOS",
-                "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
-                "web":"yes",
-                "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
-            },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
