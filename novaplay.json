@@ -2905,15 +2905,10 @@
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       },
         {
-                "name": "OPCION 1",
-                "url": "https://3xwdr14ch0n0.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-                "type": "HLS",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
-                "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-                    "Referer": "https://gabito.store/",
-                    "Origin": "https://gabito.store",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
-                
+                "name": "TIGO SPORTS EVENTOS",
+                "url": "https://p2.domain761.sbs/fanatiz3/tracks-v1a1/mono.m3u8?token=8c317bff6db19b9a0018691c1ecf3d27c88e5f31-8e-1785049658-1784995658",
+                "icono": "https://i.ibb.co/dwfkcZ7J/image.webp",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
             },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
