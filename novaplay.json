@@ -2907,7 +2907,8 @@
         {
                 "name": "TIGO SPORTS EVENTOS",
                 "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
-                "icono": "https://i.ibb.co/dwfkcZ7J/image.webp",
+                "web":"yes",
+                "icono": "https://i.ibb.co/ymrjyWMP/image.png",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/142.0.0.0"
             },
       {
