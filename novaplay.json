@@ -132,54 +132,6 @@
     "title": "PARAGUAY",
     "items": [
       {
-        "name": "BRUNO MASI TV",
-        "url": "https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8",
-        "icono": "https://i.ibb.co/WNks2gQ1/image.png"
-      },
-      {
-        "name": "ROCK & POP PY",
-        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
-        "icono": "https://i.ibb.co/BK7rpy4p/image.png",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TV MAX CNEL OVIEDO",
-        "status":"false",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "icono": "https://i.ibb.co/0VCmZngC/image.png"
-      },
-      {
-        "name": "ALMAYA TV PILAR",
-        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-        "icono": "https://i.ibb.co/YFWNVfmM/image.png"
-      },
-      {
-        "name": "TVS ENCARNACIÓN",
-        "url": "https://stmv6.voxtvhd.com.br:443/tvs/tvs/playlist.m3u8",
-        "icono": "https://i.ibb.co/MxQTkyjk/image.png"
-      },
-      {
-        "name": "PILAR STREAMING",
-        "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/playlist.m3u8",
-        "icono": "https://i.ibb.co/PyS6QSz/image.png"
-      },
-      {
-        "name": "CAMBYRETA TV",
-        "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8",
-        "icono": "https://i.ibb.co/PzQ8mhDF/image.png"
-      },
-      {
-        "name": "DELREY TV",
-        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
-        "icono": "https://i.ibb.co/W7bV4hm/image.png"
-      },
-      {
-        "name": "VISIÓN TV",
-        "info": "Villarica",
-        "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
-        "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
-      },
-      {
         "name": "VS SPORTS",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
@@ -406,17 +358,6 @@
         "icono": "https://i.ibb.co/XkLZ49BM/image.png"
       },
       {
-        "name": "FARRATV",
-        "icono": "https://i.ibb.co/tM77ZJ71/image.png",
-        "url": "http://159.203.148.226/live/farra_src.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8"
-      },
-      {
-        "name": "XPRESSTV",
-        "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
-        "icono": "https://i.ibb.co/KcTmC5By/image.png"
-      },
-      {
         "name": "ÑANDUTI TV",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
@@ -427,6 +368,78 @@
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
                 "icono": "https://i.ibb.co/qMTf7sNt/image.png"
+      },
+       {
+        "name": "VENUS MEDIA ",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
+        "url2": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
+        "url3": "http://138.59.227.20:8000/play/a0fc/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusMedia",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+                 "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
+      },
+      {
+        "name": "BRUNO MASI TV",
+        "url": "https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8",
+        "icono": "https://i.ibb.co/WNks2gQ1/image.png"
+      },
+      {
+        "name": "ROCK & POP PY",
+        "url": "https://rockandpop.b-cdn.net/480p.m3u8",
+        "icono": "https://i.ibb.co/BK7rpy4p/image.png",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TV MAX CNEL OVIEDO",
+        "status":"false",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "icono": "https://i.ibb.co/0VCmZngC/image.png"
+      },
+      {
+        "name": "ALMAYA TV PILAR",
+        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+        "icono": "https://i.ibb.co/YFWNVfmM/image.png"
+      },
+      {
+        "name": "TVS ENCARNACIÓN",
+        "url": "https://stmv6.voxtvhd.com.br:443/tvs/tvs/playlist.m3u8",
+        "icono": "https://i.ibb.co/MxQTkyjk/image.png"
+      },
+      {
+        "name": "PILAR STREAMING",
+        "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/playlist.m3u8",
+        "icono": "https://i.ibb.co/PyS6QSz/image.png"
+      },
+      {
+        "name": "CAMBYRETA TV",
+        "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8",
+        "icono": "https://i.ibb.co/PzQ8mhDF/image.png"
+      },
+      {
+        "name": "DELREY TV",
+        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "icono": "https://i.ibb.co/W7bV4hm/image.png"
+      },
+      {
+        "name": "VISIÓN TV",
+        "info": "Villarica",
+        "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
+        "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
+      },
+      {
+        "name": "FARRATV",
+        "icono": "https://i.ibb.co/tM77ZJ71/image.png",
+        "url": "http://159.203.148.226/live/farra_src.m3u8",
+        "url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8"
+      },
+      {
+        "name": "XPRESSTV",
+        "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
+        "icono": "https://i.ibb.co/KcTmC5By/image.png"
       },
       {
         "name": "RB TV-RADIO",
@@ -454,19 +467,6 @@
         "url": "https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist_w1906112169.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/Q7y4whkw/image.png",
         "info": "97.5 FM"
-      },
-       {
-        "name": "VENUS MEDIA ",
-        "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
-        "url2": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
-        "url3": "http://138.59.227.20:8000/play/a0fc/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusMedia",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-                 "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
       {
         "name": "REPUBLICA FM TV",
@@ -614,33 +614,77 @@
         "icono": "https://i.ibb.co/BVWjwRKc/image.png"
       },
       {
+         "name": "A24 ARGENTINA",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_A24AR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/b9qhSXx/image.png"
+      },
+        {
+         "name": "C5N",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_K5NAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/8nKLdL5P/image.png"
+      },
+       {
+         "name": "CANAL 26",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "url2": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Canal26Ar",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/4wBDgN3C/image.png"
+      },
+       {
+        "name": "CRONICA",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CronicaAR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/ZRV8cJSg/image.png"
+      },
+       {
+        "name": "LN+",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_LNPLUSAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/PG4qdpwD/image.png"
+      },
+       {
+        "name": "TN",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd",
+         "url2": "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNAR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/wm1j5x9/image.png"
+      },
+      {
         "name": "24/7 NOTICIAS NEUQUEN",
         "icono": "https://i.ibb.co/6JPqBf1d/image.png",
         "url": "https://panel.host-live.com:19360/cn247tv/Source.m3u8"
-      },
-      {
-        "name": "CRONICA",
-        "icono": "https://i.ibb.co/ZRV8cJSg/image.png",
-        "url": "http://138.59.227.20:8000/play/a05w/index.m3u8",
-        "url2": "http://190.7.19.197:232/play/a041/index.m3u8"
-      },
-      {
-        "name": "TN",
-        "info": "TeleNoticias",
-        "icono": "https://i.ibb.co/wm1j5x9/image.png",
-        "url": "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8"
-      },
-      
-      {
-        "name": "A24 ARGENTINA",
-        "icono": "https://i.ibb.co/b9qhSXx/image.png",
-        "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",
-        "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
-      },
-      {
-        "name": "CANAL 26",
-        "icono": "https://i.ibb.co/4wBDgN3C/image.png",
-        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
       },
       {
         "name": "CANAL 7 JUJUY",
