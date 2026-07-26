@@ -895,7 +895,7 @@
         "icono": "https://i.ibb.co/qHpzRx8/image.png"
       },
        {
-        "name": "ESPN",
+        "name": "ESPN AR",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
          "url2": "http://38.226.49.253:8000/play/a07l/index.m3u8",
@@ -907,7 +907,7 @@
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
        {
-         "name": "ESPN 2",
+         "name": "ESPN 2 AR",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
         "url2": "http://38.226.49.253:8000/play/a06g/index.m3u8",
@@ -918,55 +918,29 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
-      {
-        "name": "ESPN 2",
-        "info": "Brasil",
-        "url": "http://46.151.196.223:14438/",
-        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
-      },
+
       {
         "name": "ESPN 3",
         "url": "http://38.226.49.253:8000/play/a07g/index.m3u8",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
-      {
-        "name": "ESPN 3",
-        "info": "Brasil",
-        "url": "http://46.151.196.223:14444/",
-        "icono": "https://i.ibb.co/MkxW7vqS/image.png"
-      },
+    
       {
         "name": "ESPN 4",
         "url": "http://38.226.49.253:8000/play/a065/index.m3u8",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
-      {
-        "name": "ESPN 4",
-        "info": "Brasil",
-        "url": "http://46.151.196.223:14450/",
-        "icono": "https://i.ibb.co/HTrmQvrj/image.png"
-      },
+     
       {
         "name": "ESPN 5",
         "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
-      {
-        "name": "ESPN 5",
-        "info": "Brasil",
-        "url": "http://46.151.196.223:14456/",
-        "icono": "https://i.ibb.co/JwKrdwmf/image.png"
-      },
+    
       {
         "name": "ESPN 6",
         "url": "http://38.226.49.253:8000/play/a05p/index.m3u8",
         "url2": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
-        "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
-      },
-      {
-        "name": "ESPN 6",
-        "info": "Brasil",
-        "url": "http://46.151.196.223:14462/",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
       },
       {
