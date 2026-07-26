@@ -1067,21 +1067,10 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
-      {
-        "name": "TUDN MX OPC 2",
-        "url": "https://streaming.alwaysdata.net/tudn.php",
-        "icono": "https://i.ibb.co/21rG76g7/image.png",
-        "web": "yes"
-      },
+      
       {
         "name": "TNT SPORTS PREMIUM",
         "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
-        "icono": "https://i.ibb.co/wFFYtChx/image.png"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "info": "Chile",
-        "url": "http://45.181.120.65:9087/play/057/index.m3u8",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
      {
