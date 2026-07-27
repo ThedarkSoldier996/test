@@ -1455,7 +1455,7 @@
 		{
         "name": "FX",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a07c/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FX",
