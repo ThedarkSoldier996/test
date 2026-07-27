@@ -1648,7 +1648,7 @@
         "icono": "https://i.ibb.co/BFsJVVG/image.png"
       },
 		{
-        "name": "National Geographic",
+        "name": "NATGEO",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
         "url2": "http://38.226.49.253:8000/play/a05x/index.m3u8",
