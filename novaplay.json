@@ -1379,25 +1379,53 @@
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/gY2HSJm/image.png"
       },
-      {
+		 {
         "name": "TNT NOVELAS",
-        "url": "http://38.226.49.253:8000/play/a07f/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+		"url2": "http://38.226.49.253:8000/play/a07f/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTnovelas",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/nMskkQC6/image.png"
       },
-      {
+		{
         "name": "STUDIO UNIVERSAL",
-        "url": "http://38.97.240.11:8000/play/a0bl/index.m3u8",
-        "icono": "https://i.ibb.co/cc0T79bF/image.png"
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
+		"url2": "http://38.97.240.11:8000/play/a0bl/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StudioUniversal",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/cc0T79bF/image.png"
       },
-      {
+		{
         "name": "STAR CHANNEL HD",
-        "url": "http://38.226.49.253:8000/play/a06q/index.m3u8",
-        "icono": "https://i.ibb.co/Tx8sKqTh/image.png"
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+		"url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StarChannel",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/Tx8sKqTh/image.png"
       },
-      {
-        "name": "SPACE HD",
-        "url": "http://38.226.49.253:8000/play/a064/index.m3u8",
-        "icono": "https://i.ibb.co/KxjhK824/image.png"
+			{
+          "name": "SPACE HD",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+		"url2": "http://38.226.49.253:8000/play/a064/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Space",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/KxjhK824/image.png"
       },
       {
         "name": "A&E",
