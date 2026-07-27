@@ -1305,34 +1305,55 @@
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
     "title": "ENTRETENIMIENTO",
     "items": [
-      {
+		{
         "name": "Warner TV",
-        "icono": "https://i.ibb.co/wrR0pC7B/image.png",
-        "url": "http://8.243.126.131:8000/play/a0gh/index.m3u8"
-      },
-      {
-        "name": "EUROPA EUROPA",
-        "icono": "https://i.ibb.co/Dg9cc46B/image.png",
-        "url": "http://190.7.19.197:232/play/a01o/index.m3u8"
-      },
-      {
-        "name": "AMC",
-        "icono": "https://i.ibb.co/NgmzQS9P/image.png",
-        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AMC"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Warner",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/wrR0pC7B/image.png"
+      },
+		{
+        "name": "EUROPA EUROPA",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
+	    "url2": "http://190.7.19.197:232/play/a01o/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Europax2",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/Dg9cc46B/image.png"
+      },
+      {
+       "name": "AMC",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AMC",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/NgmzQS9P/image.png"
       },
       {
         "name": "NCIS Criminologia Naval",
         "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
         "icono": "https://i.ibb.co/DDCQwRzK/image.png"
       },
-      {
-        "name": "CINEMAX",
-        "url": "http://38.226.49.253:8000/play/a0ax/index.m3u8",
-        "url2": "http://38.226.49.253:8000/play/a05j/index.m3u8",
-        "url3": "http://45.5.151.62:8000/play/a012/index.m3u8",
-        "icono": "https://i.ibb.co/jPTj3g4Z/image.png"
+		   {
+       "name": "CINEMAX",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CINEMAX",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+            "icono": "https://i.ibb.co/jPTj3g4Z/image.png"
       },
       {
         "name": "CINECANAL",
