@@ -14,7 +14,6 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/S4GcVM6S/image.png"
       },
-     
       {
         "name": "TIGO SPORTS",
         "info": "Eventos",
@@ -1496,29 +1495,57 @@
         "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
       },
-      {
-        "name": "HISTORY",
-        "url": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
-        "url2": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
-        "icono": "https://i.ibb.co/6Rm4GPxB/image.png"
+		{
+         "name": "HISTORY",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
+        "url3": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+       "icono": "https://i.ibb.co/6Rm4GPxB/image.png"
       },
-      {
-        "name": "HISTORY 2",
-        "url": "http://38.226.49.253:8000/play/a03m/index.m3u8",
-        "url2": "http://38.188.48.83:8000/play/a0kp/index.m3u8",
-        "url3": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
-        "icono": "https://i.ibb.co/gbqv2hYf/image.png"
+		{
+         "name": "HISTORY 2",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
+        "ur2": "http://38.226.49.253:8000/play/a03m/index.m3u8",
+        "url3": "http://38.188.48.83:8000/play/a0kp/index.m3u8",
+        "url4": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_History2",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+     "icono": "https://i.ibb.co/gbqv2hYf/image.png"
       },
-      {
+		{
         "name": "ANIMAL PLANET",
-        "icono": "https://i.ibb.co/SwkcpPqM/image.png",
-        "url": "http://190.7.19.197:232/play/a081/index.m3u8"
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+        "url2": "http://190.7.19.197:232/play/a081/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_AnimalPlanet",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+     "icono": "https://i.ibb.co/SwkcpPqM/image.png"
       },
-      {
+		{
         "name": "DISCOVERY",
-        "url": "http://38.226.49.253:8000/play/a05s/index.m3u8",
-        "url2": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
-        "url3": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05s/index.m3u8",
+        "url3": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
+        "url4": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryChannel",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       },
       {
