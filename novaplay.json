@@ -1094,18 +1094,35 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
-      
       {
-        "name": "TNT SPORTS PREMIUM",
-        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+         "name": "TNT SPORTS PREMIUM AR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "url2": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
      {
-        "name": "TYC SPORTS FHD",
+        "name": "TYC SPORTS",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
+      },
+		{
+        "name": "TYC SPORTS INTERNACIONAL",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsInternacionalAr",
          "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
