@@ -1415,7 +1415,7 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
          "icono": "https://i.ibb.co/Tx8sKqTh/image.png"
       },
-			{
+		{
           "name": "SPACE HD",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
@@ -1427,30 +1427,53 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
          "icono": "https://i.ibb.co/KxjhK824/image.png"
       },
-      {
+		{
         "name": "A&E",
-        "url": "http://38.226.49.253:8000/play/a05m/index.m3u8",
-        "url2": "http://38.226.49.253:8000/play/a05u/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
+		"url2": "http://38.226.49.253:8000/play/a05m/index.m3u8",
+        "url3": "http://38.226.49.253:8000/play/a05u/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_A-E",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/vvDdW11M/image.png"
       },
-      {
+		{
         "name": "AXN",
-        "url": "http://38.226.49.253:8000/play/a062/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a062/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AXN",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/bMF2Zqvf/image.png"
       },
-      {
+		{
         "name": "FX",
-        "url": "http://38.226.49.253:8000/play/a07c/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a07c/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FX",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/NdRjrmTZ/image.png"
       },
-      {
-        "name": "TODONOVELAS",
-        "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
-        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
-      },
-      {
+		{
         "name": "SONY CHANNEL",
-        "url": "http://38.226.49.253:8000/play/a060/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a060/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SonyChannel",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/YFC4QqcB/image.png"
       },
       {
@@ -1467,6 +1490,11 @@
         "name": "SONY ONE COMEDIA",
         "icono": "https://i.ibb.co/bgVb7hH9/image.png",
         "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
+      },
+		   {
+        "name": "TODONOVELAS",
+        "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
+        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
       },
       {
         "name": "HISTORY",
