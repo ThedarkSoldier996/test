@@ -1634,23 +1634,43 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/5XhVdGnk/image.png"
       },
-      {
+		{
         "name": "SUN CHANNEL",
-        "url": "http://38.226.49.253:8000/play/a06p/index.m3u8",
-        "url2": "http://138.121.12.126:8000/play/a02u/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
+		"url2": "http://38.226.49.253:8000/play/a06p/index.m3u8",
+        "url3": "http://138.121.12.126:8000/play/a02u/index.m3u8",	
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_SUNCHANNEL",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/BFsJVVG/image.png"
       },
-      {
-        "name": "NATGEO",
-        "url": "http://38.226.49.253:8000/play/a05x/index.m3u8",
-        "url2": "http://181.224.255.210:8001/play/a0m2/index.m3u8",
-        "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
+		{
+        "name": "National Geographic",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05x/index.m3u8",
+        "url3": "http://181.224.255.210:8001/play/a0m2/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NationalGeographic",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
       },
-      {
+		{
         "name": "LIFETIME",
-        "url": "http://38.226.49.253:8000/play/a043/index.m3u8",
-        "url2": "http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318632.m3u8",
-        "icono": "https://i.ibb.co/PsSfDL8Z/image.png"
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
+         "url2": "http://38.226.49.253:8000/play/a043/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Lifetime",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+           "icono": "https://i.ibb.co/PsSfDL8Z/image.png"
       }
     ]
   },
