@@ -1757,7 +1757,7 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LA1ES"
       },
       {
-        "name": "VIVO LATINO",
+        "name": "VEVO LATINO",
         "info": "Música",
         "icono": "https://i.ibb.co/zH2j1BhS/image.png",
         "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
@@ -1777,11 +1777,6 @@
         "info": "Puerto Rico",
         "icono": "https://i.ibb.co/DgwRzpvZ/image.png",
         "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
-      },
-      {
-        "name": "TELEMUNDO 47",
-        "icono": "https://i.ibb.co/7d2T1Gn0/image.png",
-        "url": "http://201.151.118.136:8000/play/a00h/index.m3u8"
       },
       {
         "name": "TELEMUNDO NOTICIAS",
