@@ -1782,6 +1782,30 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/KxP8dwQn/image.png"
       },
+		{
+         "name": "CARTOONITO",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "url2": "http://8.243.126.131:8000/play/a05p/index.m3u8?hls",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Cartoonito",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/VWDzXmT3/image.png"
+      },
+      {
+       "name": "DISCOVERY KIDS",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "url2": "http://8.243.126.131:8000/play/a05n/index.m3u8?hls",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryKids",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/bgYBcryv/image.png"
+      },
       {
         "name": "BABY SHARK TV",
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
@@ -1833,26 +1857,11 @@
         "url": "http://190.7.19.197:232/play/a03e/index.m3u8",
         "icono": "https://i.ibb.co/d4qbMQDN/image.png"
       },
-      {
-        "name": "DISCOVERY KIDS",
-        "url": "http://8.243.126.131:8000/play/a05n/index.m3u8?hls",
-        "icono": "https://i.ibb.co/bgYBcryv/image.png"
-      },
+
       {
         "name": "NICK JR",
         "icono": "https://i.ibb.co/8nHmkqt3/image.png",
         "url": "http://190.7.19.197:232/play/a01n/index.m3u8"
-      },
-    
-      {
-        "name": "CARTOON NETWORK - OPC 2",
-        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
-        "url": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls"
-      },
-      {
-        "name": "CARTOONITO",
-        "url": "http://8.243.126.131:8000/play/a05p/index.m3u8?hls",
-        "icono": "https://i.ibb.co/VWDzXmT3/image.png"
       },
       {
         "name": "DISNEY JR ",
