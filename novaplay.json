@@ -6,7 +6,7 @@
 		{
         "name": "TIGO SPORTS EVENTOS 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-		"evento":"eventos1",	
+		"evento":"yes",	
 		"type": "CLEARKEY",
 			"drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
 		"Origin": "https://www.tigosports.com.py",
@@ -17,7 +17,7 @@
 		{
         "name": "TIGO SPORTS EVENTOS 2",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-		"evento":"eventos2",	
+		"evento":"yes",	
 		"type": "CLEARKEY",
 			"drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS2",
 		"Origin": "https://www.tigosports.com.py",
