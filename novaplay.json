@@ -2,8 +2,28 @@
   {
     "type": "category",
     "title": "EVENTOS",
-    "items": [
-      {
+    "items": [      
+		{
+        "name": "TIGO SPORTS EVENTOS 1",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+		"type": "CLEARKEY",
+			"drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS1",
+		"Origin": "https://www.tigosports.com.py",
+        "Referer": "https://www.tigosports.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/23RHTMbY/image.png"
+      },
+		{
+        "name": "TIGO SPORTS EVENTOS 2",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+		"type": "CLEARKEY",
+			"drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TIGOSPORTSEVENTOS2",
+		"Origin": "https://www.tigosports.com.py",
+        "Referer": "https://www.tigosports.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/23RHTMbY/image.png"
+      },
+		{
         "name": "FLOW EVENTOS",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
@@ -13,29 +33,6 @@
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/S4GcVM6S/image.png"
-      },
-		{
-        "name": "TIGO SPORTS",
-        "info": "Eventos",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-		"type": "CLEARKEY",
-			"drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/Tigosportseventos",
-		"Origin": "https://www.tigosports.com.py",
-        "Referer": "https://www.tigosports.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
-      },
-      {
-        "name": "TIGO SPORTS - OPC 2",
-        "info": "Eventos",
-        "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
-      },
-      {
-        "name": "TIGO SPORTS +",
-        "info": "Eventos",
-        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
       }
     ]
   },
@@ -3159,100 +3156,6 @@
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-{
-        "name": "TIGO SPORTS TEST",
-        "evento": "yes",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
-        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },     
-       {
-        "name": "NOVASPORTS - EVENTOS 1",
-        "evento": "yes",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
-        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-      {
-        "name": "NOVASPORTS - EVENTOS 2",
-        "evento": "yes",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a36be7d20/rolling-buffer/APP_CHN4/APP_CHN2/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
-        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-      {
-        "name": "NOVASPORTS - EVENTOS 3",
-        "evento": "yes",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
-        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
-      {
-        "name": "NOVASPORTS - EVENTOS 5",
-        "evento": "yes",
-        "tgosports":"yes",
-        "status": "false",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
-        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
-        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      },
-		 {
-        "name": "TIGO SPORTS test - EVENTOS",
-        "info": "SOLO TELEFONOS",
-	    "web": "yes",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
-        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
