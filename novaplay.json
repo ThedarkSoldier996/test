@@ -1840,7 +1840,7 @@
           "icono": "https://i.ibb.co/wh4Qrd81/image.png"
       },
 		{
-        "name": "KidOO",
+        "name": "KIDOO",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
         "type": "CLEARKEY",
@@ -1849,6 +1849,18 @@
         "Referer": "https://portal.app.flow.com.ar/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
           "icono": "https://i.ibb.co/0RpQMrXm/image.png"
+      },
+		{
+        "name": "NICK JR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+		"url2": "http://190.7.19.197:232/play/a01n/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NickJr",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/8nHmkqt3/image.png"
       },
       {
         "name": "BABY SHARK TV",
@@ -1896,12 +1908,6 @@
         "name": "NICKELODEON",
         "url": "http://190.7.19.197:232/play/a03e/index.m3u8",
         "icono": "https://i.ibb.co/d4qbMQDN/image.png"
-      },
-
-      {
-        "name": "NICK JR",
-        "icono": "https://i.ibb.co/8nHmkqt3/image.png",
-        "url": "http://190.7.19.197:232/play/a01n/index.m3u8"
       }
     ]
   },
