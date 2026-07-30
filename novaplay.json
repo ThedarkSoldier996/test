@@ -3004,6 +3004,38 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/PzQYG9qt/image.png"
       },
+		  {
+        "name": "VENUS",
+        "flow":"yes",
+        "nsfw": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/mrjFxPz4/image.png"
+      },
+     {
+        "name": "SEXTREME",
+        "flow":"yes",
+        "nsfw": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
+      },
+		{
+        "name": "SEXY HOT",
+         "nsfw": "yes",
+        "url": "https://dish-arg.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SEXYHOT",
+        "icono": "https://i.ibb.co/HLTxGZL3/image.png"
+      },
       {
         "name": "AMAZING TV",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
@@ -3039,39 +3071,7 @@
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117",
         "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png"
-      },
-      {
-        "name": "VENUS",
-        "flow":"yes",
-        "nsfw": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
-         "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/mrjFxPz4/image.png"
-      },
-     {
-        "name": "SEXTREME",
-        "flow":"yes",
-        "nsfw": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
-         "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
-      },
-       {
-        "name": "SEXY HOT",
-         "nsfw": "yes",
-        "url": "https://dish-arg.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SEXYHOT",
-        "icono": "https://i.ibb.co/HLTxGZL3/image.png"
-      }
+      } 
     ]
   },
   {
@@ -3080,7 +3080,7 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "VS SPORTS - SIN SEÑAL",
+        "name": "VS SPORTS",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
         "type": "CLEARKEY",
