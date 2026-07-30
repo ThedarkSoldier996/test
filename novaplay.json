@@ -851,6 +851,17 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
+		{
+         "name": "ESPN 3 SUR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN3SUR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/MkxW7vqS/image.png"
+      },
       {
          "name": "ESPN 4 AR",
         "flow":"yes",
@@ -863,22 +874,54 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
          "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
-      {
-        "name": "ESPN 5",
-        "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
-        "icono": "https://i.ibb.co/JwKrdwmf/image.png"
+		  {
+         "name": "ESPN 4 AR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "url2": "http://38.226.49.253:8000/play/a065/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
-    
-      {
-        "name": "ESPN 6",
-        "url": "http://38.226.49.253:8000/play/a05p/index.m3u8",
-        "url2": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
-        "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
+	  {
+         "name": "ESPN 5 SUR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+	    "url2": "http://38.226.49.253:8000/play/a078/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN5SUR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
-      {
-        "name": "ESPN 7",
-        "url": "http://38.226.49.253:8000/play/a087/index.m3u8",
-        "icono": "https://i.ibb.co/vxFK1Cvm/image.png"
+		 {
+         "name": "ESPN 6 SUR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+	    "url2": "http://38.226.49.253:8000/play/a05p/index.m3u8",
+        "url3": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN6SUR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+           "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
+      },
+		 {
+         "name": "ESPN 7 SUR",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "url2": "http://38.226.49.253:8000/play/a087/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN7SUR",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+           "icono": "https://i.ibb.co/vxFK1Cvm/image.png"
       },
       {
         "name": "ESPN PREMIUM AR",
