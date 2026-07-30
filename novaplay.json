@@ -1885,16 +1885,23 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
              "icono": "https://i.ibb.co/xK5ysXH3/image.png"
       },
+			{
+         "name": "TOONCAST",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+		"url2": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
+        "url3": "http://38.226.49.253:8000/play/a03u/index.m3u8?hls",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Tooncast",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+              "icono": "https://i.ibb.co/fYH5j83Q/image.png"
+      },
       {
         "name": "BABY SHARK TV",
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
         "icono": "https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo=s485-rw"
-      },
-      {
-        "name": "TOONCAST",
-        "icono": "https://i.ibb.co/fYH5j83Q/image.png",
-        "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
-        "url2": "http://38.226.49.253:8000/play/a03u/index.m3u8?hls"
       },
       {
         "name": "NARUTO SHIPPUDEN",
