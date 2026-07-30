@@ -1561,6 +1561,17 @@
           "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
       },
 		{
+        "name": "HGTV",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HGTV",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/nsjrdwXz/image.png"
+      },
+		{
         "name": "LIFETIME",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
