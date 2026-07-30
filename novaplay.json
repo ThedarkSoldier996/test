@@ -1874,6 +1874,17 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
              "icono": "https://i.ibb.co/d4qbMQDN/image.png"
       },
+		{
+         "name": "PAKA PAKA",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PakaPaka",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+             "icono": "https://i.ibb.co/xK5ysXH3/image.png"
+      },
       {
         "name": "BABY SHARK TV",
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
