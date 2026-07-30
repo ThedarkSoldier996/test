@@ -3194,49 +3194,17 @@
         "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
       },
 		{
-        "name": "SEXY HOT",
-         "nsfw": "yes",
-        "url": "https://dish-arg.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd",
+        "name": "SEXTREME",
+        "flow":"yes",
+        "nsfw": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SEXYHOT",
-        "icono": "https://i.ibb.co/HLTxGZL3/image.png"
-      },
-      {
-        "name": "AMAZING TV",
-        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
-        "nsfw": "yes",
-        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png"
-      },
-      {
-        "name": "PANDORA PERFECT",
-        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86",
-        "nsfw": "yes",
-        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png"
-      },
-      {
-        "name": "Sonsee 1",
-        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88",
-        "nsfw": "yes",
-        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png"
-      },
-      {
-        "name": "Sonsee 2",
-        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89",
-        "nsfw": "yes",
-        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png"
-      },
-      {
-        "name": "Sonsee 3",
-        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90",
-        "nsfw": "yes",
-        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png"
-      },
-      {
-        "name": "BANANA",
-        "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117",
-        "nsfw": "yes",
-        "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png"
-      } 
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_HustlerMature",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/fdWF0ZVj/image.png"
+      }
     ]
   },
   {
