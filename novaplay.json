@@ -1793,6 +1793,41 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
           "icono": "https://i.ibb.co/bgYBcryv/image.png"
       },
+		 {
+        "name": "DISNEY CHANNEL",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+        "url2": "http://190.7.19.197:232/play/a04v/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyChannel",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/RpX4r4PF/image.png"
+      },
+		{
+        "name": "DISNEY JR ",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+        "url2": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/YFNk9ydS/image.png"
+      },
+		{
+        "name": "DREAMWORKS",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Dreamworks",
+         "Origin": "https://portal.app.flow.com.ar",
+        "Referer": "https://portal.app.flow.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "icono": "https://i.ibb.co/vxPdVYfP/image.png"
+      },
       {
         "name": "BABY SHARK TV",
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
@@ -1819,11 +1854,7 @@
         "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
         "icono": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage_1748446520796.jpg"
       },
-      {
-        "name": "DISNEY CHANNEL",
-        "icono": "https://i.ibb.co/RpX4r4PF/image.png",
-        "url": "http://190.7.19.197:232/play/a04v/index.m3u8"
-      },
+      
       {
         "name": "POPEYE",
         "url": "https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8",
@@ -1849,11 +1880,6 @@
         "name": "NICK JR",
         "icono": "https://i.ibb.co/8nHmkqt3/image.png",
         "url": "http://190.7.19.197:232/play/a01n/index.m3u8"
-      },
-      {
-        "name": "DISNEY JR ",
-        "icono": "https://i.ibb.co/YFNk9ydS/image.png",
-        "url": "http://38.226.49.253:8000/play/a05h/index.m3u8?hls"
       }
     ]
   },
