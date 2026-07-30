@@ -42,18 +42,6 @@
     "title": "PARAGUAY",
     "items": [
       {
-        "name": "VS SPORTS",
-		  "status":"false",
-        "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/m5PgzmbT/image.png"
-      },
-      {
         "name": "GEN",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
@@ -3003,10 +2991,17 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "NOVAX",
     "items": [
-      {
+		 {
         "name": "PLAYBOY",
-        "url": "http://38.226.49.253:8000/play/a0e6/index.m3u8",
+        "flow":"yes",
         "nsfw": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+		"url2": "http://38.226.49.253:8000/play/a0e6/index.m3u8",	 
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/PzQYG9qt/image.png"
       },
       {
@@ -3045,7 +3040,6 @@
         "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png"
       },
-     
       {
         "name": "VENUS",
         "flow":"yes",
@@ -3086,15 +3080,15 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "EVENTOS TESTING",
+        "name": "VS SPORTS - SIN SEÑAL",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
          "Origin": "https://portal.app.flow.com.ar",
             "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png"
       },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
