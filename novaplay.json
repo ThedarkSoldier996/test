@@ -3211,7 +3211,7 @@
       {
         "name": "VS SPORTS",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
          "Origin": "https://portal.app.flow.com.ar",
