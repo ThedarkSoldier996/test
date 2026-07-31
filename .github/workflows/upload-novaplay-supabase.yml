@@ -33,18 +33,45 @@ jobs:
           with open(archivo, "r", encoding="utf-8") as f:
               data = json.load(f)
 
-          # Agregar "canal" al comienzo de cada canal
+          numero_canal = 1
+
+          # Recorrer las categorías
           if isinstance(data, list):
-              for numero, canal in enumerate(data, start=1):
-                  if isinstance(canal, dict) and "name" in canal:
-                      nuevo_canal = {
-                          "canal": str(numero)
-                      }
+              for categoria in data:
 
-                      nuevo_canal.update(canal)
+                  if not isinstance(categoria, dict):
+                      continue
 
+                  # Buscar los canales dentro de "items"
+                  items = categoria.get("items")
+
+                  if not isinstance(items, list):
+                      continue
+
+                  for canal in items:
+
+                      if not isinstance(canal, dict):
+                          continue
+
+                      if "name" not in canal:
+                          continue
+
+                      # Crear el nuevo objeto poniendo "canal"
+                      # justo antes de "name"
+                      nuevo_canal = {}
+
+                      for clave, valor in canal.items():
+
+                          if clave == "name":
+                              nuevo_canal["canal"] = str(numero_canal)
+
+                          nuevo_canal[clave] = valor
+
+                      # Reemplazar el canal original
                       canal.clear()
                       canal.update(nuevo_canal)
+
+                      numero_canal += 1
 
           with open(archivo, "w", encoding="utf-8") as f:
               json.dump(
@@ -54,7 +81,7 @@ jobs:
                   indent=2
               )
 
-          print("✔ Números de canal agregados correctamente.")
+          print(f"✔ Se asignaron {numero_canal - 1} canales.")
           EOF
 
       - name: Mostrar JSON modificado
