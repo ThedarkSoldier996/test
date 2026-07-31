@@ -33,22 +33,26 @@ jobs:
           with open(archivo, "r", encoding="utf-8") as f:
               data = json.load(f)
 
-          # Asignar un número consecutivo a cada canal
+          # Agregar "canal" al comienzo de cada canal
           if isinstance(data, list):
               for numero, canal in enumerate(data, start=1):
-                  if isinstance(canal, dict):
-                      canal["canal"] = str(numero)
+                  if isinstance(canal, dict) and "name" in canal:
+                      nuevo_canal = {
+                          "canal": str(numero)
+                      }
 
-          elif isinstance(data, dict):
-              # Si el JSON tiene los canales dentro de una propiedad
-              # llamada "canales"
-              if isinstance(data.get("canales"), list):
-                  for numero, canal in enumerate(data["canales"], start=1):
-                      if isinstance(canal, dict):
-                          canal["canal"] = str(numero)
+                      nuevo_canal.update(canal)
+
+                      canal.clear()
+                      canal.update(nuevo_canal)
 
           with open(archivo, "w", encoding="utf-8") as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
+              json.dump(
+                  data,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
 
           print("✔ Números de canal agregados correctamente.")
           EOF
@@ -75,7 +79,11 @@ jobs:
           }
 
           with open("novaplay.json", "rb") as f:
-              r = requests.post(url, headers=headers, data=f)
+              r = requests.post(
+                  url,
+                  headers=headers,
+                  data=f
+              )
 
           print("Código:", r.status_code)
           print(r.text)
