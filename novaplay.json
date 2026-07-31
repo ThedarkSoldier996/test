@@ -3282,6 +3282,16 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
+			{
+        "name": "TIGO SPORTS test",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+		"type": "CLEARKEY",
+			"drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+		"Origin": "https://www.tigosports.com.py",
+        "Referer": "https://www.tigosports.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/23RHTMbY/image.png"
+      },
 		{
         "name": "FLOW EVENTOS",
         "flow":"yes",	
