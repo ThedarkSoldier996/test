@@ -23,7 +23,40 @@ jobs:
       - name: Instalar Requests
         run: pip install requests
 
-      - name: Subir novaplay.json a Supabase Storage
+      - name: Agregar número de canal
+        run: |
+          python << 'EOF'
+          import json
+
+          archivo = "novaplay.json"
+
+          with open(archivo, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          # Asignar un número consecutivo a cada canal
+          if isinstance(data, list):
+              for numero, canal in enumerate(data, start=1):
+                  if isinstance(canal, dict):
+                      canal["canal"] = str(numero)
+
+          elif isinstance(data, dict):
+              # Si el JSON tiene los canales dentro de una propiedad
+              # llamada "canales"
+              if isinstance(data.get("canales"), list):
+                  for numero, canal in enumerate(data["canales"], start=1):
+                      if isinstance(canal, dict):
+                          canal["canal"] = str(numero)
+
+          with open(archivo, "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print("✔ Números de canal agregados correctamente.")
+          EOF
+
+      - name: Mostrar JSON modificado
+        run: cat novaplay.json
+
+      - name: Subir novaplay.json a Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
