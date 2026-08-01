@@ -319,7 +319,6 @@
       },
       {
         "name": "TV MAX CNEL OVIEDO",
-        "status":"false",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "icono": "https://i.ibb.co/0VCmZngC/image.png"
       },
@@ -431,7 +430,7 @@
       {
         "name": "MITV",
         "icono": "https://i.ibb.co/93ZMbXCy/image.png",
-        "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion"
+        "url": "https://copacogen.desdeparaguay.net/mitv/mitv/chunklist.m3u8?admin=mitvitapua"
       },
       {
         "name": "NEXT",
