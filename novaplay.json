@@ -3307,8 +3307,7 @@
         "icono": "https://i.ibb.co/S4GcVM6S/image.png"
       },
 			{
-        "name": "test tv publica inter",
-		"status":"false",	
+        "name": "test tv publica inter",	
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd",
         "type": "CLEARKEY",
