@@ -308,6 +308,17 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
                  "icono": "https://i.ibb.co/twCgtkSf/image.png"
       },
+		{
+        "name": "TV CAMARA",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+                 "icono": "https://i.ibb.co/VWXFpbxn/image.png"
+      },
       {
         "name": "BRUNO MASI TV",
         "url": "https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8",
