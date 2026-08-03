@@ -3279,14 +3279,14 @@
         "icono": "https://i.ibb.co/S4GcVM6S/image.png"
       },
 		{
-        "name": "TIGO SPORTS - TESTING 001",
+        "name": "TIGO SPORTS opc 2",
         "info": "Eventos",
 		"evento": "eventos1",	
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene/chunks.m3u8",
         "icono": "https://i.ibb.co/zWZDJsLP/file-0000000033ec820eb8d783ff2e0b0a32.png"
       },
 		{
-        "name": "TIGO SPORTS - TESTING",
+        "name": "TIGO SPORTS opc 3",
         "info": "Eventos",
 		"evento": "eventos2",	
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
