@@ -3304,6 +3304,17 @@
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
         "icono": "https://i.ibb.co/zWZDJsLP/file-0000000033ec820eb8d783ff2e0b0a32.png"
       },
+		 {
+        "name": "TV PUBLICA INTERNACIONAL",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd"",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvPublicaInternacional",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/VWcZhDKv/image.png"
+      },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
