@@ -15,6 +15,13 @@
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
 		{
+        "name": "NOVASPORTS",
+        "info": "TIGOSPORTS EVENTOS",
+		"evento": "eventos1",	
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene/chunks.m3u8",
+        "icono": "https://i.ibb.co/zWZDJsLP/file-0000000033ec820eb8d783ff2e0b0a32.png"
+      },
+		{
         "name": "TIGO SPORTS 2",
 		"info": "EVENTOS 2",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
@@ -3329,13 +3336,6 @@
             "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/S4GcVM6S/image.png"
-      },
-		{
-        "name": "TIGO-SPORTS",
-        "info": "Eventos 1 - OPC 2",
-		"evento": "eventos1",	
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene/chunks.m3u8",
-        "icono": "https://i.ibb.co/zWZDJsLP/file-0000000033ec820eb8d783ff2e0b0a32.png"
       },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
