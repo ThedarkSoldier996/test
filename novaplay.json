@@ -1346,6 +1346,17 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/HffHy5CF/image.png"
       },
+		 {
+        "name": "MTV",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_MTV",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/G3tBJXNY/image.png"
+      },
 		{
         "name": "Warner TV",
         "flow":"yes",
@@ -3304,9 +3315,9 @@
         "icono": "https://i.ibb.co/zWZDJsLP/file-0000000033ec820eb8d783ff2e0b0a32.png"
       },
 		  {
-        "name": "MTV",
+        "name": "NBA TV",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NovaChannelTest",
          "Origin": "https://portal.app.flow.com.ar",
