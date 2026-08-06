@@ -453,6 +453,17 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png"
       },
+		  {
+        "name": "TV PUBLICA Internacional",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvPublicaInternacional",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/VWcZhDKv/image.png"
+      },
       {
         "name": "TELEFE",
         "flow":"yes",
@@ -930,18 +941,6 @@
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
       {
-         "name": "ESPN 4 AR",
-        "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-        "url2": "http://38.226.49.253:8000/play/a065/index.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPN4Ar",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
-      },
-		  {
          "name": "ESPN 4 AR",
         "flow":"yes",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
@@ -3307,7 +3306,7 @@
 		  {
         "name": "TV PUBLICA Internacional",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NovaChannelTest",
          "Origin": "https://portal.app.flow.com.ar",
